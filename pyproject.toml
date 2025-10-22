@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "onto-rel-e5"
+version = "0.1.0"
+description = "Ontological Relationship Classifier for Course Titles"
+authors = ["Craig Trim <craigtrim@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.14"
+sentence-transformers = "^5.1.2"
+torch = "^2.9.0"
+openpyxl = "^3.1.5"
+scikit-learn = "^1.7.2"
+pandas = "^2.3.3"
+tqdm = "^4.67.1"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.1.1"
+pytest = "^8.4.2"
+black = "^25.9.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
