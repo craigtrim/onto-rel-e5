@@ -1,0 +1,21 @@
+name: onto-rel-e5
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.4  # or match your CUDA version (12.9 on Sparx)
+  - transformers
+  - datasets
+  - accelerate
+  - scikit-learn
+  - pandas
+  - numpy
+  - matplotlib
+  - openpyxl
+  - faiss-gpu
+  - jupyterlab

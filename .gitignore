@@ -43,7 +43,6 @@ venv.bak/
 # Jupyter Notebook
 .ipynb_checkpoints
 notebooks/.ipynb_checkpoints/
-notebooks/Untitled*.ipynb
 
 # PyTorch/ML Models (large files)
 models/fine_tuned/*/checkpoint-*/
@@ -93,3 +92,4 @@ tmp/
 temp/
 *.tmp
 *.temp
+environment.yml
