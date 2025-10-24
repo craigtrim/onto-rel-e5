@@ -1,0 +1,6 @@
+{
+  "A_is_subclass_of_B": 0,
+  "B_is_subclass_of_A": 1,
+  "equivalent": 2,
+  "unrelated": 3
+}

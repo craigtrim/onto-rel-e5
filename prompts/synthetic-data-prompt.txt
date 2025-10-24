@@ -1,0 +1,60 @@
+You will GENERATE synthetic equivalence pairs between a free-form course/title phrase (A) and its canonical concept label (B). No external data is provided; invent all content.
+
+GOAL
+Produce realistic, domain-diverse pairs where A and B are lexically or conceptually coextensive (same scope/level). Each line is one tab-separated pair: A<TAB>B.
+
+QUANTITY & DIVERSITY
+- Generate 100 pairs.
+- Cover at least 12 distinct domains (e.g., government/policy, law, literature, languages, math/stats, CS/IT, data/AI, business/marketing, health/medicine, psychology, arts/design, music, environmental studies, education/pedagogy, engineering).
+- Ensure no exact-duplicate A or B rows.
+
+EQUIVALENCE (INCLUDE ONLY IF A ≡ B)
+- Rephrasing/ordering: “Animals and Ethics” ≡ “animal ethics”
+- Head inversion that preserves meaning: “Law in Business” ≡ “business law”
+- Morphology variants: plural/singular, gerunds, hyphenation, case changes
+- Minor noise stripped: credits/flags (“(3)”, “(*)”, “[Honors]”, “: A Survey”) when they do NOT change scope
+- Acronyms/expansions: “U.S. Government” ≡ “american government”; “EHR” ≡ “electronic health records” (only when unambiguous)
+- Spelling variants & common misspellings: “Goverment” ≡ “government”
+- Synonymic flips with standard phrasing: “Food Chemistry” ≡ “chemistry of food” ≡ “food chemistry”
+- Canonicalization to a standard noun phrase for B (lowercase unless proper nouns)
+
+EXCLUSIONS (DO NOT GENERATE)
+- Hierarchical narrowing/broadening: “Advanced”, “Applied”, “Topics in”, “I/II/III”, “Lab”, “Workshop”, domain qualifiers (e.g., “Clinical”, “Pediatric”, “Italian”) UNLESS B contains the same qualifier (then it’s not equivalent; avoid).
+- Different domains or facet-adding pairs: “Advertising and Marketing” vs canonical “Advertising” (not equivalent)
+- Sequence/level differences: “Introductory …”, “Honors …”, “Graduate …” vs a plain B
+- Compound vs simple when meaning expands or restricts: “Business Law and Ethics” ≠ “business law”
+
+CANONICAL LABEL (B) RULES
+- Make B concise, unambiguous, and standard (e.g., “american government”, “retail marketing”, “public policy research methods”).
+- Prefer singular noun phrases unless the field is customarily plural (“statistics”, “world literatures” is okay if used consistently).
+- Keep B consistent across multiple A variants within a micro-domain cluster (e.g., several A lines mapping to the same B).
+
+A VARIATION MIX (TARGET DISTRIBUTION)
+- ~30% word-order flips/coordinations (“X and Y” ↔ “Y and X”).
+- ~20% acronyms/expansions (EHR/Electronic Health Records; AI/Artificial Intelligence) when unambiguous.
+- ~20% orthographic/punctuation variants (&, /, :, -, parentheses).
+- ~15% spelling variants/typos that remain clear.
+- ~15% synonymic paraphrases that maintain exact scope.
+
+QUALITY CHECKS BEFORE OUTPUT
+- If a modifier in A changes scope relative to B, discard or adjust to true equivalence.
+- If a pair feels broader/narrower or cross-domain, discard.
+- Ensure each B appears in 1–5 pairs maximum to avoid overconcentration.
+
+OUTPUT FORMAT (MANDATORY)
+- Return ONLY the pairs as tab-separated values, wrapped in triple backticks.
+- No headers, no commentary, no numbering.
+- Preserve original casing for A; use standardized lowercase for B except proper nouns.
+
+EXAMPLES (ILLUSTRATIVE; DO NOT RE-USE VERBATIM)
+Animals and Ethics	animal ethics
+US Government	american government
+Chemistry of Food	food chemistry
+Law in Business	business law
+Editing Video	video editing
+Cross-Cultural Communication	cross cultural communication
+Nutrition and Biochemistry	nutritional biochemistry
+Retailing	retail marketing
+
+NOW GENERATE:
+- 100 synthetic A<TAB>B pairs meeting all rules above.

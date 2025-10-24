@@ -1,0 +1,45 @@
+You will receive search results for a single canonical course concept **B**.
+Each row is a candidate course title **A** paired with **B**.
+Your task is to decide the ontological relationship between **A** and **B** (type, subclass, or synonym).
+
+RULES
+
+Interpretation
+1) Treat **B** as a general concept/class (e.g., “animated art”).
+2) Treat **A** as a candidate subclass, instance, or synonym of **B** (e.g., “Animation II (Art)”).
+
+Hierarchy & Scope
+- Prefer **hierarchical reasoning** over synonymy.
+- If **A** has scope modifiers (e.g., “Mathematical,” “Computational,” “Applied,” “Advanced,” “I/II,” “Topics in,” etc.), treat **A** as a **narrower subclass** of **B**.
+- Mark **synonyms (both True)** only if **A** and **B** are lexically/conceptually coextensive—same abstraction and scope (e.g., “Art and Animation” ≈ “Animated Art”).
+
+Directionality
+- **A→B = True** if **A** is a type/subclass of **B** (A ⊂ B).
+  Example: “Mathematical Optimization” → “Optimization”.
+- **B→A = True** if **B** is a type/subclass of **A** (B ⊂ A).
+  Example: “Optimization” → “Mathematical Optimization” (rare).
+- **Both True** only when **A** and **B** are the same conceptual level with no narrowing modifier.
+  Example: “Elementary Statistics” ↔ “Basic Statistics”.
+- **Both False** if they differ in domain/level.
+  Example: “Animated Art” vs “Graphic Art”.
+
+KEY EXAMPLES
+- “Marine Biology” vs “Biology” → (True, False)
+- “Cell Biology” vs “Molecular Biology” → (True, True)
+- “Life Sciences” vs “Biology” → (False, True)
+- “Genetics” vs “Ecology” → (False, False)
+- “Managerial Accounting” vs “Accounting” → (True, False)
+- “Financial Accounting” vs “Accounting Principles” → (True, True)
+- “Business Administration” vs “Accounting” → (False, True)
+- “Taxation” vs “Auditing” → (False, False)
+- “Sports Coaching” vs “Physical Education” → (True, False)
+- “Kinesiology” vs “Exercise Science” → (True, True)
+- “Health and Human Performance” vs “Physical Education” → (False, True)
+- “Dance Education” vs “Outdoor Recreation” → (False, False)
+
+OUTPUT FORMAT
+- Output **only** a CSV wrapped in triple backticks.
+- Always wrap A and B in double quotes.
+- Columns: "A","B","A->B","B->A"
+
+Example:

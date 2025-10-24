@@ -1,3 +1,95 @@
-ground_truth_prompt.txt
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Excel temp files
+~$*.xlsx
 ~$Ground Truth.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+notebooks/.ipynb_checkpoints/
+notebooks/Untitled*.ipynb
+
+# PyTorch/ML Models (large files)
+models/fine_tuned/*/checkpoint-*/
+models/fine_tuned/*/pytorch_model.bin
+models/fine_tuned/*/*.safetensors
+models/fine_tuned/*/model-*.safetensors
+models/fine_tuned/*/optimizer.pt
+models/fine_tuned/*/scheduler.pt
+models/fine_tuned/*/rng_state.pth
+models/fine_tuned/*/training_args.bin
+
+# Keep model metadata but not weights
+!models/fine_tuned/*/config.json
+!models/fine_tuned/*/tokenizer*
+!models/fine_tuned/*/*.json
+!models/fine_tuned/*/special_tokens_map.json
+!models/fine_tuned/*/spm.model
+
+# Data files (keep raw, ignore processed)
+data/processed/
+data/interim/
+# Keep data/raw/ for small reference files
+
+# Logs and temp files
+logs/
+*.log
+wandb/
+tensorboard_logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Poetry (optional - some teams include poetry.lock, others don't)
+# poetry.lock
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
