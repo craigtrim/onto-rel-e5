@@ -722,84 +722,112 @@
 {"text": "A: Digital Art, Video and Animation II\nB: animated art", "label": "A_is_subclass_of_B"}
 {"text": "A: MBA Public Admin Internship\nB: executive mba program", "label": "A_is_subclass_of_B"}
 {"text": "A: Introduction to Applied Linguistics\nB: Applied Linguistics", "label": "A_is_subclass_of_B"}
-{"text": "A: Public Policy-Making\nB: Public Policy Research Methods", "label": "unrelated"}
-{"text": "A: History, Theory, and Criticism II: Landscape Architectural History\nB: Landscape Archaeology", "label": "unrelated"}
-{"text": "A: Jazz Major Ensemble\nB: Jazz Orchestra", "label": "unrelated"}
-{"text": "A: Ag Engineering Technology I\nB: avaiation technology", "label": "unrelated"}
-{"text": "A: Foundations of Recreational Therapy\nB: Adventure Therapy", "label": "unrelated"}
-{"text": "A: Computer Technology\nB: avaiation technology", "label": "unrelated"}
-{"text": "A: Recreational Therapy in Behavioral Health\nB: Adventure Therapy", "label": "unrelated"}
-{"text": "A: Digital Networks and Cybersecurity\nB: Digital Network Intelligence", "label": "unrelated"}
-{"text": "A: Writing the Sacred\nB: Sacred Landscapes", "label": "unrelated"}
-{"text": "A: Intro to Contemporary Italy\nB: Italian Music", "label": "unrelated"}
-{"text": "A: Integrated Science and Mathematics\nB: Integration of Technology in Math", "label": "unrelated"}
-{"text": "A: Introduction to Speech Sound Disorders\nB: Developed Speech Disorder", "label": "unrelated"}
-{"text": "A: Computer Technologies\nB: avaiation technology", "label": "unrelated"}
-{"text": "A: Intermediate Tai Chi\nB: Qigong", "label": "unrelated"}
-{"text": "A: Logic Design I\nB: Modal Logic", "label": "unrelated"}
-{"text": "A: Tai Chi Chuan: Chinese Classical Exercise\nB: Qigong", "label": "unrelated"}
-{"text": "A: Computer and Data Networks\nB: Digital Network Intelligence", "label": "unrelated"}
-{"text": "A: Fitness Bootcamp\nB: Basecamp", "label": "unrelated"}
-{"text": "A: Social Media Bootcamp\nB: Basecamp", "label": "unrelated"}
-{"text": "A: OT Bootcamp\nB: Basecamp", "label": "unrelated"}
-{"text": "A: Foundations of Occupational Therapy\nB: Occupational Medicine", "label": "unrelated"}
-{"text": "A: Automotive Management\nB: Automotive Design", "label": "unrelated"}
-{"text": "A: History of Geography\nB: World History and Geography", "label": "unrelated"}
-{"text": "A: Yoga Therapy\nB: acupuncture", "label": "unrelated"}
-{"text": "A: Spanish Semantics and Pragmatics\nB: English Pragmatics", "label": "unrelated"}
-{"text": "A: SQ Philosophy of Science\nB: Acquatic Science", "label": "unrelated"}
+{"text": "A: Research Design and Methods for Social Policy\nB: Public Policy Research Methods", "label": "unrelated"}
+{"text": "A: Astrophysics\nB: Culinary Fundamentals", "label": "unrelated"}
+{"text": "A: Oil Painting\nB: Corporate Finance", "label": "unrelated"}
+{"text": "A: Microsoft Access\nB: Access Control", "label": "unrelated"}
 {"text": "A: Climate, Risk, and Adaptation\nB: Environmental Adaptation", "label": "unrelated"}
-{"text": "A: New Technology I\nB: avaiation technology", "label": "unrelated"}
-{"text": "A: Topics in Automotive Technology\nB: Automotive Design", "label": "unrelated"}
-{"text": "A: Historical Geography\nB: World History and Geography", "label": "unrelated"}
-{"text": "A: Weight and Circuit Training\nB: balance training", "label": "unrelated"}
+{"text": "A: Introduction to Automotive Technology\nB: Automotive Design", "label": "unrelated"}
+{"text": "A: Human Landscapes\nB: Sacred Landscapes", "label": "unrelated"}
+{"text": "A: Plant Biology\nB: Software Engineering", "label": "unrelated"}
+{"text": "A: Medieval Literature\nB: Data Mining", "label": "unrelated"}
+{"text": "A: Experimental Physics\nB: Restaurant Design", "label": "unrelated"}
+{"text": "A: Jazz Piano\nB: Corporate Taxation", "label": "unrelated"}
+{"text": "A: Art and the Sacred\nB: Sacred Landscapes", "label": "unrelated"}
+{"text": "A: Archaeological Theory\nB: Vocal Performance", "label": "unrelated"}
+{"text": "A: Intro to Speech Disorders\nB: Developed Speech Disorder", "label": "unrelated"}
+{"text": "A: Inorganic Chemistry\nB: Financial Analysis", "label": "unrelated"}
 {"text": "A: Ovrview Occup Therapy Practice\nB: acupuncture", "label": "unrelated"}
-{"text": "A: Differential Geometry\nB: Nonlinear Geometry", "label": "unrelated"}
-{"text": "A: Plumbing and Pipefitting Fundamentals\nB: Pipeline Engineering", "label": "unrelated"}
-{"text": "A: Pipe Drafting\nB: Pipeline Engineering", "label": "unrelated"}
-{"text": "A: Advanced Tai Chi\nB: Qigong", "label": "unrelated"}
-{"text": "A: Optical Technology I\nB: avaiation technology", "label": "unrelated"}
-{"text": "A: Theory of Music\nB: Blues Music Theory", "label": "unrelated"}
-{"text": "A: Concert Jazz Ensemble\nB: Jazz Orchestra", "label": "unrelated"}
-{"text": "A: Renaissance Music\nB: Italian Music", "label": "unrelated"}
-{"text": "A: Theriogenology\nB: Dendrochronology", "label": "unrelated"}
-{"text": "A: Sustainability in Action\nB: Sustainability Policy", "label": "unrelated"}
-{"text": "A: Environmental Change\nB: Environmental Adaptation", "label": "unrelated"}
-{"text": "A: Sacred Art\nB: Sacred Landscapes", "label": "unrelated"}
-{"text": "A: Advanced Geometry\nB: Nonlinear Geometry", "label": "unrelated"}
-{"text": "A: Sacred Doctrine\nB: Sacred Activism", "label": "unrelated"}
-{"text": "A: Evolution, Ecol and Adaptation\nB: Environmental Adaptation", "label": "unrelated"}
-{"text": "A: Music Theory I\nB: Blues Music Theory", "label": "unrelated"}
-{"text": "A: IS Security\nB: Human Security", "label": "unrelated"}
-{"text": "A: Cloud Computing\nB: Cloud Networking", "label": "unrelated"}
+{"text": "A: Abnormal Psychology\nB: Web Design", "label": "unrelated"}
+{"text": "A: Industrial Piping\nB: Pipeline Engineering", "label": "unrelated"}
+{"text": "A: Journal Club\nB: Media Club", "label": "unrelated"}
+{"text": "A: Ensemble: Jazz Band\nB: Jazz Orchestra", "label": "unrelated"}
+{"text": "A: Tube and Piping Skills\nB: Pipeline Engineering", "label": "unrelated"}
+{"text": "A: Photography Studio\nB: Software Design", "label": "unrelated"}
+{"text": "A: Psychophysiology\nB: Neurophysiology", "label": "unrelated"}
 {"text": "A: Industrial Technology\nB: avaiation technology", "label": "unrelated"}
-{"text": "A: History and Nature of Geography\nB: World History and Geography", "label": "unrelated"}
-{"text": "A: Machine Shop Fundamentals\nB: auto shop class", "label": "unrelated"}
-{"text": "A: Introduction to Microsoft Access\nB: Access Control", "label": "unrelated"}
-{"text": "A: Intermediate Weight Training\nB: balance training", "label": "unrelated"}
-{"text": "A: Machine Shop Practice\nB: auto shop class", "label": "unrelated"}
-{"text": "A: Technology and Techniques\nB: avaiation technology", "label": "unrelated"}
-{"text": "A: Transformative Forces\nB: Force", "label": "unrelated"}
-{"text": "A: Introduction to Machine Shop\nB: auto shop class", "label": "unrelated"}
-{"text": "A: Operations and Technology\nB: avaiation technology", "label": "unrelated"}
-{"text": "A: Advocating for Sustainability\nB: Sustainability Policy", "label": "unrelated"}
-{"text": "A: Information Based Management\nB: Information Management", "label": "unrelated"}
-{"text": "A: Vascular Clinical II\nB: Vascular Surgery", "label": "unrelated"}
-{"text": "A: Sustainability Strategy\nB: Sustainability Policy", "label": "unrelated"}
-{"text": "A: Jazz Arranging and Orchestration\nB: Jazz Orchestra", "label": "unrelated"}
-{"text": "A: Logic Design\nB: Modal Logic", "label": "unrelated"}
-{"text": "A: Piping, Tubing Systems and Pipefitting\nB: Pipeline Engineering", "label": "unrelated"}
-{"text": "A: Consumer Marketing\nB: Retail Marketing", "label": "unrelated"}
-{"text": "A: Advanced Italian Composition\nB: Italian Music", "label": "unrelated"}
+{"text": "A: Recreational Therapy Management I\nB: Adventure Therapy", "label": "unrelated"}
+{"text": "A: Plumbing and Pipefitting Fundamentals\nB: Pipeline Engineering", "label": "unrelated"}
+{"text": "A: Weight Training\nB: balance training", "label": "unrelated"}
+{"text": "A: Unequal Spaces\nB: Metric Space Theory", "label": "unrelated"}
+{"text": "A: Tourism\nB: Pilgrimage", "label": "unrelated"}
+{"text": "A: Healthcare Education\nB: Health Education", "label": "unrelated"}
 {"text": "A: Tabata\nB: Tabla Studies", "label": "unrelated"}
-{"text": "A: Web Intelligence and Analytics\nB: Digital Network Intelligence", "label": "unrelated"}
-{"text": "A: Modeling\nB: Geometric Modeling", "label": "unrelated"}
-{"text": "A: Medical Conditions in Occupational Therapy\nB: Occupational Medicine", "label": "unrelated"}
+{"text": "A: Jazz Ensemble (Music)\nB: Jazz Orchestra", "label": "unrelated"}
+{"text": "A: Integrated Science / Mathematics\nB: Integration of Technology in Math", "label": "unrelated"}
+{"text": "A: Marching Band Camp\nB: Basecamp", "label": "unrelated"}
+{"text": "A: Automotive Management\nB: Automotive Design", "label": "unrelated"}
+{"text": "A: Introduction to Automotive Retailing\nB: auto shop class", "label": "unrelated"}
+{"text": "A: Fitness: Weight Training\nB: balance training", "label": "unrelated"}
+{"text": "A: Italian Renaissance\nB: Database Design", "label": "unrelated"}
+{"text": "A: Recreational Therapy in Behavioral Health\nB: Adventure Therapy", "label": "unrelated"}
+{"text": "A: Spanish Morphology\nB: Italian Morphology", "label": "unrelated"}
+{"text": "A: Analytical Geometry\nB: Nonlinear Geometry", "label": "unrelated"}
+{"text": "A: Exploring Archaeology\nB: Landscape Archaeology", "label": "unrelated"}
+{"text": "A: Analytical Chemistry\nB: Landscape Design", "label": "unrelated"}
+{"text": "A: Drawing Techniques\nB: Financial Management", "label": "unrelated"}
+{"text": "A: Developmental and Acquired Motor Speech Disorders\nB: Developed Speech Disorder", "label": "unrelated"}
+{"text": "A: Directed Research Anthropology\nB: Anthropology Of Innovation", "label": "unrelated"}
+{"text": "A: Camp and Retreat Management\nB: Retreat", "label": "unrelated"}
+{"text": "A: Experimental Psychology\nB: Restaurant Planning", "label": "unrelated"}
+{"text": "A: Advanced Cardiovascular Procedures\nB: Vascular Surgery", "label": "unrelated"}
+{"text": "A: History, Theory, and Criticism II: Landscape Architectural History\nB: Landscape Archaeology", "label": "unrelated"}
+{"text": "A: Vascular Imaging and Advanced Patient Care\nB: Vascular Surgery", "label": "unrelated"}
+{"text": "A: Retreat Planning: Theology and Practice\nB: Retreat", "label": "unrelated"}
+{"text": "A: Contemporary Poetry\nB: Network Protocols", "label": "unrelated"}
 {"text": "A: Health Science Informatics\nB: Public Health Informatics", "label": "unrelated"}
+{"text": "A: Mandarin Chinese\nB: Sports Medicine", "label": "unrelated"}
+{"text": "A: Organic Chemistry Lab\nB: Medieval Philosophy", "label": "unrelated"}
+{"text": "A: Drama Production\nB: Investment Analysis", "label": "unrelated"}
+{"text": "A: Domestic Security\nB: Human Security", "label": "unrelated"}
+{"text": "A: Taijutsu\nB: Qigong", "label": "unrelated"}
+{"text": "A: Statistical Modeling\nB: Theater Lighting", "label": "unrelated"}
+{"text": "A: Automotive Technology Intro\nB: Automotive Design", "label": "unrelated"}
+{"text": "A: Contemporary Music Theory\nB: Blues Music Theory", "label": "unrelated"}
+{"text": "A: Effective Listening\nB: Effective Speaking", "label": "unrelated"}
+{"text": "A: Therapeutic Massage\nB: acupuncture", "label": "unrelated"}
+{"text": "A: Geometry\nB: Nonlinear Geometry", "label": "unrelated"}
+{"text": "A: Science Inquiry II\nB: Acquatic Science", "label": "unrelated"}
+{"text": "A: Workflow Intro Deve Pipelines\nB: Pipeline Engineering", "label": "unrelated"}
+{"text": "A: Special Topics in Automotive Technology\nB: Automotive Design", "label": "unrelated"}
+{"text": "A: Modern Theater\nB: Industrial Planning", "label": "unrelated"}
+{"text": "A: Basketball Coaching\nB: Database Design", "label": "unrelated"}
+{"text": "A: Organic Chemistry\nB: Art History", "label": "unrelated"}
+{"text": "A: Market Research\nB: Classical Guitar", "label": "unrelated"}
+{"text": "A: Scientific Inquiry II\nB: Acquatic Science", "label": "unrelated"}
+{"text": "A: US National Security\nB: Human Security", "label": "unrelated"}
+{"text": "A: Digital Networks and Cybersecurity\nB: Digital Network Intelligence", "label": "unrelated"}
+{"text": "A: Networks and Data Coma\nB: Digital Network Intelligence", "label": "unrelated"}
+{"text": "A: Radio Boot Camp\nB: Basecamp", "label": "unrelated"}
+{"text": "A: Cell Development\nB: Interior Engineering", "label": "unrelated"}
+{"text": "A: African Cultures\nB: African Civilization", "label": "unrelated"}
+{"text": "A: Application of Differential Instruction\nB: Differential Equations Instruction", "label": "unrelated"}
+{"text": "A: Personal Security\nB: Human Security", "label": "unrelated"}
+{"text": "A: Introduction to the History of Landscape Architecture\nB: Landscape Archaeology", "label": "unrelated"}
+{"text": "A: New Technology I\nB: avaiation technology", "label": "unrelated"}
+{"text": "A: Italian Composition in Cultural Contexts\nB: Italian Music", "label": "unrelated"}
+{"text": "A: Basic Piping for Contractors\nB: Pipeline Engineering", "label": "unrelated"}
+{"text": "A: Machine Shop Practices\nB: auto shop class", "label": "unrelated"}
+{"text": "A: Health Informatics Systems\nB: Public Health Informatics", "label": "unrelated"}
+{"text": "A: Molecular Genetics\nB: Retail Operations", "label": "unrelated"}
+{"text": "A: Basic Machine Shop\nB: auto shop class", "label": "unrelated"}
+{"text": "A: Spec Topics Occup Therapy III\nB: acupuncture", "label": "unrelated"}
+{"text": "A: Cloud Services\nB: Cloud Networking", "label": "unrelated"}
+{"text": "A: Journey Through World Religions\nB: Pilgrimage", "label": "unrelated"}
+{"text": "A: Film Analysis\nB: Industrial Psychology", "label": "unrelated"}
+{"text": "A: Nutrition Science\nB: Graphic Design", "label": "unrelated"}
+{"text": "A: Nature as Sacred Text\nB: Sacred Landscapes", "label": "unrelated"}
+{"text": "A: Networked Information Systems\nB: Digital Network Intelligence", "label": "unrelated"}
+{"text": "A: Immunology\nB: Landscape Architecture", "label": "unrelated"}
+{"text": "A: Human Rights and Security\nB: Human Security", "label": "unrelated"}
+{"text": "A: Weight Training, Experienced\nB: balance training", "label": "unrelated"}
 {"text": "A: Introduction to Geometry\nB: Nonlinear Geometry", "label": "unrelated"}
 {"text": "A: Landscapes, Cultures, and the Environment\nB: Sacred Landscapes", "label": "unrelated"}
 {"text": "A: Machine Shop Technology\nB: auto shop class", "label": "unrelated"}
+{"text": "A: Jazz Ensemble I\nB: Jazz Orchestra", "label": "unrelated"}
 {"text": "A: Spec Topics Occup Therapy I\nB: acupuncture", "label": "unrelated"}
+{"text": "A: Comparative Politics\nB: Floral Design", "label": "unrelated"}
+{"text": "A: Sculpture Studio\nB: Criminal Law", "label": "unrelated"}
 {"text": "A: Advanced Camp\nB: Basecamp", "label": "unrelated"}
 {"text": "A: Vascular Physiology\nB: Vascular Surgery", "label": "unrelated"}
 {"text": "A: Organization and Access\nB: Access Control", "label": "unrelated"}
@@ -807,811 +835,972 @@
 {"text": "A: Jc-Tv Bootcamp\nB: Basecamp", "label": "unrelated"}
 {"text": "A: Clinical Vascular I\nB: Vascular Surgery", "label": "unrelated"}
 {"text": "A: Science Laboratory\nB: biology laboratory", "label": "unrelated"}
+{"text": "A: Comparative Religion\nB: Mechanical Systems", "label": "unrelated"}
 {"text": "A: Force and World Politics\nB: Force", "label": "unrelated"}
 {"text": "A: Personnel Security\nB: Human Security", "label": "unrelated"}
 {"text": "A: Medical Perspectives in Occupational Therapy\nB: Occupational Medicine", "label": "unrelated"}
 {"text": "A: Speaking Skills\nB: Effective Speaking", "label": "unrelated"}
+{"text": "A: Physical Geography\nB: Software Development", "label": "unrelated"}
+{"text": "A: Tabata/Fitness Training\nB: Tabla Studies", "label": "unrelated"}
 {"text": "A: Geochronology\nB: Dendrochronology", "label": "unrelated"}
 {"text": "A: Law Enforcement Use of Force\nB: Force", "label": "unrelated"}
+{"text": "A: Immunology Research\nB: Landscape Photography", "label": "unrelated"}
 {"text": "A: Machine Technology I\nB: avaiation technology", "label": "unrelated"}
+{"text": "A: Classical Mythology\nB: Operations Planning", "label": "unrelated"}
 {"text": "A: Clinical Research Methods\nB: Clinical Methods", "label": "unrelated"}
+{"text": "A: Theater Design\nB: Marketing Research", "label": "unrelated"}
+{"text": "A: Violin Technique\nB: Information Systems", "label": "unrelated"}
+{"text": "A: Social Psychology\nB: Mechanical Design", "label": "unrelated"}
+{"text": "A: Public Speaking\nB: Organic Gardening", "label": "unrelated"}
 {"text": "A: Human Ecology and Adaptation\nB: Environmental Adaptation", "label": "unrelated"}
 {"text": "A: Science in the Elementary Curr\nB: Acquatic Science", "label": "unrelated"}
+{"text": "A: Watercolor Techniques\nB: Information Theory", "label": "unrelated"}
 {"text": "A: Business Data Pipelines\nB: Pipeline Engineering", "label": "unrelated"}
 {"text": "A: Ecology and Adaptation\nB: Environmental Adaptation", "label": "unrelated"}
-{"text": "A: Jazz Ensemble I\nB: Jazz Orchestra", "label": "unrelated"}
+{"text": "A: Behavioral Research\nB: Landscape Engineering", "label": "unrelated"}
 {"text": "A: Modern Geometry\nB: Nonlinear Geometry", "label": "unrelated"}
 {"text": "A: Learning in Science\nB: Introductory Science", "label": "unrelated"}
 {"text": "A: Integrating Math and Science\nB: Integration of Technology in Math", "label": "unrelated"}
 {"text": "A: Strategy for Sustainability\nB: Sustainability Policy", "label": "unrelated"}
+{"text": "A: Political Analysis\nB: Music Engineering", "label": "unrelated"}
+{"text": "A: Sculpture Materials\nB: Public Health", "label": "unrelated"}
 {"text": "A: Recreational Therapy Fieldwork\nB: Adventure Therapy", "label": "unrelated"}
 {"text": "A: Principles of Weight Training and Cross Training\nB: balance training", "label": "unrelated"}
 {"text": "A: Investigating Science\nB: Acquatic Science", "label": "unrelated"}
 {"text": "A: Math and Science Acquistion\nB: Acquatic Science", "label": "unrelated"}
 {"text": "A: Italian Composition Through Film\nB: Italian Music", "label": "unrelated"}
 {"text": "A: Developmental Speech Disorders\nB: Developed Speech Disorder", "label": "unrelated"}
+{"text": "A: Political Economy\nB: Dance Notation", "label": "unrelated"}
+{"text": "A: Dance Performance\nB: Quality Assurance", "label": "unrelated"}
 {"text": "A: Computer and Information Networks\nB: Digital Network Intelligence", "label": "unrelated"}
 {"text": "A: Automotive Fundamentals\nB: Automotive Design", "label": "unrelated"}
-{"text": "A: Body/Mind\nB: Body Mind Centering", "label": "equivalent"}
-{"text": "A: Intercollegiate Athletics\nB: Intercollegiate Athletes", "label": "equivalent"}
-{"text": "A: The Language Arts\nB: Language Arts", "label": "equivalent"}
-{"text": "A: Stage Combat\nB: Combat", "label": "equivalent"}
-{"text": "A: Environment Design\nB: Environmental Design", "label": "equivalent"}
-{"text": "A: Learning and Development\nB: training and development", "label": "equivalent"}
-{"text": "A: Biological and Agricultural Engineering Fundamentals\nB: Agricultural Engineering", "label": "equivalent"}
-{"text": "A: Applied Data Analytics\nB: Applied Analytics", "label": "equivalent"}
-{"text": "A: Architectural Design Concepts\nB: Architectural Design", "label": "equivalent"}
-{"text": "A: Performing Arts Administration\nB: Arts Administration", "label": "equivalent"}
-{"text": "A: Elementary Probability and Statistics\nB: Elementary Statistics", "label": "equivalent"}
-{"text": "A: Principles of Arts Management and Administration\nB: Arts Administration", "label": "equivalent"}
-{"text": "A: Chemistry and Food\nB: food chemistry", "label": "equivalent"}
+{"text": "A: Creative Poetry\nB: Product Development", "label": "unrelated"}
+{"text": "A: Studies in Tabla\nB: tabla studies", "label": "equivalent"}
 {"text": "A: Semantics\nB: English Semantics", "label": "equivalent"}
-{"text": "A: Food Safety (3)\nB: Food Safety", "label": "equivalent"}
-{"text": "A: Topics in Arts Administration Practice\nB: Arts Administration", "label": "equivalent"}
-{"text": "A: Computational Social Science\nB: Computational Sociology", "label": "equivalent"}
-{"text": "A: Occupational and Environmental Medicine\nB: Occupational Medicine", "label": "equivalent"}
+{"text": "A: Project Management\nB: project management", "label": "equivalent"}
+{"text": "A: ML Techniques\nB: machine learning", "label": "equivalent"}
+{"text": "A: Accounting (Financial)\nB: financial accounting", "label": "equivalent"}
+{"text": "A: Law in Business\nB: Business Law", "label": "equivalent"}
+{"text": "A: Concepts of Management\nB: Management Concepts", "label": "equivalent"}
+{"text": "A: Communication in Business\nB: business communication", "label": "equivalent"}
+{"text": "A: Multi-Media Production\nB: multimedia production", "label": "equivalent"}
+{"text": "A: Principles of Arts Administration\nB: Arts Administration", "label": "equivalent"}
+{"text": "A: Ecology\nB: ecology", "label": "equivalent"}
+{"text": "A: Engineering of Software\nB: software engineering", "label": "equivalent"}
+{"text": "A: Music Theory\nB: music theory", "label": "equivalent"}
+{"text": "A: Government and Policy\nB: political governance", "label": "equivalent"}
+{"text": "A: World Literatures\nB: World Literature", "label": "equivalent"}
+{"text": "A: Medicine and Ethics\nB: medical ethics", "label": "equivalent"}
+{"text": "A: Chemistry, Organic\nB: organic chemistry", "label": "equivalent"}
+{"text": "A: Mathematics One\nB: Mathematics I", "label": "equivalent"}
+{"text": "A: Arts and Cultural Administration\nB: Arts Administration", "label": "equivalent"}
+{"text": "A: Software Engineering\nB: software engineering", "label": "equivalent"}
+{"text": "A: Healthcare Operation\nB: Healthcare Operations", "label": "equivalent"}
+{"text": "A: Seminar in Philosophy\nB: Philosophy Seminar", "label": "equivalent"}
+{"text": "A: Civil Law\nB: civil law", "label": "equivalent"}
+{"text": "A: Cloud-Based Networking\nB: cloud networking", "label": "equivalent"}
+{"text": "A: Study of Learning\nB: Learning Study", "label": "equivalent"}
+{"text": "A: Psycholgoy Research\nB: psychology research", "label": "equivalent"}
+{"text": "A: Concepts of Art\nB: Art Concepts", "label": "equivalent"}
+{"text": "A: Introduction to Sociology\nB: Sociology Introduction", "label": "equivalent"}
+{"text": "A: Study of Culture\nB: Cultural Study", "label": "equivalent"}
+{"text": "A: Introduction to Applied Analytics\nB: Applied Analytics", "label": "equivalent"}
+{"text": "A: Process Controls\nB: Process Control", "label": "equivalent"}
+{"text": "A: Global Economics\nB: global economics", "label": "equivalent"}
+{"text": "A: Design (Graphic)\nB: graphic design", "label": "equivalent"}
+{"text": "A: Credit Risk\nB: Credit Risk Analysis", "label": "equivalent"}
+{"text": "A: Laboratory in Astronomy\nB: Astronomy Laboratory", "label": "equivalent"}
+{"text": "A: Advanced English\nB: English Advanced", "label": "equivalent"}
+{"text": "A: Theory of Knowledge\nB: Knowledge Theory", "label": "equivalent"}
+{"text": "A: Financial Accounting\nB: financial accounting", "label": "equivalent"}
+{"text": "A: World History and Geography\nB: world history and geography", "label": "equivalent"}
+{"text": "A: Clinical Methodologies\nB: Clinical Methods", "label": "equivalent"}
+{"text": "A: Philosophy One\nB: Philosophy I", "label": "equivalent"}
+{"text": "A: American Legal System\nB: american law", "label": "equivalent"}
+{"text": "A: Retreat and Reflection\nB: retreat", "label": "equivalent"}
+{"text": "A: Essential French\nB: Basic French", "label": "equivalent"}
+{"text": "A: Principles of Marketing\nB: marketing principles", "label": "equivalent"}
+{"text": "A: Applied Accounting Analytics\nB: Applied Analytics", "label": "equivalent"}
+{"text": "A: ANNs\nB: artificial neural networks", "label": "equivalent"}
 {"text": "A: Product Design\nB: accessory design", "label": "equivalent"}
-{"text": "A: Elementary Statistics (A)\nB: Elementary Statistics", "label": "equivalent"}
-{"text": "A: Foundation Art\nB: Art Foundations", "label": "equivalent"}
-{"text": "A: Mathematics Education\nB: Mathematical Education", "label": "equivalent"}
-{"text": "A: Activism\nB: Sacred Activism", "label": "equivalent"}
-{"text": "A: Orientation to Agricultural Engineering\nB: Agricultural Engineering", "label": "equivalent"}
-{"text": "A: Topics in Arts Administration\nB: Arts Administration", "label": "equivalent"}
-{"text": "A: Architectural Design Fundamentals II\nB: Architectural Design", "label": "equivalent"}
-{"text": "A: Communicating in Mathematics\nB: Mathematical Communication", "label": "equivalent"}
-{"text": "A: Arts and Humanities\nB: art humanities", "label": "equivalent"}
-{"text": "A: The Science of Agriculture\nB: Agricultural Science", "label": "equivalent"}
-{"text": "A: Civilizations of Africa\nB: African Civilization", "label": "equivalent"}
-{"text": "A: Applied Business Analytics\nB: Applied Analytics", "label": "equivalent"}
-{"text": "A: Algebra (Mathematics)\nB: Algebra", "label": "equivalent"}
-{"text": "A: Social Activism\nB: Activism and Social Change", "label": "equivalent"}
-{"text": "A: Elementary Statistics - Honors\nB: Elementary Statistics", "label": "equivalent"}
-{"text": "A: Climate Policy\nB: Climate Change Policy", "label": "equivalent"}
-{"text": "A: Elementary Stats\nB: Elementary Statistics", "label": "equivalent"}
-{"text": "A: Overview of Arts Management and Administration\nB: Arts Administration", "label": "equivalent"}
-{"text": "A: Statistics in Behavioral Sciences\nB: Statistics for The Behavioral Sciences", "label": "equivalent"}
-{"text": "A: Elements and Principles of Architectural Design\nB: Architectural Design", "label": "equivalent"}
-{"text": "A: U.S. Government\nB: american government", "label": "equivalent"}
-{"text": "A: Nutrition and Biochemistry\nB: Nutritional Biochemistry", "label": "equivalent"}
-{"text": "A: Biological and Agricultural Engineering Fundamentals II\nB: Agricultural Engineering", "label": "equivalent"}
-{"text": "A: Communication and Advertising\nB: Advertising", "label": "equivalent"}
+{"text": "A: Branding and Development\nB: brand development", "label": "equivalent"}
+{"text": "A: Psychology and Research\nB: research psychology", "label": "equivalent"}
 {"text": "A: Or: Probabilistic Methods\nB: Probabilistic Method", "label": "equivalent"}
-{"text": "A: Law for Business\nB: Business Law", "label": "equivalent"}
-{"text": "A: Management for Healthcare\nB: Healthcare Management", "label": "equivalent"}
+{"text": "A: Statisics Theory\nB: statistics theory", "label": "equivalent"}
+{"text": "A: Class in Physics\nB: Physics Class", "label": "equivalent"}
+{"text": "A: Survey of Psychology\nB: Psychology Survey", "label": "equivalent"}
+{"text": "A: AI Ethics\nB: artificial intelligence ethics", "label": "equivalent"}
+{"text": "A: Studies in Spanish Language\nB: spanish language", "label": "equivalent"}
+{"text": "A: Psychology One\nB: Psychology I", "label": "equivalent"}
+{"text": "A: Advanced Biology\nB: Biology Advanced", "label": "equivalent"}
+{"text": "A: Pedagogy of Science\nB: science pedagogy", "label": "equivalent"}
+{"text": "A: Climate Science\nB: climate science", "label": "equivalent"}
+{"text": "A: Elementary Statistics (A)\nB: Elementary Statistics", "label": "equivalent"}
+{"text": "A: Learning and Development\nB: training and development", "label": "equivalent"}
+{"text": "A: Cross-Cultural Analysis\nB: cross cultural analysis", "label": "equivalent"}
+{"text": "A: Seminar in Politics\nB: Politics Seminar", "label": "equivalent"}
+{"text": "A: Women's Studies\nB: gender studies", "label": "equivalent"}
+{"text": "A: English Course\nB: Course in English", "label": "equivalent"}
+{"text": "A: History of Art\nB: art history", "label": "equivalent"}
+{"text": "A: Introduction to Ethics\nB: Ethics Introduction", "label": "equivalent"}
+{"text": "A: Management and Leadership\nB: leadership management", "label": "equivalent"}
+{"text": "A: Networks and Security\nB: computer networks and security", "label": "equivalent"}
+{"text": "A: Morphology\nB: Italian Morphology", "label": "equivalent"}
+{"text": "A: Business Writing\nB: Writing Business", "label": "equivalent"}
+{"text": "A: Data Analysis Methods\nB: data analysis", "label": "equivalent"}
+{"text": "A: Production and Operations Management\nB: operations management", "label": "equivalent"}
+{"text": "A: Advanced Economics\nB: Economics Advanced", "label": "equivalent"}
+{"text": "A: Grammar of German\nB: german grammar", "label": "equivalent"}
+{"text": "A: Administration (Public)\nB: public administration", "label": "equivalent"}
+{"text": "A: Beginning French\nB: Basic French", "label": "equivalent"}
+{"text": "A: Base Camp\nB: basecamp", "label": "equivalent"}
+{"text": "A: Study of Perception\nB: Perceptual Study", "label": "equivalent"}
+{"text": "A: Accounting (Financial)\nB: financial accounting", "label": "equivalent"}
+{"text": "A: Design and Innovation\nB: innovation design", "label": "equivalent"}
+{"text": "A: Methods of Teaching\nB: Teaching Methods", "label": "equivalent"}
+{"text": "A: Educaton Methods\nB: education methods", "label": "equivalent"}
+{"text": "A: Health Care Administration\nB: Healthcare Administration", "label": "equivalent"}
+{"text": "A: Statistics for the Behavioral Science\nB: Statistics for The Behavioral Sciences", "label": "equivalent"}
+{"text": "A: Elementary Practical Statistics\nB: Elementary Statistics", "label": "equivalent"}
+{"text": "A: Fundamentals of Accounting\nB: Accounting Fundamentals", "label": "equivalent"}
+{"text": "A: Enviornmental Science\nB: environmental science", "label": "equivalent"}
+{"text": "A: Course in Linguistics\nB: Linguistics Course", "label": "equivalent"}
+{"text": "A: Elements of Drama\nB: Drama Elements", "label": "equivalent"}
+{"text": "A: Meditation\nB: Buddhist Meditation", "label": "equivalent"}
+{"text": "A: Class in History\nB: History Class", "label": "equivalent"}
+{"text": "A: Elementary Statistics (Enhanced)\nB: Elementary Statistics", "label": "equivalent"}
+{"text": "A: Brand Development\nB: brand development", "label": "equivalent"}
+{"text": "A: Philosophy of Buddhism\nB: buddhist philosophy", "label": "equivalent"}
+{"text": "A: Study of Behavior\nB: Behavioral Study", "label": "equivalent"}
+{"text": "A: Art Studio\nB: Studio Art", "label": "equivalent"}
+{"text": "A: Honors: Elementary Statistics\nB: Elementary Statistics", "label": "equivalent"}
+{"text": "A: Studies in Sustainability\nB: sustainability studies", "label": "equivalent"}
+{"text": "A: Design (Graphic)\nB: graphic design", "label": "equivalent"}
+{"text": "A: Studies in Postcolonialism\nB: postcolonial studies", "label": "equivalent"}
+{"text": "A: Teaching of History\nB: History Teaching", "label": "equivalent"}
 {"text": "A: Drawing Design\nB: Drawing and Design", "label": "equivalent"}
-{"text": "A: Art and Humanities\nB: art humanities", "label": "equivalent"}
-{"text": "A: Editing for Video\nB: Video Editing", "label": "equivalent"}
-{"text": "A: Italian Morphology\nB: Italian Morphology", "label": "equivalent"}
+{"text": "A: Studies in Gender\nB: gender studies", "label": "equivalent"}
+{"text": "A: Statistics in the Behavioral Sciences\nB: Statistics for The Behavioral Sciences", "label": "equivalent"}
+{"text": "A: Speech Disorder (Developed)\nB: developed speech disorder", "label": "equivalent"}
+{"text": "A: Math\nB: Scientific Math", "label": "equivalent"}
+{"text": "A: Medieval History\nB: History Medieval", "label": "equivalent"}
+{"text": "A: Early Childhood Education\nB: Child Education", "label": "equivalent"}
+{"text": "A: Information Security\nB: information security", "label": "equivalent"}
+{"text": "A: API Integration\nB: application programming interface integration", "label": "equivalent"}
+{"text": "A: Classical Music Theory\nB: Theory of Classical Music", "label": "equivalent"}
+{"text": "A: Addiction\nB: Addictions", "label": "equivalent"}
+{"text": "A: Agricultural Engineering Safety\nB: Agricultural Engineering", "label": "equivalent"}
+{"text": "A: Programming (Computer)\nB: programming", "label": "equivalent"}
+{"text": "A: Introduction to Arts Administration\nB: Arts Administration", "label": "equivalent"}
+{"text": "A: Postcolonialism\nB: Postcolonial Studies", "label": "equivalent"}
+{"text": "A: Design 2D\nB: 2D Design", "label": "equivalent"}
+{"text": "A: Orchestra (Jazz)\nB: jazz orchestra", "label": "equivalent"}
+{"text": "A: Psychology Course\nB: Course in Psychology", "label": "equivalent"}
+{"text": "A: Art History\nB: art history", "label": "equivalent"}
+{"text": "A: Environmental Adaptations\nB: Environmental Adaptation", "label": "equivalent"}
+{"text": "A: Elements of Geography\nB: Geography Elements", "label": "equivalent"}
+{"text": "A: Course in Sociology\nB: Sociology Course", "label": "equivalent"}
+{"text": "A: Computational Social Science\nB: Computational Sociology", "label": "equivalent"}
+{"text": "A: Managerial Accounting\nB: managerial accounting", "label": "equivalent"}
+{"text": "A: Human Resource Management\nB: human resource management", "label": "equivalent"}
+{"text": "A: Management and Information\nB: information management", "label": "equivalent"}
+{"text": "A: Problem-Solving Techniques\nB: problem solving techniques", "label": "equivalent"}
+{"text": "A: Development of Software\nB: software development", "label": "equivalent"}
+{"text": "A: Chemistry Laboratory\nB: Laboratory Chemistry", "label": "equivalent"}
+{"text": "A: Art History, Theory, and Criticism\nB: Art History and Criticism", "label": "equivalent"}
+{"text": "A: Business Communications\nB: business communication", "label": "equivalent"}
+{"text": "A: Cost-Benefit Evaluation\nB: cost benefit evaluation", "label": "equivalent"}
+{"text": "A: Differential Equations\nB: differential equations", "label": "equivalent"}
+{"text": "A: Language: French\nB: french language", "label": "equivalent"}
+{"text": "A: Mathematics Education\nB: Mathematical Education", "label": "equivalent"}
+{"text": "A: Introduction to Arts Administration Management\nB: Arts Administration", "label": "equivalent"}
+{"text": "A: Speech and Communication\nB: effective speaking", "label": "equivalent"}
+{"text": "A: Administrative Law (3)\nB: Administrative Law", "label": "equivalent"}
+{"text": "A: Class in Science\nB: Science Class", "label": "equivalent"}
+{"text": "A: Percussion Studies\nB: tabla studies", "label": "equivalent"}
+{"text": "A: Climate Change Studies\nB: climate change studies", "label": "equivalent"}
+{"text": "A: Biology of Cells\nB: cell biology", "label": "equivalent"}
+{"text": "A: Machine Learning and AI\nB: machine learning and artificial intelligence", "label": "equivalent"}
+{"text": "A: Laboratory in Psychology\nB: Psychology Laboratory", "label": "equivalent"}
+{"text": "A: Literature in English\nB: english literature", "label": "equivalent"}
+{"text": "A: Introductory French\nB: Basic French", "label": "equivalent"}
+{"text": "A: Cross Cultural Communications\nB: Cross Cultural Communication", "label": "equivalent"}
+{"text": "A: Micro Economic Theory\nB: microeconomics", "label": "equivalent"}
+{"text": "A: Psychology of Social Behavior\nB: social psychology", "label": "equivalent"}
+{"text": "A: Studies in Culture\nB: Culture Studies", "label": "equivalent"}
+{"text": "A: Biological and Agricultural Engineering Fundamentals II\nB: Agricultural Engineering", "label": "equivalent"}
+{"text": "A: Chain of Supply Management\nB: supply chain management", "label": "equivalent"}
+{"text": "A: Arts Management\nB: Arts Administration", "label": "equivalent"}
+{"text": "A: Healthcare Management (3)\nB: Healthcare Management", "label": "equivalent"}
+{"text": "A: Business Analytics Applied\nB: Applied Analytics", "label": "equivalent"}
+{"text": "A: English One\nB: English I", "label": "equivalent"}
+{"text": "A: Cross-Cultural Communications\nB: Cross Cultural Communication", "label": "equivalent"}
+{"text": "A: Economics Course\nB: Course in Economics", "label": "equivalent"}
+{"text": "A: Scientific Writing\nB: Writing Scientific", "label": "equivalent"}
 {"text": "A: Labor and Employment Relations\nB: Labor Relations", "label": "equivalent"}
-{"text": "A: Advanced Arts Administration\nB: Arts Administration", "label": "equivalent"}
-{"text": "A: General Elementary Statistics\nB: Elementary Statistics", "label": "equivalent"}
-{"text": "A: Applied Analytics Project\nB: Applied Analytics", "label": "equivalent"}
-{"text": "A: Adaptation\nB: Adaptation Studies", "label": "equivalent"}
-{"text": "A: Foundations of Art\nB: Art Foundations", "label": "equivalent"}
-{"text": "A: Arts Adminstration\nB: Arts Administration", "label": "equivalent"}
-{"text": "A: Administration Law\nB: Administrative Law", "label": "equivalent"}
-{"text": "A: Climate Science\nB: climate studies", "label": "equivalent"}
-{"text": "A: career development\nB: Career Development Transition", "label": "B_is_subclass_of_A"}
-{"text": "A: Clinical Data Analysis\nB: Health Data Analysis and Statistics", "label": "B_is_subclass_of_A"}
-{"text": "A: accessory design\nB: Product Design III", "label": "B_is_subclass_of_A"}
-{"text": "A: Anthropology Of Innovation\nB: Innovation Cultures", "label": "B_is_subclass_of_A"}
-{"text": "A: Probability and Algorithms\nB: Probabilistic Method", "label": "B_is_subclass_of_A"}
-{"text": "A: cosmetology\nB: Introduction to Cosmetology", "label": "B_is_subclass_of_A"}
-{"text": "A: Art History and Criticism\nB: Introduction to Art History and Criticism I", "label": "B_is_subclass_of_A"}
-{"text": "A: Industrial Design\nB: Industrial Design Fundamentls", "label": "B_is_subclass_of_A"}
-{"text": "A: Automotive Design\nB: Automotive Design Experience I", "label": "B_is_subclass_of_A"}
-{"text": "A: Agricultural Engineering\nB: Research in Biological and Agricultural Engineering", "label": "B_is_subclass_of_A"}
-{"text": "A: female athletics\nB: Women in Physical Education and Sports", "label": "B_is_subclass_of_A"}
-{"text": "A: art humanities\nB: Humanities in the World", "label": "B_is_subclass_of_A"}
-{"text": "A: balance training\nB: Principles of Fitness Training", "label": "B_is_subclass_of_A"}
-{"text": "A: Matrix Geometry\nB: Matrix Theory", "label": "B_is_subclass_of_A"}
-{"text": "A: Blues Music Theory\nB: Introduction to Jazz and Blues", "label": "B_is_subclass_of_A"}
-{"text": "A: Credit Risk Analysis\nB: Financial Statement and Credit Analysis", "label": "B_is_subclass_of_A"}
-{"text": "A: Access Control\nB: Introduction to Access", "label": "B_is_subclass_of_A"}
-{"text": "A: Agricultural Engineering\nB: Introduction to Agricultural Engineering Technology", "label": "B_is_subclass_of_A"}
-{"text": "A: Adult Primary Care\nB: Primary Health Care: Adult/Older Adult", "label": "B_is_subclass_of_A"}
-{"text": "A: Nervous System\nB: Mammalian Nervous System", "label": "B_is_subclass_of_A"}
+{"text": "A: Health Care Analytics\nB: Healthcare Analytics", "label": "equivalent"}
+{"text": "A: Careers in Arts Administration\nB: Arts Administration", "label": "equivalent"}
+{"text": "A: PTSD Therapy\nB: post traumatic stress disorder therapy", "label": "equivalent"}
+{"text": "A: Medical Writing\nB: Writing Medical", "label": "equivalent"}
+{"text": "A: Film Production\nB: film production", "label": "equivalent"}
+{"text": "A: Advanced Philosophy\nB: Philosophy Advanced", "label": "equivalent"}
+{"text": "A: Smart Systems\nB: smart systems", "label": "equivalent"}
+{"text": "A: Body/Mind\nB: Body Mind Centering", "label": "equivalent"}
+{"text": "A: Art, Visual\nB: visual arts", "label": "equivalent"}
+{"text": "A: Environmental Science\nB: environmental science", "label": "equivalent"}
+{"text": "A: Retail Marketing\nB: retail marketing", "label": "equivalent"}
+{"text": "A: Federal Government\nB: american government", "label": "equivalent"}
+{"text": "A: Applications of Applied Business Analytics\nB: Applied Analytics", "label": "equivalent"}
+{"text": "A: Activism for Social Change\nB: Activism and Social Change", "label": "equivalent"}
+{"text": "A: Merchandise Planning\nB: merchandising planning", "label": "equivalent"}
+{"text": "A: Design and Art\nB: art design", "label": "equivalent"}
+{"text": "A: Applied Digital Analytics\nB: Applied Analytics", "label": "equivalent"}
+{"text": "A: Science and Technology\nB: Technology and Science", "label": "equivalent"}
+{"text": "A: Spanish Language Studies\nB: spanish language", "label": "equivalent"}
+{"text": "A: Science Laboratory\nB: Laboratory Science", "label": "equivalent"}
+{"text": "A: Graphic Design\nB: graphic design", "label": "equivalent"}
+{"text": "A: Macroeconomic Systems\nB: macroeconomics", "label": "equivalent"}
+{"text": "A: Probability and Statistics\nB: probability and statistics", "label": "equivalent"}
+{"text": "A: Instructional Design\nB: instructional design", "label": "equivalent"}
+{"text": "A: Art History\nB: art history", "label": "equivalent"}
+{"text": "A: Mathematics Course\nB: Course in Mathematics", "label": "equivalent"}
+{"text": "A: Studies in Psychology\nB: Psychology Studies", "label": "equivalent"}
+{"text": "A: Environment Economics\nB: Environmental Economics", "label": "equivalent"}
+{"text": "A: Microeconomic Theory\nB: microeconomics", "label": "equivalent"}
+{"text": "A: Communication and Advertising\nB: Advertising", "label": "equivalent"}
+{"text": "A: 2d-Design\nB: 2D Design", "label": "equivalent"}
+{"text": "A: Developed Speech Disorder\nB: developed speech disorder", "label": "equivalent"}
+{"text": "A: Mathemetics Logic\nB: mathematics logic", "label": "equivalent"}
+{"text": "A: Electrical Engineering\nB: electrical engineering", "label": "equivalent"}
+{"text": "A: Statistics\nB: statistics", "label": "equivalent"}
+{"text": "A: Communications in Mathematics\nB: Mathematical Communication", "label": "equivalent"}
+{"text": "A: Common Law Systems\nB: common law", "label": "equivalent"}
+{"text": "A: History Course\nB: Course in History", "label": "equivalent"}
+{"text": "A: Islamic Thought\nB: islamic thought", "label": "equivalent"}
+{"text": "A: Theory of Microeconomics\nB: microeconomics", "label": "equivalent"}
+{"text": "A: Theory of Pedagogy\nB: pedagogical theory", "label": "equivalent"}
+{"text": "A: Analysis of Music\nB: Music Analysis", "label": "equivalent"}
+{"text": "A: Discrete Logic\nB: Modal Logic", "label": "B_is_subclass_of_A"}
+{"text": "A: government administration\nB: Administrative Agencies", "label": "B_is_subclass_of_A"}
 {"text": "A: Consumer Education\nB: Consumer Skills", "label": "B_is_subclass_of_A"}
-{"text": "A: Integration of Technology\nB: Integration of Technology in Math", "label": "B_is_subclass_of_A"}
-{"text": "A: Social Entrepreneurship\nB: Social Entrepreneurship: From Vision to Manifestation", "label": "B_is_subclass_of_A"}
-{"text": "A: Mathematical Education\nB: Mathematics Curriculum", "label": "B_is_subclass_of_A"}
-{"text": "A: Visual Studies\nB: Visual Studies Thesis Seminar", "label": "B_is_subclass_of_A"}
-{"text": "A: female athletics\nB: Women in Sport", "label": "B_is_subclass_of_A"}
-{"text": "A: The Study of Women and Gender Studies\nB: Gender Studies", "label": "B_is_subclass_of_A"}
-{"text": "A: aerospace\nB: Aerospace Studies II", "label": "B_is_subclass_of_A"}
-{"text": "A: Food and Beverage Management\nB: Food and Beverage Operations Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Monetary Economics\nB: Monetary Economics and Banking", "label": "B_is_subclass_of_A"}
-{"text": "A: animal ethics\nB: Animals and Us: Science, Society, Ethics", "label": "B_is_subclass_of_A"}
-{"text": "A: american government\nB: American Government: The States", "label": "B_is_subclass_of_A"}
-{"text": "A: Dendrochronology\nB: Field Botany and Dendrology", "label": "B_is_subclass_of_A"}
-{"text": "A: Performance Measurement\nB: Methods of Performance Interpreting", "label": "B_is_subclass_of_A"}
-{"text": "A: Theories of Art\nB: Contemporary Art Theory", "label": "B_is_subclass_of_A"}
-{"text": "A: Matrix Geometry\nB: Linear Algebra and Matrix Theory I", "label": "B_is_subclass_of_A"}
-{"text": "A: Speech and Voice Disorders\nB: Developed Speech Disorder", "label": "B_is_subclass_of_A"}
-{"text": "A: Music Technology\nB: Music Technology and Production", "label": "B_is_subclass_of_A"}
-{"text": "A: Activism and Social Change\nB: Social Movements and Community Activism", "label": "B_is_subclass_of_A"}
-{"text": "A: Electronic Media Law\nB: Digital Media Law", "label": "B_is_subclass_of_A"}
-{"text": "A: Brand Development\nB: Brand Development and Customer Exp", "label": "B_is_subclass_of_A"}
-{"text": "A: Neural Networks\nB: Artificial Neural Networks", "label": "B_is_subclass_of_A"}
-{"text": "A: Video Editing\nB: Video Production Editing", "label": "B_is_subclass_of_A"}
-{"text": "A: Wellness Coaching\nB: Integrative Health and Wellness Coaching", "label": "B_is_subclass_of_A"}
-{"text": "A: Statistics for The Behavioral Sciences\nB: Applied Statistics for the Behavioral Sciences", "label": "B_is_subclass_of_A"}
-{"text": "A: Neural Networks\nB: Neural Networks for Computer Vision", "label": "B_is_subclass_of_A"}
-{"text": "A: Leadership Development\nB: Leadership Development and Practice", "label": "B_is_subclass_of_A"}
-{"text": "A: Mathematical Communication\nB: Written and Oral Communication in the Mathematical Sciences", "label": "B_is_subclass_of_A"}
-{"text": "A: Classical Art History\nB: Art History", "label": "B_is_subclass_of_A"}
-{"text": "A: Gifted Child Education\nB: Curriculum and Instruction of Gifted", "label": "B_is_subclass_of_A"}
-{"text": "A: Agricultural Science\nB: Agriculture Technology", "label": "B_is_subclass_of_A"}
-{"text": "A: College Composition\nB: Fundamentals of College Composition", "label": "B_is_subclass_of_A"}
-{"text": "A: career development\nB: Career Development and Employment", "label": "B_is_subclass_of_A"}
-{"text": "A: tutoring\nB: Tutoring in Mathematics", "label": "B_is_subclass_of_A"}
-{"text": "A: Modal Logic\nB: Modal Logic and Metaphysics", "label": "B_is_subclass_of_A"}
-{"text": "A: Food Preparation\nB: Techniques for Healthy and Safe Food Preparation", "label": "B_is_subclass_of_A"}
-{"text": "A: Buddhist Philosophy\nB: Chinese Buddhism", "label": "B_is_subclass_of_A"}
-{"text": "A: Dendrochronology\nB: Field Dendrology", "label": "B_is_subclass_of_A"}
-{"text": "A: Applied Linguistics\nB: Applied English Linguistics", "label": "B_is_subclass_of_A"}
-{"text": "A: Public Health Informatics\nB: Informatics for Health Professionals", "label": "B_is_subclass_of_A"}
-{"text": "A: Business Law\nB: Basic Business Law", "label": "B_is_subclass_of_A"}
-{"text": "A: Applied Linguistics\nB: Introduction to Graduate Study in Applied Linguistics", "label": "B_is_subclass_of_A"}
-{"text": "A: Neurophysiology\nB: Functional Neurophysiology", "label": "B_is_subclass_of_A"}
-{"text": "A: Optimization\nB: Computational Optimization", "label": "B_is_subclass_of_A"}
-{"text": "A: Stage Combat\nB: Stage Combat: Swordplay", "label": "B_is_subclass_of_A"}
-{"text": "A: Administrative Law\nB: Public Administration and Administrative Law", "label": "B_is_subclass_of_A"}
-{"text": "A: Food and Beverage Management\nB: Food and Beverage Outlet Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Neurophysiology\nB: Human Neurophysiology and Anatomy", "label": "B_is_subclass_of_A"}
-{"text": "A: Cybersecurity Administration\nB: Cybersecurity I", "label": "B_is_subclass_of_A"}
-{"text": "A: agricultural economics\nB: Agricultural Economics of Agricultural Markets", "label": "B_is_subclass_of_A"}
-{"text": "A: Politics\nB: Politics in Action", "label": "B_is_subclass_of_A"}
-{"text": "A: Buddhist Philosophy\nB: Buddhist Ethics", "label": "B_is_subclass_of_A"}
-{"text": "A: tutoring\nB: Supervised Tutoring", "label": "B_is_subclass_of_A"}
-{"text": "A: american government\nB: Government in America", "label": "B_is_subclass_of_A"}
-{"text": "A: Food Safety\nB: Food Safety and Security", "label": "B_is_subclass_of_A"}
-{"text": "A: computational algebra\nB: Computational Abstract Algebra", "label": "B_is_subclass_of_A"}
-{"text": "A: Social Policy\nB: Social Policy Issues", "label": "B_is_subclass_of_A"}
-{"text": "A: ESL Teaching Methodologies\nB: Methods and Materials to Teach ESL", "label": "B_is_subclass_of_A"}
-{"text": "A: Business Law\nB: Business Law 1", "label": "B_is_subclass_of_A"}
-{"text": "A: clinical diagnostics\nB: Clinical Practice in Diagnostics", "label": "B_is_subclass_of_A"}
-{"text": "A: Landscape Archaeology\nB: Archaeology and Environment", "label": "B_is_subclass_of_A"}
-{"text": "A: Credit Risk Analysis\nB: Financial Risk Analysis", "label": "B_is_subclass_of_A"}
-{"text": "A: Health Education\nB: Health Education for the School Health Educator", "label": "B_is_subclass_of_A"}
-{"text": "A: Community Outreach\nB: Community Outreach Studio", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Systems\nB: Environmental Systems 1", "label": "B_is_subclass_of_A"}
-{"text": "A: Resource Allocation\nB: Markets and Resource Allocation", "label": "B_is_subclass_of_A"}
-{"text": "A: clinical diagnostics\nB: Clinical Procedures and Diagnostic Testing I", "label": "B_is_subclass_of_A"}
-{"text": "A: executive mba program\nB: Internship for MBA", "label": "B_is_subclass_of_A"}
-{"text": "A: Italian Music\nB: Music and Italian Cinema", "label": "B_is_subclass_of_A"}
-{"text": "A: Asian Poetry\nB: Japanese Poetry and Poetics", "label": "B_is_subclass_of_A"}
-{"text": "A: Food Safety\nB: Produce Food Safety", "label": "B_is_subclass_of_A"}
-{"text": "A: Neural Networks\nB: AI: Neural Networks I", "label": "B_is_subclass_of_A"}
-{"text": "A: Community Outreach\nB: Communications and Community Outreach", "label": "B_is_subclass_of_A"}
-{"text": "A: Adaptation Studies\nB: Art of the Adaptation", "label": "B_is_subclass_of_A"}
-{"text": "A: food chemistry\nB: Cuisine Chemistry", "label": "B_is_subclass_of_A"}
-{"text": "A: Wellness Coaching\nB: Health Coaching", "label": "B_is_subclass_of_A"}
-{"text": "A: Alchemy\nB: Modern Alchemy: Chemistry for Non-Scientists", "label": "B_is_subclass_of_A"}
-{"text": "A: Art History and Criticism\nB: Art Literature and Criticism", "label": "B_is_subclass_of_A"}
-{"text": "A: Biomanufacturing\nB: Essentials of Biotechniques I", "label": "B_is_subclass_of_A"}
-{"text": "A: food chemistry\nB: Chemistry of Food", "label": "B_is_subclass_of_A"}
-{"text": "A: Aboriginal Studies\nB: Indigenous Knowledges and the Sciences", "label": "B_is_subclass_of_A"}
-{"text": "A: Retreat\nB: Retreat I: Team Building", "label": "B_is_subclass_of_A"}
-{"text": "A: Business Law\nB: Business Law II (3)", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Systems\nB: Natural Environmental Systems", "label": "B_is_subclass_of_A"}
-{"text": "A: Epidemiological Research\nB: Research Experience in Epidemiology", "label": "B_is_subclass_of_A"}
-{"text": "A: Advertising\nB: Advertising and Publicity", "label": "B_is_subclass_of_A"}
-{"text": "A: Art History and Criticism\nB: Advanced Studies in Art History and Criticism", "label": "B_is_subclass_of_A"}
-{"text": "A: 2D Design\nB: Fundamentals of 2D Design", "label": "B_is_subclass_of_A"}
-{"text": "A: Art Foundations\nB: Foundations of Art and Design ?", "label": "B_is_subclass_of_A"}
-{"text": "A: Computational Sociology\nB: Organizational Sociology", "label": "B_is_subclass_of_A"}
-{"text": "A: Clinical Methods\nB: Clinical Methods and Procedures: Treatment", "label": "B_is_subclass_of_A"}
-{"text": "A: Scientific Math\nB: Mathematics for Scientists and Engineers", "label": "B_is_subclass_of_A"}
-{"text": "A: Health Education\nB: Issues in Health Education", "label": "B_is_subclass_of_A"}
-{"text": "A: Mathematical Education\nB: Mathematics Education Methods", "label": "B_is_subclass_of_A"}
-{"text": "A: Public Health Informatics\nB: Introduction to Informatics for Public Health", "label": "B_is_subclass_of_A"}
-{"text": "A: Public Health Informatics\nB: Principles of Public Health Informatics", "label": "B_is_subclass_of_A"}
-{"text": "A: Advanced Differentiated Instruction\nB: Differentiated Math Instruction", "label": "B_is_subclass_of_A"}
-{"text": "A: cosmetology\nB: Cosmetology Theory II", "label": "B_is_subclass_of_A"}
-{"text": "A: Sociology\nB: Computational Sociology", "label": "B_is_subclass_of_A"}
-{"text": "A: Matrix Geometry\nB: Matrix Theory and Methods", "label": "B_is_subclass_of_A"}
-{"text": "A: building construction\nB: Building Construction and Methods", "label": "B_is_subclass_of_A"}
-{"text": "A: Resource Allocation\nB: Resource Acquisition and Allocation", "label": "B_is_subclass_of_A"}
-{"text": "A: Statistical Methods in Education\nB: Educational Statistical Methods", "label": "B_is_subclass_of_A"}
-{"text": "A: Agricultural Engineering\nB: Introduction to Agricultural Engineering Lab", "label": "B_is_subclass_of_A"}
-{"text": "A: Agricultural Science\nB: Agricultural Science Capstone", "label": "B_is_subclass_of_A"}
-{"text": "A: Community Outreach\nB: Community Outreach Wellness", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Design\nB: Environmental Research Design", "label": "B_is_subclass_of_A"}
-{"text": "A: Nervous System\nB: Physiology of the Nervous System", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Design\nB: Environmental Engineering Design I", "label": "B_is_subclass_of_A"}
-{"text": "A: Automotive Design\nB: Introduction to Automotive Design", "label": "B_is_subclass_of_A"}
-{"text": "A: Probability, Statistics and Stochastic Methods\nB: Probabilistic Method", "label": "B_is_subclass_of_A"}
-{"text": "A: Pilgrimage\nB: Pilgrimage and Sacred Journeys", "label": "B_is_subclass_of_A"}
-{"text": "A: Ethics in Technology\nB: Ethics and Boundaries in a World of Technology", "label": "B_is_subclass_of_A"}
-{"text": "A: World Literature\nB: World Literature Studies", "label": "B_is_subclass_of_A"}
-{"text": "A: building construction\nB: Construction Structures", "label": "B_is_subclass_of_A"}
-{"text": "A: Automotive Design\nB: Automotive Control", "label": "B_is_subclass_of_A"}
-{"text": "A: Developed Speech Disorder\nB: Acquired Motor Speech Disorders", "label": "B_is_subclass_of_A"}
-{"text": "A: Italian Cuisine\nB: Food for Thought: The Importance of Food in Italian Culture", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Economics\nB: Economics and the Environment", "label": "B_is_subclass_of_A"}
-{"text": "A: animal husbandry\nB: Companion Animal Science and Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Monetary Economics\nB: Seminar in Monetary Economics (3)", "label": "B_is_subclass_of_A"}
-{"text": "A: World History and Geography\nB: World Historical Geography", "label": "B_is_subclass_of_A"}
-{"text": "A: Differential Equations Instruction\nB: Advanced Differential Equations", "label": "B_is_subclass_of_A"}
-{"text": "A: Sustainability Seminar\nB: Seminar: Sustainable Solutions", "label": "B_is_subclass_of_A"}
-{"text": "A: animal husbandry\nB: Gynecology of Large Domestic Animals", "label": "B_is_subclass_of_A"}
-{"text": "A: Adventure Therapy\nB: Wilderness and Experiential Therapy", "label": "B_is_subclass_of_A"}
-{"text": "A: Science Pedagogy\nB: INQUIRY and APPLICATION IN DEVELOPING SCIENCE PEDAGOGY", "label": "B_is_subclass_of_A"}
-{"text": "A: Ethics in Technology\nB: The Future of Technology and Ethics", "label": "B_is_subclass_of_A"}
-{"text": "A: career development\nB: Career Development and Choice", "label": "B_is_subclass_of_A"}
-{"text": "A: acupuncture\nB: Complementary Health Therapies", "label": "B_is_subclass_of_A"}
-{"text": "A: Climate Change Policy\nB: Climate Change and Public Policy", "label": "B_is_subclass_of_A"}
-{"text": "A: Statistical Methods in Education\nB: Statistical Analysis in Educational Research", "label": "B_is_subclass_of_A"}
-{"text": "A: Optimization\nB: Advanced Optimization", "label": "B_is_subclass_of_A"}
-{"text": "A: Linguistics for Teachers\nB: Educational Linguistics for Teachers", "label": "B_is_subclass_of_A"}
-{"text": "A: Cybersecurity Administration\nB: Cybersecurity Engineering", "label": "B_is_subclass_of_A"}
-{"text": "A: Retail Marketing\nB: Retail Marketing Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Occupational Medicine\nB: Topics in Occupational Health", "label": "B_is_subclass_of_A"}
-{"text": "A: Adult Primary Care\nB: Adult Primary Care Ii", "label": "B_is_subclass_of_A"}
-{"text": "A: Adventure Therapy\nB: Adventure-Based Therapy", "label": "B_is_subclass_of_A"}
-{"text": "A: Consumer Education\nB: Consumer Health Education", "label": "B_is_subclass_of_A"}
-{"text": "A: Music Technology\nB: Technology in Music", "label": "B_is_subclass_of_A"}
-{"text": "A: Assessment Strategies\nB: Assessment: Principles and Practices", "label": "B_is_subclass_of_A"}
-{"text": "A: Archaeology\nB: Landscape Archaeology", "label": "B_is_subclass_of_A"}
-{"text": "A: Sustainability Policy\nB: Sustainability Policy and Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Political Activism\nB: Feminist Activism", "label": "B_is_subclass_of_A"}
-{"text": "A: Art History and Criticism\nB: The History of Art", "label": "B_is_subclass_of_A"}
-{"text": "A: Stochastic Process\nB: Stochastic Process II", "label": "B_is_subclass_of_A"}
-{"text": "A: Digital Communications\nB: Advanced Digital Communications", "label": "B_is_subclass_of_A"}
-{"text": "A: Sustainability Policy\nB: Environmental and Sustainability Policy Studies", "label": "B_is_subclass_of_A"}
-{"text": "A: Stochastic Process\nB: Applied Stochastic Processes Ii", "label": "B_is_subclass_of_A"}
-{"text": "A: Science Pedagogy\nB: Pedagogy in Math and Science Education", "label": "B_is_subclass_of_A"}
-{"text": "A: Pain Management\nB: The Clinical Management of Pain", "label": "B_is_subclass_of_A"}
-{"text": "A: Body Mind Centering\nB: Psychology of Mind and Body", "label": "B_is_subclass_of_A"}
-{"text": "A: clinical diagnostics\nB: Clinical Assessment and Diagnosis", "label": "B_is_subclass_of_A"}
-{"text": "A: Clinical Data Analysis\nB: Health Science Data Analysis", "label": "B_is_subclass_of_A"}
-{"text": "A: Italian Morphology\nB: Introduction to Morphology", "label": "B_is_subclass_of_A"}
-{"text": "A: Business Law\nB: Business Law 2", "label": "B_is_subclass_of_A"}
-{"text": "A: Postcolonial Studies\nB: Postcolonial Literature and Theory", "label": "B_is_subclass_of_A"}
-{"text": "A: African Civilization\nB: Survey of African Civilization", "label": "B_is_subclass_of_A"}
-{"text": "A: Speech Disorders Across the Lifespan\nB: Developed Speech Disorder", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Design\nB: Fundamentals of Environmental Design", "label": "B_is_subclass_of_A"}
-{"text": "A: World Literature\nB: World Literature 1", "label": "B_is_subclass_of_A"}
-{"text": "A: career development\nB: Career Development and Placement", "label": "B_is_subclass_of_A"}
-{"text": "A: Credit Risk Analysis\nB: Data Analytics and Credit Risk", "label": "B_is_subclass_of_A"}
-{"text": "A: Nervous System\nB: Systems Neurosciences", "label": "B_is_subclass_of_A"}
-{"text": "A: animal husbandry\nB: Introductory Horse Husbandry", "label": "B_is_subclass_of_A"}
-{"text": "A: Effective Speaking\nB: Fundamentals of Speaking", "label": "B_is_subclass_of_A"}
-{"text": "A: Assessment Strategies\nB: Methods of Assessment", "label": "B_is_subclass_of_A"}
-{"text": "A: art humanities\nB: Humanities Through the Arts", "label": "B_is_subclass_of_A"}
-{"text": "A: Healthcare Administration\nB: Healthcare Administration Practice", "label": "B_is_subclass_of_A"}
-{"text": "A: Media Club\nB: Media Audiences", "label": "B_is_subclass_of_A"}
-{"text": "A: World Literature\nB: Recent World Literature", "label": "B_is_subclass_of_A"}
-{"text": "A: Contemporary Art Theory\nB: Modern and Contemporary Art Theory", "label": "B_is_subclass_of_A"}
-{"text": "A: Analytics\nB: Applied Analytics", "label": "B_is_subclass_of_A"}
-{"text": "A: Anthropology Of Innovation\nB: Anthropology of Technology", "label": "B_is_subclass_of_A"}
-{"text": "A: Child Education\nB: Parent Education", "label": "B_is_subclass_of_A"}
-{"text": "A: Topology in Metric Spaces and Topological Spaces\nB: Metric Space Theory", "label": "B_is_subclass_of_A"}
-{"text": "A: Art History and Criticism\nB: Criticism in Art", "label": "B_is_subclass_of_A"}
-{"text": "A: Mathematical Communication\nB: Mathematics Through Communication", "label": "B_is_subclass_of_A"}
-{"text": "A: food chemistry\nB: Food Chemistry: Lab", "label": "B_is_subclass_of_A"}
-{"text": "A: Political Science\nB: Politics", "label": "B_is_subclass_of_A"}
-{"text": "A: building construction\nB: Architecture and Construction", "label": "B_is_subclass_of_A"}
-{"text": "A: clinical diagnostics\nB: Clinical Diagnostic Methods I", "label": "B_is_subclass_of_A"}
-{"text": "A: animated art\nB: Game Art and Animation Fundamentals", "label": "B_is_subclass_of_A"}
-{"text": "A: Automotive Design\nB: Automotive Engineering", "label": "B_is_subclass_of_A"}
-{"text": "A: Cybersecurity Administration\nB: Cybersecurity Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Dendrochronology\nB: ST: Dendrology Lab", "label": "B_is_subclass_of_A"}
-{"text": "A: acupuncture\nB: Complementary and Alternative Therapy", "label": "B_is_subclass_of_A"}
-{"text": "A: building construction\nB: Building Operations", "label": "B_is_subclass_of_A"}
-{"text": "A: Statistics for The Behavioral Sciences\nB: Statistics for Social and Behavioral Sciences", "label": "B_is_subclass_of_A"}
-{"text": "A: Cloud Networking\nB: Network and Cloud Security", "label": "B_is_subclass_of_A"}
-{"text": "A: Nervous System\nB: Autonomic Nervous System", "label": "B_is_subclass_of_A"}
-{"text": "A: Corporate Compliance\nB: Introduction to Compliance", "label": "B_is_subclass_of_A"}
-{"text": "A: insurance economics\nB: Insurance and Risk Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Probabilistic Method\nB: Bayesian Statistical Methods", "label": "B_is_subclass_of_A"}
-{"text": "A: Optimization\nB: Applied Optimization", "label": "B_is_subclass_of_A"}
-{"text": "A: Music Technology\nB: Modern Music Technology", "label": "B_is_subclass_of_A"}
-{"text": "A: Blues Music Theory\nB: Black American Music Theory", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Adaptation\nB: Climate Change Adaptation", "label": "B_is_subclass_of_A"}
-{"text": "A: Adventure Therapy\nB: Introduction to Adventure Therapy", "label": "B_is_subclass_of_A"}
-{"text": "A: Food Safety\nB: Advanced Food Safety", "label": "B_is_subclass_of_A"}
-{"text": "A: An Introduction to Differentiated Instruction\nB: Differentiated Math Instruction", "label": "B_is_subclass_of_A"}
-{"text": "A: Digital Media Law\nB: Law and Ethics of Digital Media", "label": "B_is_subclass_of_A"}
-{"text": "A: Activism and Social Change\nB: Activism and Social Movements", "label": "B_is_subclass_of_A"}
-{"text": "A: Adult Primary Care\nB: Primary Health Care of the Adult I", "label": "B_is_subclass_of_A"}
-{"text": "A: Art Therapy And Mental Health\nB: Art Therapy: The People, Places, and Practices of Art Therapy", "label": "B_is_subclass_of_A"}
-{"text": "A: animal husbandry\nB: Equine Husbandry Techniques", "label": "B_is_subclass_of_A"}
-{"text": "A: Neurophysiology\nB: Visual Neurophysiology", "label": "B_is_subclass_of_A"}
-{"text": "A: Talent Management\nB: Essentials of Talent Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Scientific Math\nB: Math and Physics", "label": "B_is_subclass_of_A"}
-{"text": "A: Dendrochronology\nB: Introduction to Dendrology: Trees and Shrubs of the Midwest", "label": "B_is_subclass_of_A"}
-{"text": "A: Metric Space Theory\nB: Metric Spaces W/Applica", "label": "B_is_subclass_of_A"}
-{"text": "A: Dendrochronology\nB: Dendrology I", "label": "B_is_subclass_of_A"}
-{"text": "A: executive mba program\nB: MBA Professional Internship", "label": "B_is_subclass_of_A"}
-{"text": "A: Gifted Child Education\nB: Teaching the Gifted Child", "label": "B_is_subclass_of_A"}
-{"text": "A: Healthcare Organizations and Administration\nB: Healthcare Administration", "label": "B_is_subclass_of_A"}
-{"text": "A: Combat for Stage and Screen\nB: Stage Combat", "label": "B_is_subclass_of_A"}
-{"text": "A: Visual Studies\nB: Literature and Visual Studies", "label": "B_is_subclass_of_A"}
-{"text": "A: Sports Medicine\nB: Introduction to Sport Medicine", "label": "B_is_subclass_of_A"}
-{"text": "A: Government Systems\nB: State Political Systems", "label": "B_is_subclass_of_A"}
-{"text": "A: Postcolonial Studies\nB: Advanced Topics in Postcolonial Studies", "label": "B_is_subclass_of_A"}
-{"text": "A: animated art\nB: Animated Films", "label": "B_is_subclass_of_A"}
-{"text": "A: Adaptation Studies\nB: Ecology and Adaptation", "label": "B_is_subclass_of_A"}
-{"text": "A: academic skills coaching\nB: Instructional Coaching and Professional Development", "label": "B_is_subclass_of_A"}
-{"text": "A: Statistics for The Behavioral Sciences\nB: Fundamental Statistics for the Behavioral Sciences", "label": "B_is_subclass_of_A"}
-{"text": "A: Art Foundations\nB: Art and Design Foundations", "label": "B_is_subclass_of_A"}
-{"text": "A: animal husbandry\nB: Animal Care and Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Video Editing\nB: Video Editing II", "label": "B_is_subclass_of_A"}
-{"text": "A: Body Mind Centering\nB: Body-Mind Literacy", "label": "B_is_subclass_of_A"}
-{"text": "A: Gifted Child Education\nB: Teaching Gifted Learners", "label": "B_is_subclass_of_A"}
-{"text": "A: cosmetology\nB: Introduction to Business Practices in Cosmetology", "label": "B_is_subclass_of_A"}
-{"text": "A: Italian Music\nB: Italian for Singers", "label": "B_is_subclass_of_A"}
-{"text": "A: Child Education\nB: Early Childhood Education (BS)", "label": "B_is_subclass_of_A"}
-{"text": "A: Agricultural Science\nB: Introduction to Agricultural Sciences", "label": "B_is_subclass_of_A"}
-{"text": "A: Classical Art History\nB: Special Topics in the History of Art", "label": "B_is_subclass_of_A"}
-{"text": "A: art humanities\nB: Humanities and Fine Arts", "label": "B_is_subclass_of_A"}
-{"text": "A: Agricultural Science\nB: Agricultural Industry Study", "label": "B_is_subclass_of_A"}
-{"text": "A: Matrix Geometry\nB: Linear and Matrix Algebra", "label": "B_is_subclass_of_A"}
-{"text": "A: Labor Relations\nB: Labor Economics and Labor Relations", "label": "B_is_subclass_of_A"}
-{"text": "A: Mathematical Education\nB: Mathematics in General Education", "label": "B_is_subclass_of_A"}
-{"text": "A: acupuncture\nB: Homeopathy for Acupuncturists", "label": "B_is_subclass_of_A"}
-{"text": "A: Mathematical Communication\nB: Mathematical Communication and Technology", "label": "B_is_subclass_of_A"}
-{"text": "A: Neural Networks\nB: Deep Learning Neural Networks", "label": "B_is_subclass_of_A"}
-{"text": "A: Applied Analytics\nB: Business Analytics I", "label": "B_is_subclass_of_A"}
-{"text": "A: Social Policy\nB: Social Welfare Policy", "label": "B_is_subclass_of_A"}
-{"text": "A: Wellness Coaching\nB: Wellness Coaching Techniques", "label": "B_is_subclass_of_A"}
-{"text": "A: Sound Arts\nB: Media Arts I", "label": "B_is_subclass_of_A"}
-{"text": "A: Management/Administration in Healthcare\nB: Healthcare Administration", "label": "B_is_subclass_of_A"}
-{"text": "A: Video Editing\nB: Principles of Video Editing", "label": "B_is_subclass_of_A"}
-{"text": "A: Algebra\nB: Algebra Express", "label": "B_is_subclass_of_A"}
-{"text": "A: College Composition\nB: College Composition I", "label": "B_is_subclass_of_A"}
-{"text": "A: Branding\nB: Brand Development", "label": "B_is_subclass_of_A"}
-{"text": "A: Probability and Statistical Methods\nB: Probabilistic Method", "label": "B_is_subclass_of_A"}
-{"text": "A: Process Control\nB: Basic Process Controls", "label": "B_is_subclass_of_A"}
-{"text": "A: Art History and Criticism\nB: Topics in Theory and Criticism in Art History", "label": "B_is_subclass_of_A"}
-{"text": "A: Statistical Methods in Education\nB: Introduction to Educational Statistics", "label": "B_is_subclass_of_A"}
-{"text": "A: accounting\nB: Accounting Perspectives", "label": "B_is_subclass_of_A"}
-{"text": "A: Business Law\nB: U.S. Business Law", "label": "B_is_subclass_of_A"}
-{"text": "A: Gifted Child Education\nB: Education of the Gifted and Talented", "label": "B_is_subclass_of_A"}
-{"text": "A: Applied Linguistics\nB: Linguistics II", "label": "B_is_subclass_of_A"}
-{"text": "A: Health Services\nB: Health Services Research", "label": "B_is_subclass_of_A"}
-{"text": "A: Logic II\nB: Modal Logic", "label": "B_is_subclass_of_A"}
-{"text": "A: Aboriginal Studies\nB: Indigenous Sociology", "label": "B_is_subclass_of_A"}
-{"text": "A: Social Policy\nB: Social Policy and Social Services", "label": "B_is_subclass_of_A"}
-{"text": "A: Community Outreach\nB: Community Outreach Project III", "label": "B_is_subclass_of_A"}
-{"text": "A: computational algebra\nB: Computation and Algebra Skills", "label": "B_is_subclass_of_A"}
-{"text": "A: acute care\nB: Acute Clinical", "label": "B_is_subclass_of_A"}
-{"text": "A: executive mba program\nB: Corporate Pharmacy MBA APPE", "label": "B_is_subclass_of_A"}
-{"text": "A: Brand Development\nB: Branding and New Product Development", "label": "B_is_subclass_of_A"}
-{"text": "A: Science Pedagogy\nB: Principles of Science Pedagogy", "label": "B_is_subclass_of_A"}
-{"text": "A: Science Pedagogy\nB: Science Pedagogy for Middle Childhood", "label": "B_is_subclass_of_A"}
-{"text": "A: Quality Assurance\nB: Quality Assurance and Performance Improvement", "label": "B_is_subclass_of_A"}
-{"text": "A: Asian Poetry\nB: Modern Asian Literature", "label": "B_is_subclass_of_A"}
-{"text": "A: Clinical Data Analysis\nB: Clinical Data and Analytics", "label": "B_is_subclass_of_A"}
-{"text": "A: Credit Risk Analysis\nB: Commercial Credit Risk Analysis", "label": "B_is_subclass_of_A"}
-{"text": "A: Data Networking\nB: Cloud Networking", "label": "B_is_subclass_of_A"}
-{"text": "A: Applied Linguistics\nB: Research in Applied Linguistics", "label": "B_is_subclass_of_A"}
-{"text": "A: career development\nB: Career Development and Planning", "label": "B_is_subclass_of_A"}
-{"text": "A: Pilgrimage\nB: Finding Your Way: The Camino Pilgrimage", "label": "B_is_subclass_of_A"}
-{"text": "A: climate studies\nB: Introduction to Climate", "label": "B_is_subclass_of_A"}
-{"text": "A: Human Security\nB: Human Security and Awareness", "label": "B_is_subclass_of_A"}
-{"text": "A: female athletics\nB: Intercollegiate Athletics: Women?s Soccer", "label": "B_is_subclass_of_A"}
-{"text": "A: Industrial Hygiene\nB: General Principles of Industrial Hygiene", "label": "B_is_subclass_of_A"}
-{"text": "A: Quality Assurance\nB: Quality Assurance MGMT", "label": "B_is_subclass_of_A"}
-{"text": "A: climate studies\nB: Climate Modeling", "label": "B_is_subclass_of_A"}
-{"text": "A: Classical Art History\nB: Topics in the History of Art", "label": "B_is_subclass_of_A"}
-{"text": "A: Buddhist Meditation\nB: Meditation I", "label": "B_is_subclass_of_A"}
-{"text": "A: Activism and Social Change\nB: Protests, Movements and Social Change", "label": "B_is_subclass_of_A"}
-{"text": "A: retail analytics\nB: Advanced Retail Data Analytics", "label": "B_is_subclass_of_A"}
-{"text": "A: Credit Risk Analysis\nB: Financial and Risk Analytics", "label": "B_is_subclass_of_A"}
-{"text": "A: academic skills coaching\nB: Academic Success Coaching", "label": "B_is_subclass_of_A"}
-{"text": "A: insurance economics\nB: The Economics of Healthcare and Health Insurance", "label": "B_is_subclass_of_A"}
-{"text": "A: Statistics for The Behavioral Sciences\nB: Statistics for Behavioral Sciences II", "label": "B_is_subclass_of_A"}
-{"text": "A: Public Health Informatics\nB: Foundation of Public Health Informatics", "label": "B_is_subclass_of_A"}
-{"text": "A: Advertising\nB: Advertising and Promotion", "label": "B_is_subclass_of_A"}
-{"text": "A: Buddhist Meditation\nB: Meditation for Health and Wellness", "label": "B_is_subclass_of_A"}
-{"text": "A: Dendrochronology\nB: Dendrology and Forest Ecology", "label": "B_is_subclass_of_A"}
-{"text": "A: Healthcare Administration\nB: Hospital Administration", "label": "B_is_subclass_of_A"}
-{"text": "A: Buddhist Meditation\nB: Mindfulness and Meditation", "label": "B_is_subclass_of_A"}
-{"text": "A: Climate Change Policy\nB: Climate Change: Policy, Adaptation, and Mitigation", "label": "B_is_subclass_of_A"}
-{"text": "A: Monetary Economics\nB: Monetary Economics and Policy", "label": "B_is_subclass_of_A"}
-{"text": "A: Clinical Data Analysis\nB: Clinical Data Management and Analysis", "label": "B_is_subclass_of_A"}
-{"text": "A: Postcolonial Studies\nB: Postcolonial Studies in Engl", "label": "B_is_subclass_of_A"}
-{"text": "A: Italian Music\nB: Italian in Italy", "label": "B_is_subclass_of_A"}
-{"text": "A: Sports Medicine\nB: Introduction to Sports Medicine", "label": "B_is_subclass_of_A"}
-{"text": "A: Healthcare Management and Operations\nB: Healthcare Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Community Outreach\nB: Seminar on Community Outreach", "label": "B_is_subclass_of_A"}
-{"text": "A: Clinical Methods\nB: Clinical Methods: Observation", "label": "B_is_subclass_of_A"}
-{"text": "A: Corporate Compliance\nB: Corp Compliance Risk Managmnt", "label": "B_is_subclass_of_A"}
-{"text": "A: accessory design\nB: Product Knowledge-Fashion Accessories", "label": "B_is_subclass_of_A"}
-{"text": "A: American Culture\nB: Foundations of American Culture", "label": "B_is_subclass_of_A"}
-{"text": "A: Social Policy\nB: Social Policy Practice", "label": "B_is_subclass_of_A"}
-{"text": "A: Epidemiological Research\nB: Healthcare Research and Epidemiology", "label": "B_is_subclass_of_A"}
-{"text": "A: Talent Management\nB: Managing People: Talent Development", "label": "B_is_subclass_of_A"}
-{"text": "A: female athletics\nB: Intercollegiate Athletics: Women?s Swimming", "label": "B_is_subclass_of_A"}
-{"text": "A: Neurophysiology\nB: Principles of Neurophysiology", "label": "B_is_subclass_of_A"}
-{"text": "A: aerospace\nB: Aerospace Engineering", "label": "B_is_subclass_of_A"}
-{"text": "A: cosmetology\nB: Orientation to the Instruction of Cosmetology", "label": "B_is_subclass_of_A"}
-{"text": "A: biology laboratory\nB: Organismal Biology Laboratory", "label": "B_is_subclass_of_A"}
-{"text": "A: Leading Differentiated Instruction\nB: Differentiated Math Instruction", "label": "B_is_subclass_of_A"}
-{"text": "A: Cybersecurity Administration\nB: Cybersecurity Management and Operations", "label": "B_is_subclass_of_A"}
-{"text": "A: Science Pedagogy\nB: Pedagogy of Scientific Methods and Inquiry", "label": "B_is_subclass_of_A"}
-{"text": "A: aerospace\nB: Aerospace Systems Engineering", "label": "B_is_subclass_of_A"}
-{"text": "A: balance training\nB: Resistance and Stabilization Training", "label": "B_is_subclass_of_A"}
-{"text": "A: Agricultural Science\nB: Introduction to Agricultural Science", "label": "B_is_subclass_of_A"}
-{"text": "A: clinical diagnostics\nB: Diagnostic Aspects", "label": "B_is_subclass_of_A"}
-{"text": "A: Information Management\nB: Information Management Systems", "label": "B_is_subclass_of_A"}
-{"text": "A: Introductory Science\nB: Intro to Science and Technology", "label": "B_is_subclass_of_A"}
-{"text": "A: Gifted Child Education\nB: Education for Gifted and Talented Students", "label": "B_is_subclass_of_A"}
-{"text": "A: animal husbandry\nB: Equine Veterinary Husbandry", "label": "B_is_subclass_of_A"}
-{"text": "A: Information Management\nB: Advanced Information Management", "label": "B_is_subclass_of_A"}
-{"text": "A: art humanities\nB: The Humanities: Art, Culture, and Expression", "label": "B_is_subclass_of_A"}
-{"text": "A: Digital Communications\nB: Digital Systems and Communications", "label": "B_is_subclass_of_A"}
-{"text": "A: Matrix Geometry\nB: Matrix Algebra", "label": "B_is_subclass_of_A"}
-{"text": "A: Stochastic Process\nB: Probability and Stochastic Processes", "label": "B_is_subclass_of_A"}
-{"text": "A: English Semantics\nB: English Linguistics", "label": "B_is_subclass_of_A"}
-{"text": "A: Optimization\nB: Methods of Optimization", "label": "B_is_subclass_of_A"}
-{"text": "A: Agricultural Science\nB: Introduction to Agricultural Science Teaching", "label": "B_is_subclass_of_A"}
-{"text": "A: animal husbandry\nB: Companion Animal Management", "label": "B_is_subclass_of_A"}
-{"text": "A: career development\nB: Introduction to Career Development", "label": "B_is_subclass_of_A"}
-{"text": "A: Consumer Education\nB: Consumer Psychology", "label": "B_is_subclass_of_A"}
-{"text": "A: Health Care Systems and Administration\nB: Healthcare Administration", "label": "B_is_subclass_of_A"}
-{"text": "A: Health Informatics\nB: Public Health Informatics", "label": "B_is_subclass_of_A"}
-{"text": "A: biology laboratory\nB: Laboratory for Biology in Your World", "label": "B_is_subclass_of_A"}
-{"text": "A: ESL Teaching Methodologies\nB: Advanced Methods in Teaching ESL", "label": "B_is_subclass_of_A"}
-{"text": "A: Access Control\nB: Network Security Controls", "label": "B_is_subclass_of_A"}
-{"text": "A: Health Services\nB: Health Care Systems", "label": "B_is_subclass_of_A"}
-{"text": "A: Combat\nB: The History of Warfare", "label": "B_is_subclass_of_A"}
-{"text": "A: Process Control\nB: Process Dynamic Control", "label": "B_is_subclass_of_A"}
-{"text": "A: Retail Marketing\nB: Retail Selling", "label": "B_is_subclass_of_A"}
-{"text": "A: Discourse and Pragmatics\nB: English Pragmatics", "label": "B_is_subclass_of_A"}
-{"text": "A: animated art\nB: Artistic Authoring and Animation", "label": "B_is_subclass_of_A"}
-{"text": "A: Food and Beverage Management\nB: Beverage Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Pilgrimage\nB: Practices and Pilgrimages", "label": "B_is_subclass_of_A"}
-{"text": "A: Wellness Coaching\nB: Found Health and Wellness Coaching", "label": "B_is_subclass_of_A"}
-{"text": "A: Stage Combat\nB: Introductory Stage Combat", "label": "B_is_subclass_of_A"}
-{"text": "A: climate studies\nB: Climate Change Science", "label": "B_is_subclass_of_A"}
-{"text": "A: Art History and Criticism\nB: Seminar in Art History and Criticism", "label": "B_is_subclass_of_A"}
-{"text": "A: Biomanufacturing\nB: Bioengineering Lab", "label": "B_is_subclass_of_A"}
-{"text": "A: insurance economics\nB: Introduction to Insurance", "label": "B_is_subclass_of_A"}
-{"text": "A: acute care\nB: Acute and Complex Care", "label": "B_is_subclass_of_A"}
-{"text": "A: Clinical Studies\nB: Introduction to Clinical Research", "label": "B_is_subclass_of_A"}
-{"text": "A: Stage Combat\nB: Advanced Stage Combat", "label": "B_is_subclass_of_A"}
-{"text": "A: Buddhist Philosophy\nB: Introduction to Buddhism", "label": "B_is_subclass_of_A"}
-{"text": "A: Food and Beverage Management\nB: Management of Food and Beverage Purchasing", "label": "B_is_subclass_of_A"}
-{"text": "A: Industrial Design\nB: Industrial Design IV", "label": "B_is_subclass_of_A"}
-{"text": "A: Persuasive Writing\nB: Persuasive Writing Lab", "label": "B_is_subclass_of_A"}
-{"text": "A: animated art\nB: Animation: Concept Art", "label": "B_is_subclass_of_A"}
-{"text": "A: Integration of Technology in Math\nB: Integrating Technology in Teaching High School Mathematics", "label": "B_is_subclass_of_A"}
-{"text": "A: Applied Linguistics\nB: Applied Linguistics I", "label": "B_is_subclass_of_A"}
-{"text": "A: aerospace\nB: Aeronautics", "label": "B_is_subclass_of_A"}
-{"text": "A: retail analytics\nB: Fundamentals of Retailing", "label": "B_is_subclass_of_A"}
-{"text": "A: Epidemiological Research\nB: Epidemiology and Research Methods", "label": "B_is_subclass_of_A"}
-{"text": "A: Effective Speaking\nB: Effective Speaking Across Audi", "label": "B_is_subclass_of_A"}
-{"text": "A: acupuncture\nB: Exploring Complementary Therapies", "label": "B_is_subclass_of_A"}
-{"text": "A: animal husbandry\nB: Anatomy of Farm and Companion Animals I", "label": "B_is_subclass_of_A"}
-{"text": "A: Social Policy\nB: Social Policy I", "label": "B_is_subclass_of_A"}
-{"text": "A: Effective Speaking\nB: Speaking Strategies", "label": "B_is_subclass_of_A"}
-{"text": "A: Cross Cultural Communication\nB: Cultural Anthropology and Cross-Cultural Communication", "label": "B_is_subclass_of_A"}
-{"text": "A: Geometric Modeling\nB: Geometric Design", "label": "B_is_subclass_of_A"}
-{"text": "A: Sacred Activism\nB: Identity and Activism", "label": "B_is_subclass_of_A"}
-{"text": "A: government administration\nB: Government Agencies", "label": "B_is_subclass_of_A"}
-{"text": "A: Cross Cultural Communication\nB: Introduction to Cross Cultural Communication", "label": "B_is_subclass_of_A"}
-{"text": "A: Matrix Geometry\nB: Linear Algebra and Matrix Theory", "label": "B_is_subclass_of_A"}
-{"text": "A: Biomanufacturing\nB: Cell Culture Biomanufacturing", "label": "B_is_subclass_of_A"}
-{"text": "A: Healthcare Administration and Management\nB: Healthcare Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Stage Combat\nB: Topics in Stage Combat", "label": "B_is_subclass_of_A"}
-{"text": "A: Optimization\nB: Mathematical Optimization Theory", "label": "B_is_subclass_of_A"}
-{"text": "A: Linguistics for Teachers\nB: Teaching Linguistics in Schools", "label": "B_is_subclass_of_A"}
-{"text": "A: Buddhist Meditation\nB: Meditation: Psychological and Buddhist Perspectives", "label": "B_is_subclass_of_A"}
-{"text": "A: Music Technology\nB: Music Technology (Applied)", "label": "B_is_subclass_of_A"}
-{"text": "A: Gifted Child Education\nB: Education for Gifted and Talented", "label": "B_is_subclass_of_A"}
-{"text": "A: Quality Assurance\nB: Quality Assurance I", "label": "B_is_subclass_of_A"}
-{"text": "A: Performance Measurement\nB: Fundamentals of Performance I", "label": "B_is_subclass_of_A"}
-{"text": "A: Community Outreach\nB: Community Outreach Practicum", "label": "B_is_subclass_of_A"}
-{"text": "A: female athletics\nB: Varsity Soccer - Women", "label": "B_is_subclass_of_A"}
-{"text": "A: Science Pedagogy\nB: Science Content Pedagogy", "label": "B_is_subclass_of_A"}
-{"text": "A: Adult Primary Care\nB: Primary Care Adult I", "label": "B_is_subclass_of_A"}
-{"text": "A: Clinical Methods\nB: Introduction to Clinical Methods", "label": "B_is_subclass_of_A"}
-{"text": "A: Architectural Design\nB: Architectural Design 6", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Systems\nB: Special Topics in Environmental Systems", "label": "B_is_subclass_of_A"}
-{"text": "A: Differentiated Instruction\nB: Differentiated Math Instruction", "label": "B_is_subclass_of_A"}
-{"text": "A: Efficient Resource Use\nB: Resource Allocation", "label": "B_is_subclass_of_A"}
-{"text": "A: computational algebra\nB: Computational Finite Mathematics", "label": "B_is_subclass_of_A"}
-{"text": "A: Music Technology\nB: Advanced Music Technology", "label": "B_is_subclass_of_A"}
-{"text": "A: English Semantics\nB: Computational Semantics", "label": "B_is_subclass_of_A"}
-{"text": "A: Mathematics in the Curriculum\nB: Mathematics Curriculum Design", "label": "B_is_subclass_of_A"}
-{"text": "A: Food Safety\nB: Food Safety and Quality: Food Safety Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Basic Elements of Differentiated Instruction\nB: Differentiated Math Instruction", "label": "B_is_subclass_of_A"}
-{"text": "A: Corporate Compliance\nB: Introduction to Corporate Compliance", "label": "B_is_subclass_of_A"}
-{"text": "A: Statistics for The Behavioral Sciences\nB: Statistics for Behavioral Sciences I", "label": "B_is_subclass_of_A"}
-{"text": "A: Basic French\nB: Basic French I for Summer", "label": "B_is_subclass_of_A"}
-{"text": "A: Italian Morphology\nB: Italian and English Diction", "label": "B_is_subclass_of_A"}
-{"text": "A: auto shop class\nB: Auto Shop Essentials", "label": "B_is_subclass_of_A"}
-{"text": "A: Probabilistic Method\nB: Probabilistic Simulation", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Policy and Sustainable Management\nB: Sustainability Policy", "label": "B_is_subclass_of_A"}
-{"text": "A: Performance Measurement\nB: Fundamentals of Performance", "label": "B_is_subclass_of_A"}
-{"text": "A: climate justice\nB: Feminist Environmental and Climate Justice", "label": "B_is_subclass_of_A"}
-{"text": "A: Italian Cuisine\nB: Italian Food Culture", "label": "B_is_subclass_of_A"}
-{"text": "A: Matrix Geometry\nB: Matrix Methods", "label": "B_is_subclass_of_A"}
-{"text": "A: Activism and Social Change\nB: Social Movements and Political Activism", "label": "B_is_subclass_of_A"}
-{"text": "A: ESL Teaching Methodologies\nB: Methods of Teaching ESL/FL", "label": "B_is_subclass_of_A"}
-{"text": "A: Video Editing\nB: Video Production and Editing", "label": "B_is_subclass_of_A"}
-{"text": "A: Brand Strategy\nB: Strategic Brand Positioning", "label": "B_is_subclass_of_A"}
-{"text": "A: Managing Resources\nB: Resource Allocation", "label": "B_is_subclass_of_A"}
-{"text": "A: Landscape Archaeology\nB: Contemporary Archaeology", "label": "B_is_subclass_of_A"}
-{"text": "A: architectural design\nB: Architectural Design IV", "label": "B_is_subclass_of_A"}
-{"text": "A: Agricultural Science\nB: Special Topics in Agricultural Science", "label": "B_is_subclass_of_A"}
-{"text": "A: Leadership Development\nB: Leadership Development and Organizations", "label": "B_is_subclass_of_A"}
-{"text": "A: Social Entrepreneurship\nB: Social Entrepreneurship: Leading Change", "label": "B_is_subclass_of_A"}
-{"text": "A: food chemistry\nB: Food Ingredient Chemistry", "label": "B_is_subclass_of_A"}
-{"text": "A: Resource Management Planning\nB: Resource Allocation", "label": "B_is_subclass_of_A"}
-{"text": "A: Algebra\nB: College Algebra", "label": "B_is_subclass_of_A"}
-{"text": "A: Clinical Data Analysis\nB: Data Analysis in the Health Sciences", "label": "B_is_subclass_of_A"}
-{"text": "A: Climate Change Policy\nB: Climate Change, Adaptation, and Policy", "label": "B_is_subclass_of_A"}
-{"text": "A: Credit Risk Analysis\nB: Credit Analysis and Loan Structures", "label": "B_is_subclass_of_A"}
-{"text": "A: climate justice\nB: Ecological Consciousness and Climate Justice", "label": "B_is_subclass_of_A"}
-{"text": "A: Video Editing\nB: Advanced Video Editing", "label": "B_is_subclass_of_A"}
-{"text": "A: Matrix Geometry\nB: Matrices, Vectors, and Their Application", "label": "B_is_subclass_of_A"}
-{"text": "A: Adaptation Studies\nB: Psychosocial Adaptation", "label": "B_is_subclass_of_A"}
-{"text": "A: Effective Speaking\nB: High Intermediate Speaking", "label": "B_is_subclass_of_A"}
-{"text": "A: Administrative Law\nB: Administrative Law and Government", "label": "B_is_subclass_of_A"}
-{"text": "A: Postcolonial Studies\nB: Postcolonial Literature", "label": "B_is_subclass_of_A"}
-{"text": "A: acute care\nB: Acute Care Theory I", "label": "B_is_subclass_of_A"}
-{"text": "A: animal husbandry\nB: Domestic Animal Production", "label": "B_is_subclass_of_A"}
-{"text": "A: public affairs\nB: American Public Affairs", "label": "B_is_subclass_of_A"}
-{"text": "A: architectural design\nB: Architectural Research", "label": "B_is_subclass_of_A"}
-{"text": "A: Applied Analytics\nB: Applied Analytics and Methods I", "label": "B_is_subclass_of_A"}
-{"text": "A: Dendrochronology\nB: Dendrology Laboratory", "label": "B_is_subclass_of_A"}
-{"text": "A: Labor Relations\nB: Management and Labor Relations", "label": "B_is_subclass_of_A"}
-{"text": "A: animal ethics\nB: Animal Cruelty", "label": "B_is_subclass_of_A"}
-{"text": "A: Applied Methods in Probability and Statistics\nB: Probabilistic Method", "label": "B_is_subclass_of_A"}
-{"text": "A: Industrial Hygiene\nB: Principles of Industrial Hygiene and Occupational Safety", "label": "B_is_subclass_of_A"}
-{"text": "A: Politics\nB: Politics in America", "label": "B_is_subclass_of_A"}
-{"text": "A: Sound Arts\nB: Audio Arts Production I", "label": "B_is_subclass_of_A"}
-{"text": "A: Contemporary Art Theory\nB: Contemporary Art and Theory: Research and Process", "label": "B_is_subclass_of_A"}
-{"text": "A: Visual Studies\nB: Visual Media Studies 2", "label": "B_is_subclass_of_A"}
-{"text": "A: accessory design\nB: Introduction to Product Design", "label": "B_is_subclass_of_A"}
-{"text": "A: Clinical Studies\nB: Clinical Field Study", "label": "B_is_subclass_of_A"}
-{"text": "A: College Composition\nB: College Composition III", "label": "B_is_subclass_of_A"}
-{"text": "A: Postcolonial Studies\nB: Seminar in Postcolonial Studies", "label": "B_is_subclass_of_A"}
-{"text": "A: Neural Networks\nB: Neural Networks and Intelligent Machines", "label": "B_is_subclass_of_A"}
-{"text": "A: Gifted Child Education\nB: Teaching the Gifted Learner", "label": "B_is_subclass_of_A"}
-{"text": "A: Pilgrimage\nB: Early and Medieval Church History and Architecture: Focus on Pilgrimage", "label": "B_is_subclass_of_A"}
-{"text": "A: Quality Assurance\nB: Selected Topics in Quality Assurance", "label": "B_is_subclass_of_A"}
-{"text": "A: Corporate Compliance\nB: Individual Compliance", "label": "B_is_subclass_of_A"}
-{"text": "A: aerospace\nB: Aerospace Design I", "label": "B_is_subclass_of_A"}
-{"text": "A: Culture\nB: American Culture", "label": "B_is_subclass_of_A"}
-{"text": "A: Healthcare Administration\nB: Healthcare Administration Oper", "label": "B_is_subclass_of_A"}
-{"text": "A: Politics and Society\nB: Politics", "label": "B_is_subclass_of_A"}
-{"text": "A: Clinical Data Analysis\nB: Clinical Statistics", "label": "B_is_subclass_of_A"}
-{"text": "A: Addictions\nB: Understanding Addictions", "label": "B_is_subclass_of_A"}
-{"text": "A: Drawing and Design\nB: Technical Drawing and Design I", "label": "B_is_subclass_of_A"}
-{"text": "A: Art Foundations\nB: Foundations of Modern Art", "label": "B_is_subclass_of_A"}
-{"text": "A: Human Adaptation\nB: Environmental Adaptation", "label": "B_is_subclass_of_A"}
-{"text": "A: Linguistics for Teachers\nB: Linguistics for Educators", "label": "B_is_subclass_of_A"}
-{"text": "A: Gender Studies\nB: Gender Studies Elective", "label": "B_is_subclass_of_A"}
-{"text": "A: animal ethics\nB: Sources and Methods: Animals, Persons, and Ethics", "label": "B_is_subclass_of_A"}
-{"text": "A: Applied Linguistics\nB: Applied Linguistics and English Grammar", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Policy, Ecological Economics, and Sustainability\nB: Sustainability Policy", "label": "B_is_subclass_of_A"}
-{"text": "A: Gender Studies\nB: Concepts in Gender Studies", "label": "B_is_subclass_of_A"}
-{"text": "A: tutoring\nB: Tutoring in the Community", "label": "B_is_subclass_of_A"}
-{"text": "A: Buddhist Meditation\nB: Psychology of Meditation", "label": "B_is_subclass_of_A"}
-{"text": "A: Digital Systems\nB: Digital System", "label": "B_is_subclass_of_A"}
-{"text": "A: Neurophysiology\nB: Advanced Neurophysiology", "label": "B_is_subclass_of_A"}
-{"text": "A: food chemistry\nB: Chemistry of Foods", "label": "B_is_subclass_of_A"}
-{"text": "A: Sports Medicine\nB: Applied Sports Medicine", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Systems\nB: Environmental and Ecological Systems", "label": "B_is_subclass_of_A"}
-{"text": "A: Brand Strategy\nB: Strategic Brand Marketing", "label": "B_is_subclass_of_A"}
-{"text": "A: Language Arts\nB: Integration of the Language Arts", "label": "B_is_subclass_of_A"}
-{"text": "A: Applied Analytics\nB: Applied Analytics Project I", "label": "B_is_subclass_of_A"}
-{"text": "A: Epidemiological Research\nB: Human Epidemiology", "label": "B_is_subclass_of_A"}
-{"text": "A: Monetary Economics\nB: Monetary Policy", "label": "B_is_subclass_of_A"}
-{"text": "A: clinical diagnostics\nB: Medical Diagnostics", "label": "B_is_subclass_of_A"}
-{"text": "A: Monetary Economics\nB: Monetary Theory and Policy", "label": "B_is_subclass_of_A"}
-{"text": "A: Postcolonial Studies\nB: Introduction to Postcolonial Studies", "label": "B_is_subclass_of_A"}
-{"text": "A: agricultural economics\nB: Fundamentals of Agricultural Economics", "label": "B_is_subclass_of_A"}
-{"text": "A: ESL Teaching Methodologies\nB: Teaching ESL", "label": "B_is_subclass_of_A"}
-{"text": "A: Cybersecurity Administration\nB: Cybersecurity Management I", "label": "B_is_subclass_of_A"}
-{"text": "A: Science Pedagogy\nB: Science Pedagogy in Early Childhood Education", "label": "B_is_subclass_of_A"}
-{"text": "A: Social Policy\nB: US Social Policy", "label": "B_is_subclass_of_A"}
-{"text": "A: tutoring\nB: Directed Tutoring", "label": "B_is_subclass_of_A"}
-{"text": "A: Scientific Math\nB: Math Methods in Science I", "label": "B_is_subclass_of_A"}
-{"text": "A: Optimization\nB: System Optimization", "label": "B_is_subclass_of_A"}
-{"text": "A: Anthropology\nB: Anthropology Of Innovation", "label": "B_is_subclass_of_A"}
-{"text": "A: Design and Art Theory\nB: Contemporary Art Theory", "label": "B_is_subclass_of_A"}
-{"text": "A: Computational Sociology\nB: Introducing Sociology", "label": "B_is_subclass_of_A"}
-{"text": "A: Cloud Networking\nB: Network/Cloud", "label": "B_is_subclass_of_A"}
-{"text": "A: Credit Risk Analysis\nB: Financial Statement/Risk Analysis", "label": "B_is_subclass_of_A"}
-{"text": "A: 2D Design\nB: Foundations: 2D Design", "label": "B_is_subclass_of_A"}
-{"text": "A: Assessment Strategies\nB: Principles of Assessment", "label": "B_is_subclass_of_A"}
-{"text": "A: Buddhist Meditation\nB: Meditation and Mystical Experience", "label": "B_is_subclass_of_A"}
-{"text": "A: Probabilistic Method\nB: Probabilistic Methods in Mechanical Design", "label": "B_is_subclass_of_A"}
-{"text": "A: Integration of Technology in Math\nB: Integration of Technology in Mathematics Instruction", "label": "B_is_subclass_of_A"}
-{"text": "A: architectural design\nB: Architecture Design I", "label": "B_is_subclass_of_A"}
-{"text": "A: Scientific Math\nB: Mathematics in Biology", "label": "B_is_subclass_of_A"}
-{"text": "A: Digital Marketing\nB: Digital and Content Marketing", "label": "B_is_subclass_of_A"}
-{"text": "A: Business Law\nB: Law in the Business Environment", "label": "B_is_subclass_of_A"}
-{"text": "A: climate studies\nB: Earth Climate Studies", "label": "B_is_subclass_of_A"}
-{"text": "A: Vascular Surgery\nB: Vascular Procedures I", "label": "B_is_subclass_of_A"}
-{"text": "A: Geometric Modeling\nB: Computer-Aided Geometric Design", "label": "B_is_subclass_of_A"}
-{"text": "A: Italian Cuisine\nB: Italian for Business", "label": "B_is_subclass_of_A"}
-{"text": "A: Sports Medicine\nB: Pre-Professional Sports Medicine", "label": "B_is_subclass_of_A"}
-{"text": "A: Music Technology\nB: Music Technology I", "label": "B_is_subclass_of_A"}
-{"text": "A: building construction\nB: Building Design and Construction Practice", "label": "B_is_subclass_of_A"}
-{"text": "A: Voice and Motor Speech Disorders\nB: Developed Speech Disorder", "label": "B_is_subclass_of_A"}
-{"text": "A: Digital Communications\nB: Digital Communications Systems I", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Design\nB: Environmental Systems Design", "label": "B_is_subclass_of_A"}
-{"text": "A: Quality Assurance\nB: Quality Assurance and Total Quality Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Italian Music\nB: Italian Diction/Song Literature", "label": "B_is_subclass_of_A"}
-{"text": "A: Landscape Archaeology\nB: Archaeology Field Project", "label": "B_is_subclass_of_A"}
-{"text": "A: Credit Risk Analysis\nB: Credit Risk Analysis and Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Quality Assurance\nB: Quality Assurance II", "label": "B_is_subclass_of_A"}
-{"text": "A: acute care\nB: Acute Care Theory II", "label": "B_is_subclass_of_A"}
-{"text": "A: Activism and Social Change\nB: Gender, Activism and Social Change (3)", "label": "B_is_subclass_of_A"}
-{"text": "A: animal ethics\nB: Ethics in Animal Research", "label": "B_is_subclass_of_A"}
-{"text": "A: Intercollegiate Athletes\nB: Intercollegiate Athletics MGNT", "label": "B_is_subclass_of_A"}
-{"text": "A: Gifted Child Education\nB: Education of Gifted Learners", "label": "B_is_subclass_of_A"}
-{"text": "A: tutoring\nB: Introduction to Tutoring", "label": "B_is_subclass_of_A"}
-{"text": "A: acupuncture\nB: Complementary Therapies", "label": "B_is_subclass_of_A"}
-{"text": "A: Speech and Language Disorders\nB: Developed Speech Disorder", "label": "B_is_subclass_of_A"}
-{"text": "A: Blues Music Theory\nB: History of the Blues", "label": "B_is_subclass_of_A"}
-{"text": "A: Asian Poetry\nB: Survey of Modern Asian Literature", "label": "B_is_subclass_of_A"}
-{"text": "A: Child Education\nB: Family Education", "label": "B_is_subclass_of_A"}
-{"text": "A: architectural design\nB: Architecture Design 1", "label": "B_is_subclass_of_A"}
-{"text": "A: animal ethics\nB: Ethics of Animal Use", "label": "B_is_subclass_of_A"}
-{"text": "A: Postcolonial Studies\nB: Postcolonialism and Literature", "label": "B_is_subclass_of_A"}
-{"text": "A: acute care\nB: Acute Care III", "label": "B_is_subclass_of_A"}
-{"text": "A: Corporate Compliance\nB: Managing Compliance", "label": "B_is_subclass_of_A"}
-{"text": "A: Classical Art History\nB: History of Art", "label": "B_is_subclass_of_A"}
-{"text": "A: English Semantics\nB: Nominal Semantics", "label": "B_is_subclass_of_A"}
-{"text": "A: Industrial Design\nB: Industrial Design Methodology", "label": "B_is_subclass_of_A"}
-{"text": "A: Aeronautical Design\nB: Aerospace Design I", "label": "B_is_subclass_of_A"}
-{"text": "A: Industrial Hygiene\nB: Industrial Hygiene Seminar", "label": "B_is_subclass_of_A"}
-{"text": "A: Stochastic Process\nB: Probability and Stochastic Processes Ii", "label": "B_is_subclass_of_A"}
-{"text": "A: Neurophysiology\nB: Clinical Neurophysiology", "label": "B_is_subclass_of_A"}
-{"text": "A: Leadership Development\nB: Leadership Development Studies", "label": "B_is_subclass_of_A"}
-{"text": "A: Basic French\nB: Basic French for Educators", "label": "B_is_subclass_of_A"}
-{"text": "A: Sustainability Policy\nB: Sustainability Practices and Policy in a National Context", "label": "B_is_subclass_of_A"}
-{"text": "A: Business Administration\nB: Research: Business Administration", "label": "B_is_subclass_of_A"}
-{"text": "A: Ethics in Technology\nB: Technology, Ethics, and Society", "label": "B_is_subclass_of_A"}
-{"text": "A: Integration of Technology in Math\nB: Technology Integration in Mathematics Education", "label": "B_is_subclass_of_A"}
-{"text": "A: Algebra\nB: Algebra 1B", "label": "B_is_subclass_of_A"}
-{"text": "A: animated art\nB: Intermediate Digital Art: Animation", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Design\nB: Principles of Environmental Design", "label": "B_is_subclass_of_A"}
-{"text": "A: Brand Development\nB: Product Development and Branding", "label": "B_is_subclass_of_A"}
-{"text": "A: Neural Networks\nB: Practical Neural Networks", "label": "B_is_subclass_of_A"}
-{"text": "A: Nervous System\nB: Drugs and the Nervous System", "label": "B_is_subclass_of_A"}
-{"text": "A: Music Technology\nB: Music Technology for the Performing Musician", "label": "B_is_subclass_of_A"}
-{"text": "A: animated art\nB: Intermediate Game Art and Animation", "label": "B_is_subclass_of_A"}
-{"text": "A: Digital Communications\nB: Digital Communication Systems I", "label": "B_is_subclass_of_A"}
-{"text": "A: Algebra\nB: Algebra in School Mathematics", "label": "B_is_subclass_of_A"}
-{"text": "A: biology laboratory\nB: Biology Research Laboratory", "label": "B_is_subclass_of_A"}
-{"text": "A: government administration\nB: Public Administration I", "label": "B_is_subclass_of_A"}
-{"text": "A: Language Arts\nB: Language Arts Education", "label": "B_is_subclass_of_A"}
-{"text": "A: Blues Music Theory\nB: Jazz and Blues Theory", "label": "B_is_subclass_of_A"}
-{"text": "A: auto shop class\nB: Auto Shop MGT and Supervision", "label": "B_is_subclass_of_A"}
-{"text": "A: Visual Studies\nB: Visual Research", "label": "B_is_subclass_of_A"}
-{"text": "A: architectural design\nB: Architectural Design Fundamentals I", "label": "B_is_subclass_of_A"}
-{"text": "A: Aboriginal Studies\nB: Indigenous Studies Theories and Methods", "label": "B_is_subclass_of_A"}
-{"text": "A: Biomanufacturing\nB: Quality Assurance and Validation for Biomanufacturing", "label": "B_is_subclass_of_A"}
-{"text": "A: Aeronautical Design\nB: Introduction to Aviation Science", "label": "B_is_subclass_of_A"}
-{"text": "A: Introductory Science\nB: Introductory Biology", "label": "B_is_subclass_of_A"}
-{"text": "A: Digital Communications\nB: Digital Communications I", "label": "B_is_subclass_of_A"}
-{"text": "A: Consumer Education\nB: Family Life and Consumer Education", "label": "B_is_subclass_of_A"}
-{"text": "A: career development\nB: Career Planning/Development", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Economics\nB: Environmental Sustainability Economics", "label": "B_is_subclass_of_A"}
-{"text": "A: Integration of Technology in Math\nB: Integrating Mathematics and Technology", "label": "B_is_subclass_of_A"}
-{"text": "A: Sound Arts\nB: Audio Art and Sound Design", "label": "B_is_subclass_of_A"}
-{"text": "A: Community Outreach\nB: Community Outreach in Public Health", "label": "B_is_subclass_of_A"}
-{"text": "A: Labor Relations\nB: Managing Labor Relations", "label": "B_is_subclass_of_A"}
-{"text": "A: computational algebra\nB: Computational Linear Algebra", "label": "B_is_subclass_of_A"}
-{"text": "A: Automotive Design\nB: Design of Automotive Chassis", "label": "B_is_subclass_of_A"}
-{"text": "A: american government\nB: American Government in Action", "label": "B_is_subclass_of_A"}
-{"text": "A: Brand Strategy\nB: Brand Strategy Seminar", "label": "B_is_subclass_of_A"}
-{"text": "A: Set Theory and Metric Spaces\nB: Metric Space Theory", "label": "B_is_subclass_of_A"}
-{"text": "A: Sacred Activism\nB: Urban Religious Movements", "label": "B_is_subclass_of_A"}
-{"text": "A: Brand Strategy\nB: Brand Management Strategies", "label": "B_is_subclass_of_A"}
-{"text": "A: Sports Medicine\nB: Contemporary Issues in Sports Medicine", "label": "B_is_subclass_of_A"}
-{"text": "A: Consumer Education\nB: Introduction to Family and Consumer Sciences Education", "label": "B_is_subclass_of_A"}
-{"text": "A: Healthcare Operations\nB: Healthcare Operations and Economics", "label": "B_is_subclass_of_A"}
-{"text": "A: English Semantics\nB: Introduction to Semantics", "label": "B_is_subclass_of_A"}
-{"text": "A: Aeronautical Design\nB: Introduction to Aeronautical Management Technology", "label": "B_is_subclass_of_A"}
-{"text": "A: Food Preparation\nB: Food Preparation Principles", "label": "B_is_subclass_of_A"}
-{"text": "A: Media Law\nB: Digital Media Law", "label": "B_is_subclass_of_A"}
-{"text": "A: Science Pedagogy\nB: Pedagogy of Science Instruction Integrating Tech", "label": "B_is_subclass_of_A"}
-{"text": "A: aerospace\nB: Aerospace Engineering Mechanics", "label": "B_is_subclass_of_A"}
-{"text": "A: Differentiated Math Instruction\nB: Differentiated Instruction and Assessment in Mathematics", "label": "B_is_subclass_of_A"}
-{"text": "A: Art Therapy And Mental Health\nB: Art Therapy: Applications and Techniques", "label": "B_is_subclass_of_A"}
-{"text": "A: Blues Music Theory\nB: Exploring the Blues", "label": "B_is_subclass_of_A"}
-{"text": "A: Introductory Science\nB: Introduction to Secondary Science Education", "label": "B_is_subclass_of_A"}
-{"text": "A: Administrative Law\nB: Administrative Law and Procedure", "label": "B_is_subclass_of_A"}
-{"text": "A: Access Control\nB: Security and Control", "label": "B_is_subclass_of_A"}
-{"text": "A: Adolescent Development\nB: Development of the Adolescent", "label": "B_is_subclass_of_A"}
-{"text": "A: government administration\nB: Administration and Public Policy", "label": "B_is_subclass_of_A"}
-{"text": "A: Mathematical Education\nB: Teaching and Learning Mathematics", "label": "B_is_subclass_of_A"}
-{"text": "A: Art Theory and Methods\nB: Contemporary Art Theory", "label": "B_is_subclass_of_A"}
-{"text": "A: Brand Development\nB: Product and Brand Development", "label": "B_is_subclass_of_A"}
-{"text": "A: Brand Strategy\nB: Product Marketing and Brand Strategy", "label": "B_is_subclass_of_A"}
-{"text": "A: executive mba program\nB: MBA Public Admin Internship", "label": "B_is_subclass_of_A"}
-{"text": "A: Drawing and Design\nB: Design Drawing II", "label": "B_is_subclass_of_A"}
-{"text": "A: Talent Management\nB: Strategic Talent Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Scientific Math\nB: Mathematics for the Sciences", "label": "B_is_subclass_of_A"}
-{"text": "A: Administrative Law\nB: Administrative and Government Law", "label": "B_is_subclass_of_A"}
-{"text": "A: Business Administration\nB: Business Administration and Policy", "label": "B_is_subclass_of_A"}
-{"text": "A: climate justice\nB: Global Perspectives on Climate Justice", "label": "B_is_subclass_of_A"}
-{"text": "A: Optimization\nB: Optimization and Computing", "label": "B_is_subclass_of_A"}
-{"text": "A: climate studies\nB: Climate Science I", "label": "B_is_subclass_of_A"}
-{"text": "A: Climate Change Policy\nB: Climate Change Policy and Solutions", "label": "B_is_subclass_of_A"}
-{"text": "A: Performance Measurement\nB: Performance Measurement and Management", "label": "B_is_subclass_of_A"}
-{"text": "A: Wellness Coaching\nB: Contemporary Issues in Wellness: Fundamentals of Wellness Coaching", "label": "B_is_subclass_of_A"}
-{"text": "A: Digital Systems\nB: Design of Digital Systems", "label": "B_is_subclass_of_A"}
-{"text": "A: Mathematics Curriculum Design\nB: Elementary Mathematics Curriculum", "label": "B_is_subclass_of_A"}
-{"text": "A: Advertising\nB: Advertising Sales", "label": "B_is_subclass_of_A"}
-{"text": "A: Adult Primary Care\nB: Adult Primary Care Clinical I", "label": "B_is_subclass_of_A"}
-{"text": "A: Probabilistic Method\nB: Probabilistic Systems Modeling", "label": "B_is_subclass_of_A"}
-{"text": "A: Digital Marketing\nB: Digital Marketing Design", "label": "B_is_subclass_of_A"}
-{"text": "A: academic skills coaching\nB: Coaching Fieldwork", "label": "B_is_subclass_of_A"}
-{"text": "A: ESL Teaching Methodologies\nB: Trends and Issues in Teaching ESL", "label": "B_is_subclass_of_A"}
-{"text": "A: Environmental Adaptation\nB: Aquatic Adaptation (1)", "label": "B_is_subclass_of_A"}
-{"text": "A: Scientific Math\nB: World of Math:Math in Science", "label": "B_is_subclass_of_A"}
-{"text": "A: Digital Media Law\nB: Digital Media Law and Ethics", "label": "B_is_subclass_of_A"}
-{"text": "A: Italian Morphology\nB: English and Italian Diction", "label": "B_is_subclass_of_A"}
-{"text": "A: Basic French\nB: Basic French II", "label": "B_is_subclass_of_A"}
-{"text": "A: Talent Management\nB: Talent Leadership", "label": "B_is_subclass_of_A"}
-{"text": "A: Probabilistic Method\nB: Applied Bayesian Methods", "label": "B_is_subclass_of_A"}
-{"text": "A: Healthcare Analytics\nB: Health Analytics I", "label": "B_is_subclass_of_A"}
-{"text": "A: Nervous System\nB: Neurobiology of Nervous System Disorders", "label": "B_is_subclass_of_A"}
-{"text": "A: Studies in Public Policy\nB: Public Policy Research Methods", "label": "B_is_subclass_of_A"}
-{"text": "A: building construction\nB: Building Construction I", "label": "B_is_subclass_of_A"}
-{"text": "A: Statistical Methods in Education\nB: Introduction to Statistical Methods in Education", "label": "B_is_subclass_of_A"}
-{"text": "A: acute care\nB: Acute Care of Injury/Illness", "label": "B_is_subclass_of_A"}
-{"text": "A: Statistical Methods in Education\nB: Intermediate Statistical Methods in Education", "label": "B_is_subclass_of_A"}
-{"text": "A: government administration\nB: Administration in the Public Sector", "label": "B_is_subclass_of_A"}
-{"text": "A: Language Arts\nB: Teaching the Language Arts", "label": "B_is_subclass_of_A"}
-{"text": "A: Pilgrimage\nB: Pilgrimage: Walking With Intention", "label": "B_is_subclass_of_A"}
-{"text": "A: training and development\nB: Training/Development in Organizations", "label": "B_is_subclass_of_A"}
-{"text": "A: Sustainability Policy\nB: Public Policy and Sustainability", "label": "B_is_subclass_of_A"}
-{"text": "A: architectural design\nB: Architectural Design (3)", "label": "B_is_subclass_of_A"}
-{"text": "A: Adolescent Development\nB: Child &Adolescent Development", "label": "B_is_subclass_of_A"}
-{"text": "A: Combat\nB: Beginning Combatives", "label": "B_is_subclass_of_A"}
-{"text": "A: training and development\nB: Training and Development in Organizations", "label": "B_is_subclass_of_A"}
-{"text": "A: Art Foundations\nB: Foundations in Digital Art", "label": "B_is_subclass_of_A"}
-{"text": "A: accessory design\nB: Accessory Product Development", "label": "B_is_subclass_of_A"}
+{"text": "A: Italian Morphology\nB: Morphology and Syntax", "label": "B_is_subclass_of_A"}
+{"text": "A: Cybersecurity Administration\nB: Cyber System Administration", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Administration\nB: Health Systems Administration", "label": "B_is_subclass_of_A"}
+{"text": "A: Cross Cultural Communication\nB: Cross-Cultural Trans-Communication", "label": "B_is_subclass_of_A"}
+{"text": "A: Italian Morphology\nB: Italian Language", "label": "B_is_subclass_of_A"}
+{"text": "A: clinical diagnostics\nB: Diagnostic Tests", "label": "B_is_subclass_of_A"}
 {"text": "A: Computational Sociology\nB: Sociology I", "label": "B_is_subclass_of_A"}
-{"text": "A: American Culture\nB: American Cultures I", "label": "B_is_subclass_of_A"}
-{"text": "A: training and development\nB: Training, Development, and Evaluation", "label": "B_is_subclass_of_A"}
-{"text": "A: Science Pedagogy\nB: Science Pedagogy for Adolescents to Young Adults", "label": "B_is_subclass_of_A"}
-{"text": "A: Community Outreach\nB: Community Outreach and Engagement I", "label": "B_is_subclass_of_A"}
-{"text": "A: aerospace\nB: Aerospace Studies I", "label": "B_is_subclass_of_A"}
-{"text": "A: Video Editing\nB: Video Editing and Directing", "label": "B_is_subclass_of_A"}
-{"text": "A: Adolescent Development\nB: Adolescent Development: From Puberty to Young Adulthood", "label": "B_is_subclass_of_A"}
-{"text": "A: Government Systems\nB: Government and Society", "label": "B_is_subclass_of_A"}
-{"text": "A: Clinical Studies\nB: Research in Clinical Sciences", "label": "B_is_subclass_of_A"}
-{"text": "A: Research Methods in Political Science and Policy Studies\nB: Public Policy Research Methods", "label": "B_is_subclass_of_A"}
-{"text": "A: Matrix Geometry\nB: Matrices I", "label": "B_is_subclass_of_A"}
-{"text": "A: Aboriginal Studies\nB: The History of Indigenous Peoples", "label": "B_is_subclass_of_A"}
-{"text": "A: agricultural economics\nB: Intro Agricultural Economics", "label": "B_is_subclass_of_A"}
-{"text": "A: Media Club\nB: Media Culture", "label": "B_is_subclass_of_A"}
-{"text": "A: Integration of Technology in Math\nB: Math Technology Integration", "label": "B_is_subclass_of_A"}
-{"text": "A: Consumer Education\nB: Consumerism", "label": "B_is_subclass_of_A"}
-{"text": "A: Health Management\nB: Healthcare Management", "label": "B_is_subclass_of_A"}
-{"text": "A: accounting\nB: Accounting in Practice", "label": "B_is_subclass_of_A"}
-{"text": "A: Music Technology\nB: Music Engineering Technology", "label": "B_is_subclass_of_A"}
-{"text": "A: Quality Assurance\nB: Quality Assurance Systems", "label": "B_is_subclass_of_A"}
-{"text": "A: Nervous System\nB: Neuroanatomical Systems", "label": "B_is_subclass_of_A"}
-{"text": "A: Resource Management and Budgeting\nB: Resource Allocation", "label": "B_is_subclass_of_A"}
-{"text": "A: Health Education\nB: The Health Education Profession", "label": "B_is_subclass_of_A"}
-{"text": "A: Food Safety\nB: Introduction to Food Safety", "label": "B_is_subclass_of_A"}
-{"text": "A: World Literature\nB: Contemporary World Literature", "label": "B_is_subclass_of_A"}
-{"text": "A: climate justice\nB: Climate Justice and Adaptation", "label": "B_is_subclass_of_A"}
-{"text": "A: Epidemiological Research\nB: Epidemiological Methods, Research Design, and Analysis", "label": "B_is_subclass_of_A"}
-{"text": "A: Food and Beverage Management\nB: Advanced Food, Beverage and Service Management", "label": "B_is_subclass_of_A"}
-{"text": "A: american government\nB: American Government I", "label": "B_is_subclass_of_A"}
-{"text": "A: Biomanufacturing\nB: Bioengineering and Biotechnology", "label": "B_is_subclass_of_A"}
-{"text": "A: biology laboratory\nB: Biology I Laboratory", "label": "B_is_subclass_of_A"}
-{"text": "A: government administration\nB: Pol of Administration", "label": "B_is_subclass_of_A"}
-{"text": "A: tutoring\nB: METHODS and MATERIALS OF TUTORING", "label": "B_is_subclass_of_A"}
-{"text": "A: Nervous System\nB: Neural Systems Physiology", "label": "B_is_subclass_of_A"}
+{"text": "A: Visual Studies\nB: Digital Visual Studies", "label": "B_is_subclass_of_A"}
+{"text": "A: World Literature\nB: World Literatures: Topics", "label": "B_is_subclass_of_A"}
+{"text": "A: College Composition\nB: College Composition 2", "label": "B_is_subclass_of_A"}
+{"text": "A: Digital Marketing\nB: Digital Media Marketing", "label": "B_is_subclass_of_A"}
+{"text": "A: Probabilistic Method\nB: Probabilistic Methods in Electrical and Computer Engineering", "label": "B_is_subclass_of_A"}
+{"text": "A: public affairs\nB: Public Administration", "label": "B_is_subclass_of_A"}
+{"text": "A: Buddhist Meditation\nB: Intro to Meditation", "label": "B_is_subclass_of_A"}
+{"text": "A: Music Technology\nB: Modern Music Technology", "label": "B_is_subclass_of_A"}
+{"text": "A: Advertising\nB: Advertising in Society", "label": "B_is_subclass_of_A"}
+{"text": "A: Sacred Activism\nB: Urban New Religious Movements", "label": "B_is_subclass_of_A"}
+{"text": "A: aerospace\nB: Advanced Aerospace Education", "label": "B_is_subclass_of_A"}
+{"text": "A: Electronic Media Law and Policy\nB: Digital Media Law", "label": "B_is_subclass_of_A"}
+{"text": "A: Neurogenic Disorders of Speech\nB: Developed Speech Disorder", "label": "B_is_subclass_of_A"}
+{"text": "A: Brand Development\nB: Building Brands", "label": "B_is_subclass_of_A"}
+{"text": "A: Food Safety\nB: Food Safety and Health", "label": "B_is_subclass_of_A"}
+{"text": "A: Social Policy\nB: Social Policy and Services", "label": "B_is_subclass_of_A"}
+{"text": "A: Adolescent Development\nB: Development Adolescence", "label": "B_is_subclass_of_A"}
+{"text": "A: Computational Sociology\nB: Cognitive Sociology", "label": "B_is_subclass_of_A"}
+{"text": "A: Child Education\nB: Education of Young Children", "label": "B_is_subclass_of_A"}
+{"text": "A: female athletics\nB: Women in Sport", "label": "B_is_subclass_of_A"}
+{"text": "A: College Composition\nB: Principles of College Composition", "label": "B_is_subclass_of_A"}
+{"text": "A: Body Mind Centering\nB: Body-Mind Literacy", "label": "B_is_subclass_of_A"}
+{"text": "A: Administrative Law\nB: Administrative Agency Law", "label": "B_is_subclass_of_A"}
+{"text": "A: Clinical Data Analysis\nB: Clinical Data and Analytics", "label": "B_is_subclass_of_A"}
+{"text": "A: Aeronautical Design\nB: Fundamentals of Aviation Engineering", "label": "B_is_subclass_of_A"}
+{"text": "A: ESL Teaching Methodologies\nB: Methods of Teaching Esl", "label": "B_is_subclass_of_A"}
+{"text": "A: African Civilization\nB: African People and Civilization", "label": "B_is_subclass_of_A"}
+{"text": "A: World Literature and Culture\nB: World Literature", "label": "B_is_subclass_of_A"}
+{"text": "A: computational algebra\nB: Computational Linear Algebra", "label": "B_is_subclass_of_A"}
+{"text": "A: Drawing and Design\nB: Foundations of Drawing and Design", "label": "B_is_subclass_of_A"}
+{"text": "A: Dendrochronology\nB: Field Dendrology", "label": "B_is_subclass_of_A"}
+{"text": "A: Computational Sociology\nB: Sociological Research", "label": "B_is_subclass_of_A"}
+{"text": "A: acupuncture\nB: Evidence-Informed Clinical Practice in Acupuncture", "label": "B_is_subclass_of_A"}
+{"text": "A: Matrix Geometry\nB: Matrix Computations", "label": "B_is_subclass_of_A"}
+{"text": "A: Stochastic Process\nB: Intro to Stochastic Processes", "label": "B_is_subclass_of_A"}
+{"text": "A: Adolescent Development\nB: Adolescent Development in School", "label": "B_is_subclass_of_A"}
+{"text": "A: Government Systems\nB: Government Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Corporate Compliance\nB: Managing Compliance", "label": "B_is_subclass_of_A"}
+{"text": "A: animal ethics\nB: Ethics, Animals, and the Environment", "label": "B_is_subclass_of_A"}
+{"text": "A: Corporate Compliance\nB: Governance and Compliance", "label": "B_is_subclass_of_A"}
+{"text": "A: Industrial Hygiene\nB: Industrial Hygiene Field Survey", "label": "B_is_subclass_of_A"}
+{"text": "A: Information Management\nB: Business Information Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Adolescent Development\nB: Adolescent Development and Psychology", "label": "B_is_subclass_of_A"}
+{"text": "A: Clinical Studies\nB: Clinical: Fundamentals", "label": "B_is_subclass_of_A"}
+{"text": "A: Credit Risk Analysis\nB: Financial Risk Analysis", "label": "B_is_subclass_of_A"}
 {"text": "A: Scientific Math\nB: Elementary Mathematics and Science", "label": "B_is_subclass_of_A"}
-{"text": "A: Business Law\nB: Corporate and Business Law", "label": "B_is_subclass_of_A"}
-{"text": "A: Industrial Hygiene\nB: Industrial Health and Hygiene", "label": "B_is_subclass_of_A"}
-{"text": "A: Differentiation of Instruction: Practical Strategies\nB: Differentiated Math Instruction", "label": "B_is_subclass_of_A"}
-{"text": "A: Performance Measurement\nB: Performance Monitoring and Evaluation", "label": "B_is_subclass_of_A"}
+{"text": "A: Landscape Archaeology\nB: Paleoecology and Landscape History", "label": "B_is_subclass_of_A"}
+{"text": "A: Combat\nB: Military Tactics", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Systems\nB: Environmental Systems and Sustainability", "label": "B_is_subclass_of_A"}
+{"text": "A: Cybersecurity Administration\nB: Cybersecurity Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Social Policy\nB: Advanced Social Policy", "label": "B_is_subclass_of_A"}
+{"text": "A: computational algebra\nB: Computation and Algebra Skills", "label": "B_is_subclass_of_A"}
+{"text": "A: Computational Sociology\nB: Field of Sociology", "label": "B_is_subclass_of_A"}
+{"text": "A: Digital Marketing\nB: Digital Marketing Communication", "label": "B_is_subclass_of_A"}
+{"text": "A: Industrial Design\nB: Introduction to Industrial Design", "label": "B_is_subclass_of_A"}
+{"text": "A: Intercollegiate Athletes\nB: Intercollegiate Athletics - Sports ? Women", "label": "B_is_subclass_of_A"}
+{"text": "A: accessory design\nB: Introduction to Design I", "label": "B_is_subclass_of_A"}
+{"text": "A: biology laboratory\nB: Biology Research Laboratory", "label": "B_is_subclass_of_A"}
+{"text": "A: American Culture\nB: Introduction to American Cultures", "label": "B_is_subclass_of_A"}
+{"text": "A: ESL Teaching Methodologies\nB: Theory& Pract of Teaching ESL", "label": "B_is_subclass_of_A"}
+{"text": "A: architectural design\nB: Architectural Design Ii", "label": "B_is_subclass_of_A"}
+{"text": "A: Ethics in Technology\nB: Ethics of Business and Technology", "label": "B_is_subclass_of_A"}
+{"text": "A: food chemistry\nB: Food Chemistry and Biochemistry", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Design\nB: Environmental Engineering Design I", "label": "B_is_subclass_of_A"}
+{"text": "A: Credit Risk Analysis\nB: Credit Risk Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Business Administration\nB: Business Administration and Policy", "label": "B_is_subclass_of_A"}
+{"text": "A: acute care\nB: Acute Care Theory II", "label": "B_is_subclass_of_A"}
+{"text": "A: Neural Networks\nB: Neural Networks and Deep Learning", "label": "B_is_subclass_of_A"}
+{"text": "A: Effective Speaking\nB: EFFECTIVE SPEAKING and PRESENTA", "label": "B_is_subclass_of_A"}
+{"text": "A: Mathematical Education\nB: Learning and Teaching Mathematics", "label": "B_is_subclass_of_A"}
+{"text": "A: Stochastic Process\nB: Probability for Stochastic Processes", "label": "B_is_subclass_of_A"}
+{"text": "A: agricultural economics\nB: Intro to Agricultural Economics", "label": "B_is_subclass_of_A"}
+{"text": "A: Buddhist Philosophy\nB: Foundations of Buddhism", "label": "B_is_subclass_of_A"}
+{"text": "A: Stochastic Process\nB: Stochastic Process II", "label": "B_is_subclass_of_A"}
+{"text": "A: Buddhist Philosophy\nB: The Philosophy of Zen Buddhism", "label": "B_is_subclass_of_A"}
+{"text": "A: Epidemiological Research\nB: Epidemiological Research Designs and Methods", "label": "B_is_subclass_of_A"}
+{"text": "A: animal husbandry\nB: Companion Animals", "label": "B_is_subclass_of_A"}
+{"text": "A: Quality Assurance\nB: Quality Assurance MGMT", "label": "B_is_subclass_of_A"}
+{"text": "A: Optimization\nB: Optimization Methods", "label": "B_is_subclass_of_A"}
+{"text": "A: Adolescent Development\nB: Child and Young Adolescent Development", "label": "B_is_subclass_of_A"}
+{"text": "A: Nutritional Biochemistry\nB: Biochemistry: Nutrients and Metabolism", "label": "B_is_subclass_of_A"}
+{"text": "A: Cybersecurity Administration\nB: Cybersecurity Systems Administration", "label": "B_is_subclass_of_A"}
+{"text": "A: Video Editing\nB: Digital Video Editing", "label": "B_is_subclass_of_A"}
+{"text": "A: government administration\nB: State Government and Administration in the United States", "label": "B_is_subclass_of_A"}
+{"text": "A: clinical diagnostics\nB: Diagnostic Tests I", "label": "B_is_subclass_of_A"}
+{"text": "A: Resource Economics\nB: Resource Allocation", "label": "B_is_subclass_of_A"}
+{"text": "A: Monetary Economics\nB: Monetary Policy and the U.S. Economy", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Administration\nB: Healthcare Administration Practice", "label": "B_is_subclass_of_A"}
+{"text": "A: Nutritional Biochemistry\nB: Elements of Biochemistry and Nutrition", "label": "B_is_subclass_of_A"}
+{"text": "A: animal ethics\nB: Animal Welfare and Ethics", "label": "B_is_subclass_of_A"}
+{"text": "A: Health Services\nB: Administration of Health Services", "label": "B_is_subclass_of_A"}
+{"text": "A: Labor Relations\nB: Labor Econ&Labor Relations", "label": "B_is_subclass_of_A"}
+{"text": "A: Automotive Design\nB: Automotive: Art and Design", "label": "B_is_subclass_of_A"}
+{"text": "A: Media Club\nB: Community Media", "label": "B_is_subclass_of_A"}
+{"text": "A: Music Technology\nB: Fundamentals of Music Technology", "label": "B_is_subclass_of_A"}
+{"text": "A: agricultural economics\nB: Introduction to Agriculture Economics", "label": "B_is_subclass_of_A"}
+{"text": "A: Assessment Strategies\nB: Educational Assessment and Strategies", "label": "B_is_subclass_of_A"}
+{"text": "A: Scientific Math\nB: Methods of Math and Science", "label": "B_is_subclass_of_A"}
+{"text": "A: Probabilistic Method\nB: Probabilistic Decision Models", "label": "B_is_subclass_of_A"}
+{"text": "A: Occupational Medicine\nB: Preventive Medicine: Occupational Medicine", "label": "B_is_subclass_of_A"}
+{"text": "A: Knowledge and Info Management\nB: Information Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Economics\nB: Introduction to Environmental Economics", "label": "B_is_subclass_of_A"}
+{"text": "A: Statistical Methods in Education\nB: Research Methodology and Statistics in Educational Studies", "label": "B_is_subclass_of_A"}
+{"text": "A: food chemistry\nB: Cuisine Chemistry", "label": "B_is_subclass_of_A"}
+{"text": "A: Leadership Development\nB: Leadership Development and Practice", "label": "B_is_subclass_of_A"}
+{"text": "A: The Mathematics Curriculum\nB: Mathematics Curriculum Design", "label": "B_is_subclass_of_A"}
+{"text": "A: accessory design\nB: ME Design II: Product Design", "label": "B_is_subclass_of_A"}
+{"text": "A: Clinical Studies\nB: Clinical Research", "label": "B_is_subclass_of_A"}
+{"text": "A: Adaptation Studies\nB: Human Adaptation and Variation", "label": "B_is_subclass_of_A"}
+{"text": "A: Buddhist Philosophy\nB: History of Buddhist Philosophy", "label": "B_is_subclass_of_A"}
+{"text": "A: Community Outreach\nB: Seminar on Community Outreach", "label": "B_is_subclass_of_A"}
+{"text": "A: Social Entrepreneurship\nB: Social Enterprise for Entrepreneurs", "label": "B_is_subclass_of_A"}
+{"text": "A: Climate Change Policy\nB: Climate Change and Public Policy", "label": "B_is_subclass_of_A"}
+{"text": "A: Art History and Criticism\nB: Modern Art History, Aesthetics, Theory, and Criticism", "label": "B_is_subclass_of_A"}
+{"text": "A: Performance Measurement\nB: Methods of Performance Interpreting", "label": "B_is_subclass_of_A"}
+{"text": "A: Brand Strategy\nB: Product Marketing and Brand Strategy", "label": "B_is_subclass_of_A"}
+{"text": "A: animal ethics\nB: Ethics and Professionalism in Animal Biology", "label": "B_is_subclass_of_A"}
+{"text": "A: Applied Linguistics\nB: Modern Linguistics", "label": "B_is_subclass_of_A"}
+{"text": "A: Corporate Compliance\nB: Regulatory Compliance", "label": "B_is_subclass_of_A"}
+{"text": "A: Politics\nB: State Politics", "label": "B_is_subclass_of_A"}
+{"text": "A: Performance Measurement\nB: Performance Assessment", "label": "B_is_subclass_of_A"}
+{"text": "A: auto shop class\nB: Auto Shop MGT and Supervision", "label": "B_is_subclass_of_A"}
+{"text": "A: Intercollegiate Athletes\nB: Intercollegiate Athletic Participation", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Operations\nB: Operations Management in Health Care Organizations", "label": "B_is_subclass_of_A"}
+{"text": "A: Politics\nB: Politics in Action", "label": "B_is_subclass_of_A"}
+{"text": "A: Sound Arts\nB: Art Music", "label": "B_is_subclass_of_A"}
+{"text": "A: Corporate Compliance\nB: Corp Compliance Risk Managmnt", "label": "B_is_subclass_of_A"}
+{"text": "A: Retreat\nB: Leadership Team Retreat", "label": "B_is_subclass_of_A"}
+{"text": "A: Clinical Data Analysis\nB: Clinical Data Management and Analysis", "label": "B_is_subclass_of_A"}
+{"text": "A: Industrial Hygiene\nB: Advanced Industrial Hygiene", "label": "B_is_subclass_of_A"}
+{"text": "A: Art Therapy And Mental Health\nB: Experience and Research in Art Therapy", "label": "B_is_subclass_of_A"}
+{"text": "A: Climate Change Policy\nB: Environmental and Climate Policy", "label": "B_is_subclass_of_A"}
+{"text": "A: animal ethics\nB: Veterinary Law and Ethics", "label": "B_is_subclass_of_A"}
+{"text": "A: Food Preparation\nB: Food Principles and Preparation", "label": "B_is_subclass_of_A"}
+{"text": "A: Computational Sociology\nB: Sociology of Communities", "label": "B_is_subclass_of_A"}
+{"text": "A: Sustainability Seminar\nB: Seminar in Environmental Science and Sustainability", "label": "B_is_subclass_of_A"}
+{"text": "A: Applied Linguistics\nB: Applied Linguistics II", "label": "B_is_subclass_of_A"}
+{"text": "A: climate justice\nB: Climate Change, Cities, and Justice", "label": "B_is_subclass_of_A"}
+{"text": "A: biology laboratory\nB: Contemporary Biology Laboratory", "label": "B_is_subclass_of_A"}
+{"text": "A: Dendrochronology\nB: Introduction to Dendrology: Trees and Shrubs of the Midwest", "label": "B_is_subclass_of_A"}
+{"text": "A: Pain Management\nB: Comprehensive Pain Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Analytics\nB: Data Analytics in Health Care", "label": "B_is_subclass_of_A"}
+{"text": "A: accessory design\nB: Design and Invention", "label": "B_is_subclass_of_A"}
+{"text": "A: Digital Systems\nB: Principles of Digital Systems", "label": "B_is_subclass_of_A"}
+{"text": "A: Differential Equations Instruction\nB: Ordinary Differential Equations", "label": "B_is_subclass_of_A"}
+{"text": "A: Clinical Studies\nB: Research and Clinical Practice", "label": "B_is_subclass_of_A"}
+{"text": "A: Dendrochronology\nB: Dendrology and Wood Science", "label": "B_is_subclass_of_A"}
+{"text": "A: career development\nB: Training and Career Development", "label": "B_is_subclass_of_A"}
+{"text": "A: Anthropology Of Innovation\nB: Innovation in Context", "label": "B_is_subclass_of_A"}
+{"text": "A: Agricultural Engineering\nB: Agricultural Mechanics", "label": "B_is_subclass_of_A"}
+{"text": "A: Geometric Modeling\nB: Applying Geometric Concepts", "label": "B_is_subclass_of_A"}
+{"text": "A: Health Education\nB: The Health Education Profession", "label": "B_is_subclass_of_A"}
+{"text": "A: Integration of Technology in Math\nB: Integration Technology in Math Instruction", "label": "B_is_subclass_of_A"}
+{"text": "A: Food Safety\nB: Introduction to Food Safety Management and Practice", "label": "B_is_subclass_of_A"}
+{"text": "A: Differential Equations Instruction\nB: Numerical Differential Equations", "label": "B_is_subclass_of_A"}
+{"text": "A: Sustainability Seminar\nB: Environment and Sustainability Seminar", "label": "B_is_subclass_of_A"}
+{"text": "A: academic skills coaching\nB: Instructional and Coaching Strategies", "label": "B_is_subclass_of_A"}
+{"text": "A: Vascular Surgery\nB: Vascular Surgery Rotation", "label": "B_is_subclass_of_A"}
+{"text": "A: Wellness Coaching\nB: Health Coaching", "label": "B_is_subclass_of_A"}
+{"text": "A: Aeronautical Design\nB: Aerospace Design II", "label": "B_is_subclass_of_A"}
+{"text": "A: Gifted Child Education\nB: Foundations of Gifted Education", "label": "B_is_subclass_of_A"}
+{"text": "A: Digital Communications\nB: Digital Communication I", "label": "B_is_subclass_of_A"}
+{"text": "A: clinical diagnostics\nB: Clinical Practice in Diagnostics", "label": "B_is_subclass_of_A"}
+{"text": "A: Matrix Geometry\nB: Matrices, Vectors, and Their Application", "label": "B_is_subclass_of_A"}
+{"text": "A: Agricultural Engineering\nB: Introduction to Agricultural Engineering Technology", "label": "B_is_subclass_of_A"}
+{"text": "A: Cloud Networking\nB: Network and Cloud Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Corporate Compliance\nB: Compliance: Corporate Governance", "label": "B_is_subclass_of_A"}
+{"text": "A: Industrial Hygiene\nB: Industrial Hygiene Fundamental (3)", "label": "B_is_subclass_of_A"}
+{"text": "A: Health Care Organization and Administration\nB: Healthcare Administration", "label": "B_is_subclass_of_A"}
+{"text": "A: Research Methods in Political Science and Policy Studies\nB: Public Policy Research Methods", "label": "B_is_subclass_of_A"}
+{"text": "A: Mathematics Curriculum Design\nB: Mathematics Curriculum and Methods", "label": "B_is_subclass_of_A"}
+{"text": "A: Administrative Law\nB: Constitutional and Administrative Law", "label": "B_is_subclass_of_A"}
+{"text": "A: Cloud Networking\nB: Networking and Cloud Interface", "label": "B_is_subclass_of_A"}
+{"text": "A: academic skills coaching\nB: Instructional Coaching and Professional Development", "label": "B_is_subclass_of_A"}
+{"text": "A: Adult Primary Care\nB: Adult Primary Care Clinical I", "label": "B_is_subclass_of_A"}
+{"text": "A: Persuasive Writing\nB: Rhetoric: The Art of Persuasive Writing", "label": "B_is_subclass_of_A"}
+{"text": "A: World History and Geography\nB: The World Geography I", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Analytics\nB: Intro to Healthcare Analytics", "label": "B_is_subclass_of_A"}
+{"text": "A: Art Foundations\nB: Foundations in Digital Art", "label": "B_is_subclass_of_A"}
+{"text": "A: Quality Assurance\nB: Quality Assurance and Total Quality Management", "label": "B_is_subclass_of_A"}
+{"text": "A: tutoring\nB: The Theory and Practice of Tutoring I", "label": "B_is_subclass_of_A"}
+{"text": "A: Assessment Strategies\nB: Professional Assessment Strategies", "label": "B_is_subclass_of_A"}
+{"text": "A: Technology Integration\nB: Integration of Technology in Math", "label": "B_is_subclass_of_A"}
+{"text": "A: Aeronautical Design\nB: Aviation Technical Concepts", "label": "B_is_subclass_of_A"}
+{"text": "A: Combat\nB: Cardio Combat", "label": "B_is_subclass_of_A"}
+{"text": "A: public affairs\nB: Public Affairs Concepts and Theory", "label": "B_is_subclass_of_A"}
+{"text": "A: american government\nB: American Government in Action", "label": "B_is_subclass_of_A"}
+{"text": "A: Voice and Motor Speech Disorders\nB: Developed Speech Disorder", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Operations\nB: Healthcare Facilities Operations", "label": "B_is_subclass_of_A"}
+{"text": "A: Food Preparation\nB: Principles of Food Preparation", "label": "B_is_subclass_of_A"}
+{"text": "A: clinical diagnostics\nB: Medical Diagnostics", "label": "B_is_subclass_of_A"}
+{"text": "A: Clinical Studies\nB: Clinical Research II", "label": "B_is_subclass_of_A"}
+{"text": "A: clinical diagnostics\nB: Clinical and Diagnostic Assessment", "label": "B_is_subclass_of_A"}
+{"text": "A: accounting\nB: Financial Accounting", "label": "B_is_subclass_of_A"}
+{"text": "A: career development\nB: Career Development for Life", "label": "B_is_subclass_of_A"}
+{"text": "A: Adult Primary Care\nB: Primary Care Adult II", "label": "B_is_subclass_of_A"}
+{"text": "A: Corporate Compliance\nB: Corporate Compliance: Building a Strong Compliance Culture", "label": "B_is_subclass_of_A"}
+{"text": "A: Statistical Methods in Education\nB: Fundamentals of Statistics in Education", "label": "B_is_subclass_of_A"}
+{"text": "A: executive mba program\nB: MBA Public Admin Internship", "label": "B_is_subclass_of_A"}
+{"text": "A: Anthropology Of Innovation\nB: Business Anthropology", "label": "B_is_subclass_of_A"}
+{"text": "A: Language Arts\nB: Language Arts (Required)", "label": "B_is_subclass_of_A"}
+{"text": "A: Adolescent Development\nB: Early Adolescent Development", "label": "B_is_subclass_of_A"}
+{"text": "A: Monetary Economics\nB: Monetary Theory and Policy", "label": "B_is_subclass_of_A"}
+{"text": "A: Body Mind Centering\nB: Mind/Body Techniques", "label": "B_is_subclass_of_A"}
+{"text": "A: Pragmatics and Oral Skills\nB: English Pragmatics", "label": "B_is_subclass_of_A"}
+{"text": "A: food chemistry\nB: Chemical Analysis of Food", "label": "B_is_subclass_of_A"}
+{"text": "A: Epidemiological Research\nB: Healthcare Research and Epidemiology", "label": "B_is_subclass_of_A"}
+{"text": "A: tutoring\nB: Mathematics Tutoring", "label": "B_is_subclass_of_A"}
+{"text": "A: climate studies\nB: Weather Studies", "label": "B_is_subclass_of_A"}
+{"text": "A: Stage Combat\nB: Movement V: Stage Combat", "label": "B_is_subclass_of_A"}
+{"text": "A: Drawing and Design\nB: Drawing and Design II", "label": "B_is_subclass_of_A"}
+{"text": "A: Neural Networks\nB: Neural Networks for Machine Learning", "label": "B_is_subclass_of_A"}
+{"text": "A: Community Outreach\nB: Community-Based Research and Outreach", "label": "B_is_subclass_of_A"}
+{"text": "A: retail analytics\nB: Fundamentals of Retailing", "label": "B_is_subclass_of_A"}
+{"text": "A: Nutritional Biochemistry\nB: Nutritional Biochemistry/Metabolism", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Management\nB: Perspectives on Healthcare Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Leadership Development\nB: Leadership Personnel Development", "label": "B_is_subclass_of_A"}
+{"text": "A: Digital Network Intelligence\nB: Network Analytics", "label": "B_is_subclass_of_A"}
+{"text": "A: Health Services\nB: Health Service Administration", "label": "B_is_subclass_of_A"}
+{"text": "A: computational algebra\nB: Computational Math", "label": "B_is_subclass_of_A"}
+{"text": "A: Asian Poetry\nB: South Asian Literature", "label": "B_is_subclass_of_A"}
+{"text": "A: Industrial Hygiene\nB: Industrial Hygiene for Safety Professionals", "label": "B_is_subclass_of_A"}
+{"text": "A: Automotive Design\nB: Motorsports Design I", "label": "B_is_subclass_of_A"}
+{"text": "A: Agricultural Science\nB: Special Topics in Agricultural Science", "label": "B_is_subclass_of_A"}
+{"text": "A: Algebra\nB: Algebra 2", "label": "B_is_subclass_of_A"}
+{"text": "A: Industrial Hygiene\nB: Industrial Hygiene II", "label": "B_is_subclass_of_A"}
+{"text": "A: Assessment Strategies\nB: Effective Assessment", "label": "B_is_subclass_of_A"}
+{"text": "A: Agricultural Science\nB: Special Topics in Agriculture", "label": "B_is_subclass_of_A"}
+{"text": "A: American Culture\nB: Foundations of American Culture", "label": "B_is_subclass_of_A"}
+{"text": "A: Cybersecurity Administration\nB: Cybersecurity Operations I", "label": "B_is_subclass_of_A"}
+{"text": "A: Mathematical Communication\nB: Mathematical Communication and Technology", "label": "B_is_subclass_of_A"}
+{"text": "A: Scientific Math\nB: Mathematics for Scientists and Engineers", "label": "B_is_subclass_of_A"}
+{"text": "A: Retail Marketing\nB: Retail Marketing Strategy (3)", "label": "B_is_subclass_of_A"}
+{"text": "A: Quality Assurance\nB: Quality Assurance II", "label": "B_is_subclass_of_A"}
+{"text": "A: Labor Relations\nB: Development of Labor Relations", "label": "B_is_subclass_of_A"}
+{"text": "A: Italian Morphology\nB: Linguistic Morphology", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Analytics\nB: Advanced Healthcare Analytics", "label": "B_is_subclass_of_A"}
+{"text": "A: Performance Measurement\nB: Performance Evaluation and Analysis", "label": "B_is_subclass_of_A"}
+{"text": "A: Science Pedagogy\nB: Elementary School Science: Content and Pedagogy", "label": "B_is_subclass_of_A"}
+{"text": "A: World Literature\nB: Studies in World Literature", "label": "B_is_subclass_of_A"}
+{"text": "A: animal ethics\nB: Animals and Us: Science, Society, Ethics", "label": "B_is_subclass_of_A"}
+{"text": "A: Credit Risk Analysis\nB: Financial Statement/Risk Analysis", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Adaptation\nB: Climate Adaptation and Nature-Based Solutions", "label": "B_is_subclass_of_A"}
+{"text": "A: balance training\nB: Principles Fitness Training", "label": "B_is_subclass_of_A"}
+{"text": "A: Food and Beverage Management\nB: Catering and Beverage Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Aeronautical Design\nB: Special Topics in Aeronautical Science", "label": "B_is_subclass_of_A"}
+{"text": "A: architectural design\nB: Architectural Design Problems", "label": "B_is_subclass_of_A"}
+{"text": "A: Optimization\nB: Methods of Optimization", "label": "B_is_subclass_of_A"}
+{"text": "A: Sustainability Policy\nB: Sustainability Politics and Policy", "label": "B_is_subclass_of_A"}
+{"text": "A: Buddhist Philosophy\nB: The Vision of Buddhism", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Management and Operations\nB: Healthcare Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Music Technology\nB: Music Technology and Production", "label": "B_is_subclass_of_A"}
+{"text": "A: Quality Assurance\nB: Quality Assurance and Control", "label": "B_is_subclass_of_A"}
+{"text": "A: Sports Medicine\nB: Intro to Sports Medicine", "label": "B_is_subclass_of_A"}
+{"text": "A: Health Education\nB: School Health Education", "label": "B_is_subclass_of_A"}
+{"text": "A: Advertising\nB: Advertising Promotion", "label": "B_is_subclass_of_A"}
+{"text": "A: Agricultural Engineering\nB: Biological and Agricultural Engineering Design II", "label": "B_is_subclass_of_A"}
+{"text": "A: Nutritional Biochemistry\nB: Biochemical Nutrition", "label": "B_is_subclass_of_A"}
+{"text": "A: Sustainability Policy\nB: Sustainability Policy and Planning", "label": "B_is_subclass_of_A"}
+{"text": "A: Microsoft 365\nB: Microsoft Office Suite", "label": "B_is_subclass_of_A"}
+{"text": "A: Child Education\nB: Family Education", "label": "B_is_subclass_of_A"}
+{"text": "A: Buddhist Philosophy\nB: Topics in Buddhist Thought", "label": "B_is_subclass_of_A"}
+{"text": "A: Intercollegiate Athletes\nB: Intercollegiate Athletics-Volleyball", "label": "B_is_subclass_of_A"}
+{"text": "A: accounting\nB: Accounting 1", "label": "B_is_subclass_of_A"}
+{"text": "A: career development\nB: Career Development and Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Retail Marketing\nB: Retail Design", "label": "B_is_subclass_of_A"}
+{"text": "A: Mathematics,\nB: Mathematical Communication", "label": "B_is_subclass_of_A"}
+{"text": "A: computational algebra\nB: Mathematics of Computer Science", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Analytics\nB: Analytics for Healthcare Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Asian Poetry\nB: Poetry of China and Japan (In English)", "label": "B_is_subclass_of_A"}
+{"text": "A: insurance economics\nB: Insurance and Risk Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Visual Studies\nB: Graphic Studies I", "label": "B_is_subclass_of_A"}
+{"text": "A: Stochastic Process\nB: Applied Stochastic Processes Ii", "label": "B_is_subclass_of_A"}
+{"text": "A: Performance Measurement\nB: Performance Improvement Measurement and Methodologies", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Systems\nB: Environmental Systems II", "label": "B_is_subclass_of_A"}
+{"text": "A: Food Preparation\nB: Techniques of Food Preparation", "label": "B_is_subclass_of_A"}
+{"text": "A: Art Therapy And Mental Health\nB: Art Therapy Research", "label": "B_is_subclass_of_A"}
+{"text": "A: Combat\nB: Modern Warfare", "label": "B_is_subclass_of_A"}
+{"text": "A: Social Entrepreneurship\nB: Social Innovation and Entrepreneurship", "label": "B_is_subclass_of_A"}
+{"text": "A: Government Systems\nB: Systems of State and Local Government", "label": "B_is_subclass_of_A"}
+{"text": "A: Sacred Activism\nB: New Religious Movements and Alternative Spiritualities", "label": "B_is_subclass_of_A"}
+{"text": "A: Food Safety\nB: Principles of Food Safety", "label": "B_is_subclass_of_A"}
+{"text": "A: clinical diagnostics\nB: Clinical Methods and Diagnostics", "label": "B_is_subclass_of_A"}
+{"text": "A: Sound Arts\nB: Audio Arts Production III", "label": "B_is_subclass_of_A"}
+{"text": "A: Landscape Archaeology\nB: Archaeology Field Project", "label": "B_is_subclass_of_A"}
+{"text": "A: Process Control\nB: Industrial Process Control", "label": "B_is_subclass_of_A"}
+{"text": "A: cosmetology\nB: Cosmetology Theory I", "label": "B_is_subclass_of_A"}
+{"text": "A: Differentiated Math Instruction\nB: Differentiated Instruction and Assessment in Mathematics", "label": "B_is_subclass_of_A"}
+{"text": "A: climate studies\nB: Climate Change Science", "label": "B_is_subclass_of_A"}
+{"text": "A: Epidemiological Research\nB: Research Topics in Epidemiology", "label": "B_is_subclass_of_A"}
+{"text": "A: Human Security\nB: Environmental Challenges and Human Security", "label": "B_is_subclass_of_A"}
+{"text": "A: Labor Relations\nB: Labor Relations and Problems", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Design\nB: Issues in Environmental Design", "label": "B_is_subclass_of_A"}
+{"text": "A: Jazz Orchestra\nB: Ensemble: Jazz Orchestra", "label": "B_is_subclass_of_A"}
+{"text": "A: animal ethics\nB: People, Ethics and Other Animals", "label": "B_is_subclass_of_A"}
+{"text": "A: Probabilistic Method\nB: Probabilistic Systems", "label": "B_is_subclass_of_A"}
+{"text": "A: Corporate Compliance\nB: Introduction to Corporate Compliance", "label": "B_is_subclass_of_A"}
+{"text": "A: Anthropology\nB: Anthropology Of Innovation", "label": "B_is_subclass_of_A"}
+{"text": "A: Administrative Law\nB: Administrative Law and Ethics", "label": "B_is_subclass_of_A"}
+{"text": "A: Assessment Strategies\nB: Assessment Techniques", "label": "B_is_subclass_of_A"}
+{"text": "A: public affairs\nB: Public Affairs and Community Relations", "label": "B_is_subclass_of_A"}
+{"text": "A: Postcolonial Studies\nB: Postcolonial Study", "label": "B_is_subclass_of_A"}
+{"text": "A: Administrative Law\nB: Administrative Law and Government Procedures", "label": "B_is_subclass_of_A"}
+{"text": "A: Effective Speaking\nB: Fundamentals of Speaking", "label": "B_is_subclass_of_A"}
+{"text": "A: Brand Development\nB: Product and Brand Development", "label": "B_is_subclass_of_A"}
+{"text": "A: Media Club\nB: Media Agency", "label": "B_is_subclass_of_A"}
+{"text": "A: building construction\nB: Building Design and Construction Practice", "label": "B_is_subclass_of_A"}
+{"text": "A: Performance Measurement\nB: Performance Analysis", "label": "B_is_subclass_of_A"}
+{"text": "A: Architectural Design\nB: Architectural Design 6", "label": "B_is_subclass_of_A"}
+{"text": "A: Visual Studies\nB: Visual Studies Thesis Seminar", "label": "B_is_subclass_of_A"}
+{"text": "A: Activism and Social Change\nB: Social Movements and Community Activism", "label": "B_is_subclass_of_A"}
+{"text": "A: insurance economics\nB: Insurance Finance", "label": "B_is_subclass_of_A"}
+{"text": "A: Government Systems\nB: Government Agencies", "label": "B_is_subclass_of_A"}
+{"text": "A: Leadership Development\nB: Leader Development", "label": "B_is_subclass_of_A"}
+{"text": "A: Postcolonial Studies\nB: Survey of Postcolonial Literature", "label": "B_is_subclass_of_A"}
+{"text": "A: building construction\nB: Building Construction Systems", "label": "B_is_subclass_of_A"}
+{"text": "A: Athletic Training/Sports Medicine\nB: Sports Medicine", "label": "B_is_subclass_of_A"}
+{"text": "A: animal ethics\nB: Animal Exploitation/International Law and Ethics", "label": "B_is_subclass_of_A"}
+{"text": "A: Retail Marketing\nB: Retailing and Consumer Science", "label": "B_is_subclass_of_A"}
+{"text": "A: Science Pedagogy\nB: Physical Science: Content and Pedagogy", "label": "B_is_subclass_of_A"}
+{"text": "A: acute care\nB: Acute Care Treatment Modalities I", "label": "B_is_subclass_of_A"}
+{"text": "A: Italian Cuisine\nB: Italian in Italy", "label": "B_is_subclass_of_A"}
+{"text": "A: African Civilization\nB: Foundations of African Civilizations", "label": "B_is_subclass_of_A"}
+{"text": "A: building construction\nB: Fundamentals of Building Construction", "label": "B_is_subclass_of_A"}
+{"text": "A: insurance economics\nB: Insurance and Financial Planning", "label": "B_is_subclass_of_A"}
+{"text": "A: Computational Sociology\nB: Sociology in a Digital World", "label": "B_is_subclass_of_A"}
+{"text": "A: Italian Morphology\nB: Italian and English Diction", "label": "B_is_subclass_of_A"}
+{"text": "A: acupuncture\nB: Complementary Health Therapies", "label": "B_is_subclass_of_A"}
+{"text": "A: Body Mind Centering\nB: Body-Mind Awareness, Breath and Movement", "label": "B_is_subclass_of_A"}
+{"text": "A: Architecture\nB: Architectural Design", "label": "B_is_subclass_of_A"}
+{"text": "A: Sustainability Seminar\nB: Seminar Env/Sustainable Studies", "label": "B_is_subclass_of_A"}
+{"text": "A: World Literature\nB: World Literatures in English", "label": "B_is_subclass_of_A"}
+{"text": "A: Gender Studies\nB: Individual Studies in Gender Studies", "label": "B_is_subclass_of_A"}
+{"text": "A: Introduction to Set Theory and Topology\nB: Metric Space Theory", "label": "B_is_subclass_of_A"}
+{"text": "A: Agricultural Science\nB: Foundations of Agriculture and Agricultural Science", "label": "B_is_subclass_of_A"}
+{"text": "A: Social Policy\nB: Social Policy in Our Lives", "label": "B_is_subclass_of_A"}
+{"text": "A: building construction\nB: Building Construction II", "label": "B_is_subclass_of_A"}
+{"text": "A: Art Foundations\nB: Art Foundations: Drawing", "label": "B_is_subclass_of_A"}
+{"text": "A: Geometric Modeling\nB: Geometric Design", "label": "B_is_subclass_of_A"}
+{"text": "A: Access Control\nB: Control System Security", "label": "B_is_subclass_of_A"}
+{"text": "A: Food and Beverage Management\nB: Food and Beverage Management I", "label": "B_is_subclass_of_A"}
+{"text": "A: Agricultural Science\nB: Agriculture Technology", "label": "B_is_subclass_of_A"}
+{"text": "A: Agricultural Science\nB: Selected Topics in Agriculture Science", "label": "B_is_subclass_of_A"}
+{"text": "A: Sacred Spaces\nB: Sacred Landscapes", "label": "B_is_subclass_of_A"}
+{"text": "A: Stage Combat\nB: Basic Stage Combat", "label": "B_is_subclass_of_A"}
+{"text": "A: Adult Primary Care\nB: Adult Primary Care Ii", "label": "B_is_subclass_of_A"}
+{"text": "A: Aboriginal Studies\nB: Native and Indigenous Peoples Studies", "label": "B_is_subclass_of_A"}
+{"text": "A: Cybersecurity Administration\nB: Cybersecurity Program Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Music Technology\nB: Music Technology (Applied)", "label": "B_is_subclass_of_A"}
+{"text": "A: Drawing and Design\nB: Drawing for Designers", "label": "B_is_subclass_of_A"}
+{"text": "A: Art History and Criticism\nB: Seminar in Art History and Criticism", "label": "B_is_subclass_of_A"}
+{"text": "A: Consumer Education\nB: Consumer Education and Personal Finance", "label": "B_is_subclass_of_A"}
+{"text": "A: Optimization\nB: Optimization Modeling", "label": "B_is_subclass_of_A"}
+{"text": "A: Advertising\nB: Advertising Sales", "label": "B_is_subclass_of_A"}
+{"text": "A: Adaptation Studies\nB: Adaptation and Human Variability", "label": "B_is_subclass_of_A"}
+{"text": "A: Art Theory II\nB: Contemporary Art Theory", "label": "B_is_subclass_of_A"}
+{"text": "A: Performance Measurement\nB: Performance Measurement and Control Systems Perspective", "label": "B_is_subclass_of_A"}
+{"text": "A: training and development\nB: Introduction to Training and Development", "label": "B_is_subclass_of_A"}
+{"text": "A: animal husbandry\nB: Companion Animal Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Systems\nB: Environmental Systems 1", "label": "B_is_subclass_of_A"}
+{"text": "A: Microsoft 365\nB: Microsoft Office", "label": "B_is_subclass_of_A"}
+{"text": "A: Nutritional Biochemistry\nB: Biochemistry Metabolism and Nutrition", "label": "B_is_subclass_of_A"}
+{"text": "A: Sports Medicine\nB: Sports Medicine 2", "label": "B_is_subclass_of_A"}
+{"text": "A: Applied Linguistics\nB: Applied Linguistics Research Methods", "label": "B_is_subclass_of_A"}
+{"text": "A: Public Health Informatics\nB: Population Health Informatics: Systematic Application to Public Health", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Policy, Ecological Economics, and Sustainability\nB: Sustainability Policy", "label": "B_is_subclass_of_A"}
+{"text": "A: Sacred Activism\nB: Creative Activism", "label": "B_is_subclass_of_A"}
+{"text": "A: Ethics in Technology\nB: Ethical Issues in Technology", "label": "B_is_subclass_of_A"}
+{"text": "A: animated art\nB: Cinema, Animation and Art", "label": "B_is_subclass_of_A"}
+{"text": "A: Community Outreach\nB: Community Outreach I", "label": "B_is_subclass_of_A"}
+{"text": "A: Language Arts\nB: Language Arts in the Middle Level", "label": "B_is_subclass_of_A"}
+{"text": "A: Art Foundations\nB: Art Foundations: Methods and Techniques", "label": "B_is_subclass_of_A"}
+{"text": "A: accessory design\nB: Exhibition Design (3)", "label": "B_is_subclass_of_A"}
+{"text": "A: Applied Linguistics\nB: Theories and Practice in Applied Linguistics", "label": "B_is_subclass_of_A"}
+{"text": "A: Retreat\nB: Retreat: Project Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Addictions\nB: Substance Abuse and Addictions", "label": "B_is_subclass_of_A"}
+{"text": "A: food chemistry\nB: Chemistry of Food and Cooking", "label": "B_is_subclass_of_A"}
+{"text": "A: Corporate Compliance\nB: Compliance", "label": "B_is_subclass_of_A"}
+{"text": "A: Recreational Therapy: Now and Then\nB: Adventure Therapy", "label": "B_is_subclass_of_A"}
+{"text": "A: Neural Networks\nB: Artificial Neural Networks", "label": "B_is_subclass_of_A"}
+{"text": "A: Stochastic Process\nB: Stochastic Process Models", "label": "B_is_subclass_of_A"}
+{"text": "A: Intercollegiate Athletes\nB: Intercollegiate Athletics: Soccer", "label": "B_is_subclass_of_A"}
+{"text": "A: Instruction in Mathematics\nB: Differentiated Math Instruction", "label": "B_is_subclass_of_A"}
+{"text": "A: Optimization\nB: Mathematical Optimization II", "label": "B_is_subclass_of_A"}
+{"text": "A: government administration\nB: Public Policy Administration", "label": "B_is_subclass_of_A"}
+{"text": "A: Consumer Education\nB: Consumer Services", "label": "B_is_subclass_of_A"}
+{"text": "A: Postcolonial Studies\nB: Studies in Postcolonialism", "label": "B_is_subclass_of_A"}
+{"text": "A: Leadership Development\nB: Leadership and Organizational Development", "label": "B_is_subclass_of_A"}
+{"text": "A: clinical diagnostics\nB: Diagnostic Testing", "label": "B_is_subclass_of_A"}
+{"text": "A: Differential Equations Instruction\nB: Computational Differential Equations", "label": "B_is_subclass_of_A"}
+{"text": "A: biology laboratory\nB: General Biology Laboratory", "label": "B_is_subclass_of_A"}
+{"text": "A: Buddhist Philosophy\nB: Indo-Tibetan Buddhist Philosophy", "label": "B_is_subclass_of_A"}
+{"text": "A: Human Security\nB: Human Security and Environmental Change", "label": "B_is_subclass_of_A"}
+{"text": "A: Information Management\nB: Information Management for Organizations", "label": "B_is_subclass_of_A"}
+{"text": "A: cosmetology\nB: Science of Cosmetology", "label": "B_is_subclass_of_A"}
+{"text": "A: Persuasive Writing\nB: Advanced Persuasive Writing", "label": "B_is_subclass_of_A"}
+{"text": "A: Labor Relations\nB: Labor Econ and Labor Relations", "label": "B_is_subclass_of_A"}
+{"text": "A: Combat\nB: Combative Ii", "label": "B_is_subclass_of_A"}
+{"text": "A: Addictions\nB: Addictive Disorders", "label": "B_is_subclass_of_A"}
+{"text": "A: Neural Networks\nB: Neural Networks for Computer Vision", "label": "B_is_subclass_of_A"}
+{"text": "A: Classical Art History\nB: Special Topics in the History of Art", "label": "B_is_subclass_of_A"}
+{"text": "A: academic skills coaching\nB: Advanced Coaching Pedagogy", "label": "B_is_subclass_of_A"}
+{"text": "A: acute care\nB: Acute Care Practice Elective I", "label": "B_is_subclass_of_A"}
+{"text": "A: american government\nB: American Government: The States", "label": "B_is_subclass_of_A"}
+{"text": "A: Gifted Child Education\nB: Education for Gifted and Talented", "label": "B_is_subclass_of_A"}
+{"text": "A: climate justice\nB: Global Climate Justice", "label": "B_is_subclass_of_A"}
+{"text": "A: Adaptation Studies\nB: Human Ecological Adaptation", "label": "B_is_subclass_of_A"}
+{"text": "A: Social Policy\nB: Social Policy and Policy Analysis", "label": "B_is_subclass_of_A"}
+{"text": "A: Video Editing\nB: Editing Film and Video", "label": "B_is_subclass_of_A"}
+{"text": "A: art humanities\nB: Introduction to Humanities and the Arts", "label": "B_is_subclass_of_A"}
+{"text": "A: government administration\nB: Administrative Politics", "label": "B_is_subclass_of_A"}
+{"text": "A: Nervous System\nB: Systems Neuroscienc", "label": "B_is_subclass_of_A"}
+{"text": "A: Combat\nB: Introduction to Fight Direction", "label": "B_is_subclass_of_A"}
+{"text": "A: Sound Arts\nB: Project I: Audio Arts", "label": "B_is_subclass_of_A"}
+{"text": "A: career development\nB: Career Development Experiences", "label": "B_is_subclass_of_A"}
+{"text": "A: Stochastic Process\nB: Probability and Stochastic Processes I", "label": "B_is_subclass_of_A"}
+{"text": "A: Matrix Geometry\nB: Matrix Computation", "label": "B_is_subclass_of_A"}
+{"text": "A: Social Policy\nB: Social Policies and Programs", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Management\nB: Healthcare Services Management", "label": "B_is_subclass_of_A"}
+{"text": "A: clinical diagnostics\nB: Diagnostics and Clinical Procedures I", "label": "B_is_subclass_of_A"}
+{"text": "A: Addictions\nB: Introduction to Addictions", "label": "B_is_subclass_of_A"}
+{"text": "A: Italian Cuisine\nB: Italy Through Ages in English: Food and Literature in Italy", "label": "B_is_subclass_of_A"}
+{"text": "A: Cybersecurity Administration\nB: Organizational Cybersecurity", "label": "B_is_subclass_of_A"}
+{"text": "A: Statistical Methods in Education\nB: Research Methodology and Statistics in Education", "label": "B_is_subclass_of_A"}
+{"text": "A: Information Management\nB: Introduction to Information Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Scientific Math\nB: Math and Physics", "label": "B_is_subclass_of_A"}
+{"text": "A: Cross Cultural Communication\nB: Exploring Cross-Cultural Communication", "label": "B_is_subclass_of_A"}
+{"text": "A: accounting\nB: Accounting and Finance", "label": "B_is_subclass_of_A"}
+{"text": "A: Stage Combat\nB: Advanced Stage Combat", "label": "B_is_subclass_of_A"}
+{"text": "A: 2D Design\nB: Basic 2D Design", "label": "B_is_subclass_of_A"}
+{"text": "A: Classical Art History\nB: The History of Art", "label": "B_is_subclass_of_A"}
+{"text": "A: Epidemiological Research\nB: Readings and Research - Epidemiology", "label": "B_is_subclass_of_A"}
+{"text": "A: Intercollegiate Athletes\nB: Intercollegiate Athletics-Soccer", "label": "B_is_subclass_of_A"}
+{"text": "A: Buddhist Meditation\nB: Meditation: Psychological and Buddhist Perspectives", "label": "B_is_subclass_of_A"}
+{"text": "A: Climate Change Policy\nB: Climate Change Law and Policy", "label": "B_is_subclass_of_A"}
+{"text": "A: Credit Risk Analysis\nB: Risk Analysis in Insurance and Finance", "label": "B_is_subclass_of_A"}
+{"text": "A: Buddhist Philosophy\nB: A Buddhist Life", "label": "B_is_subclass_of_A"}
+{"text": "A: Neurophysiology\nB: Mammalian Neurophysiology", "label": "B_is_subclass_of_A"}
+{"text": "A: Jazz Orchestra\nB: Jazz Repertory Orchestra", "label": "B_is_subclass_of_A"}
+{"text": "A: Credit Risk Analysis\nB: Risk Analysis and Financial Modeling", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Analytics\nB: Health Information and Analytics", "label": "B_is_subclass_of_A"}
+{"text": "A: Stage Combat\nB: Stage Combat and Movement II", "label": "B_is_subclass_of_A"}
+{"text": "A: Pipeline Engineering\nB: Flow in Pipe Networks", "label": "B_is_subclass_of_A"}
+{"text": "A: Art Foundations\nB: Foundations of Art I", "label": "B_is_subclass_of_A"}
+{"text": "A: retail analytics\nB: Retail Marketing", "label": "B_is_subclass_of_A"}
+{"text": "A: Advertising\nB: Advertising and Communication", "label": "B_is_subclass_of_A"}
+{"text": "A: Neural Networks\nB: Deep Learning/Neural Networks", "label": "B_is_subclass_of_A"}
+{"text": "A: building construction\nB: Construction Operations", "label": "B_is_subclass_of_A"}
+{"text": "A: Intercollegiate Athletes\nB: Intercollegiate Athletics in Higher Education", "label": "B_is_subclass_of_A"}
+{"text": "A: Performance Measurement\nB: Performance Evaluation", "label": "B_is_subclass_of_A"}
+{"text": "A: Basic French\nB: Intensive Basic French", "label": "B_is_subclass_of_A"}
+{"text": "A: Information Management\nB: Data and Information Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Research Methods for Public Administration and Policy\nB: Public Policy Research Methods", "label": "B_is_subclass_of_A"}
+{"text": "A: insurance economics\nB: Fundamentals of Insurance Planning", "label": "B_is_subclass_of_A"}
+{"text": "A: acute care\nB: Acute Care Clinical", "label": "B_is_subclass_of_A"}
+{"text": "A: Anthropology Of Innovation\nB: Economic Anthropology", "label": "B_is_subclass_of_A"}
+{"text": "A: Sacred Art\nB: Sacred Activism", "label": "B_is_subclass_of_A"}
+{"text": "A: tutoring\nB: METHODS and MATERIALS OF TUTORING", "label": "B_is_subclass_of_A"}
+{"text": "A: climate justice\nB: Climate Policy and Justice", "label": "B_is_subclass_of_A"}
+{"text": "A: Combat\nB: Warfare and Violent Conflict", "label": "B_is_subclass_of_A"}
+{"text": "A: acute care\nB: Acute Clinical", "label": "B_is_subclass_of_A"}
+{"text": "A: Stage Combat\nB: Stage Movement and Combat", "label": "B_is_subclass_of_A"}
+{"text": "A: Addictions\nB: Addictive Behaviors", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Systems\nB: Introduction to Environmental Systems", "label": "B_is_subclass_of_A"}
+{"text": "A: Labor Relations\nB: Employee and Labor Relations", "label": "B_is_subclass_of_A"}
+{"text": "A: Art Therapy And Mental Health\nB: Art Therapy in Practice", "label": "B_is_subclass_of_A"}
+{"text": "A: Gender Studies\nB: Introduction to Gender Studies", "label": "B_is_subclass_of_A"}
+{"text": "A: Combat\nB: AHistory of Military Warfare", "label": "B_is_subclass_of_A"}
+{"text": "A: Epidemiological Research\nB: Epidemiology Research Methods", "label": "B_is_subclass_of_A"}
+{"text": "A: acute care\nB: Acute Care III", "label": "B_is_subclass_of_A"}
+{"text": "A: Contemporary Art Theory\nB: Modern and Contemporary Art and Theory", "label": "B_is_subclass_of_A"}
+{"text": "A: computational algebra\nB: Computer Algebra and Programming", "label": "B_is_subclass_of_A"}
+{"text": "A: Digital Systems\nB: Digital Systems Design", "label": "B_is_subclass_of_A"}
+{"text": "A: Visual Studies\nB: Literature and Visual Studies", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Systems\nB: Principles of Environmental Systems", "label": "B_is_subclass_of_A"}
+{"text": "A: Media Club\nB: Business of Media", "label": "B_is_subclass_of_A"}
+{"text": "A: clinical diagnostics\nB: Clinical Diagnosis", "label": "B_is_subclass_of_A"}
+{"text": "A: Art Therapy And Mental Health\nB: Special Topics in Art Therapy", "label": "B_is_subclass_of_A"}
+{"text": "A: animal husbandry\nB: Animal Products", "label": "B_is_subclass_of_A"}
+{"text": "A: Basic French\nB: Begin French", "label": "B_is_subclass_of_A"}
+{"text": "A: Performance Measurement\nB: Performance Measurement and Program Evaluation", "label": "B_is_subclass_of_A"}
+{"text": "A: Retail Marketing\nB: Retail Marketing Strategy", "label": "B_is_subclass_of_A"}
+{"text": "A: Clinical Methods\nB: Clinical Methods I", "label": "B_is_subclass_of_A"}
+{"text": "A: Sacred Activism\nB: Arts and Activism", "label": "B_is_subclass_of_A"}
+{"text": "A: Mathematics Curriculum Design\nB: Specialized Curriculum in Mathematics", "label": "B_is_subclass_of_A"}
+{"text": "A: College Composition\nB: College Composition I and College Composition II", "label": "B_is_subclass_of_A"}
+{"text": "A: Agricultural Engineering\nB: Introduction to Agricultural Engineering Lab", "label": "B_is_subclass_of_A"}
+{"text": "A: Organizational Administration\nB: Business Administration", "label": "B_is_subclass_of_A"}
+{"text": "A: Occupational Medicine\nB: Occupational Health Engineering", "label": "B_is_subclass_of_A"}
+{"text": "A: Drawing and Design\nB: Design Drawing and Color", "label": "B_is_subclass_of_A"}
+{"text": "A: food chemistry\nB: Chemistry of Food Processing", "label": "B_is_subclass_of_A"}
+{"text": "A: Media Club\nB: New Media Society", "label": "B_is_subclass_of_A"}
+{"text": "A: Digital Marketing\nB: Digital Marketing Competition", "label": "B_is_subclass_of_A"}
+{"text": "A: Automotive Design\nB: Automotive Design Experience I", "label": "B_is_subclass_of_A"}
+{"text": "A: cosmetology\nB: Orientation to the Instruction of Cosmetology", "label": "B_is_subclass_of_A"}
+{"text": "A: Climate\nB: climate studies", "label": "B_is_subclass_of_A"}
+{"text": "A: Performance Measurement\nB: Performance Measurement and Analysis", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Operations\nB: Healthcare Operations and Economics", "label": "B_is_subclass_of_A"}
+{"text": "A: Sports Medicine\nB: Foundations of Sports Medicine", "label": "B_is_subclass_of_A"}
+{"text": "A: Italian Music\nB: Italian in Italy", "label": "B_is_subclass_of_A"}
+{"text": "A: Monetary Economics\nB: Financial Markets and the Monetary System", "label": "B_is_subclass_of_A"}
+{"text": "A: Corporate Compliance\nB: CORPORATE COMPLIANCE and ETHICS", "label": "B_is_subclass_of_A"}
+{"text": "A: art humanities\nB: Environmental Humanities and Art", "label": "B_is_subclass_of_A"}
+{"text": "A: Process Control\nB: Process Dynamic Control", "label": "B_is_subclass_of_A"}
+{"text": "A: clinical diagnostics\nB: Clinical Diagnostic Methods II", "label": "B_is_subclass_of_A"}
+{"text": "A: Mathematical Education\nB: Mathematics in General Education", "label": "B_is_subclass_of_A"}
+{"text": "A: female athletics\nB: Intercollegiate Athletics - Sports ? Women", "label": "B_is_subclass_of_A"}
+{"text": "A: climate justice\nB: Global Perspectives on Climate Justice", "label": "B_is_subclass_of_A"}
+{"text": "A: Second Language Pragmatics\nB: English Pragmatics", "label": "B_is_subclass_of_A"}
+{"text": "A: animal husbandry\nB: Animal Handling", "label": "B_is_subclass_of_A"}
+{"text": "A: Body Mind Centering\nB: The Body Mind Connection", "label": "B_is_subclass_of_A"}
+{"text": "A: Quality Assurance\nB: Quality Management/Assurance", "label": "B_is_subclass_of_A"}
+{"text": "A: cosmetology\nB: Introduction to Cosmetology", "label": "B_is_subclass_of_A"}
+{"text": "A: Public Health Informatics\nB: Medical and Public Health Informatics", "label": "B_is_subclass_of_A"}
+{"text": "A: Mathematical Education\nB: Mathematics Education Methods", "label": "B_is_subclass_of_A"}
+{"text": "A: Credit Risk Analysis\nB: Credit and Market Risk Fundamentals", "label": "B_is_subclass_of_A"}
+{"text": "A: accounting\nB: Corporate Accounting", "label": "B_is_subclass_of_A"}
+{"text": "A: Blues Music Theory\nB: Blues to Beyonce: A History of Rock Music", "label": "B_is_subclass_of_A"}
+{"text": "A: climate studies\nB: Introduction to Climate", "label": "B_is_subclass_of_A"}
+{"text": "A: Quality Assurance\nB: Selected Topics in Quality Assurance", "label": "B_is_subclass_of_A"}
+{"text": "A: animal ethics\nB: Next of Kin: Perspectives on Animal Ethics and Biodiversity", "label": "B_is_subclass_of_A"}
+{"text": "A: animal ethics\nB: Animal Ethics: Spiritual, Ecological, and Philosophical Perspectives", "label": "B_is_subclass_of_A"}
+{"text": "A: Politics and Government\nB: Politics", "label": "B_is_subclass_of_A"}
+{"text": "A: animal husbandry\nB: Domestic Animals", "label": "B_is_subclass_of_A"}
+{"text": "A: Politics\nB: Presidential Politics", "label": "B_is_subclass_of_A"}
+{"text": "A: climate studies\nB: Climate Ecology", "label": "B_is_subclass_of_A"}
+{"text": "A: Brand Development\nB: Studio I: Brand Development", "label": "B_is_subclass_of_A"}
+{"text": "A: climate justice\nB: Ecological Consciousness and Climate Justice", "label": "B_is_subclass_of_A"}
+{"text": "A: Art Therapy And Mental Health\nB: Art Therapy Methods", "label": "B_is_subclass_of_A"}
+{"text": "A: architectural design\nB: Architecture Design I", "label": "B_is_subclass_of_A"}
+{"text": "A: World History and Geography\nB: World Geography", "label": "B_is_subclass_of_A"}
+{"text": "A: Leadership Development\nB: Introduction to Leadership Development", "label": "B_is_subclass_of_A"}
+{"text": "A: retail analytics\nB: Retail Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Mathematical Education\nB: Teaching of Mathematics", "label": "B_is_subclass_of_A"}
+{"text": "A: american government\nB: American Federal Government", "label": "B_is_subclass_of_A"}
+{"text": "A: Adaptation Studies\nB: The Art of Adaptation", "label": "B_is_subclass_of_A"}
+{"text": "A: Combat\nB: Theory and Analysis of Combative Activities", "label": "B_is_subclass_of_A"}
+{"text": "A: animal husbandry\nB: Domestic Animal Production", "label": "B_is_subclass_of_A"}
+{"text": "A: career development\nB: Career Development in Organizations", "label": "B_is_subclass_of_A"}
+{"text": "A: Consumer Education\nB: Consumer Finance", "label": "B_is_subclass_of_A"}
+{"text": "A: biology laboratory\nB: Biology Laboratory I", "label": "B_is_subclass_of_A"}
+{"text": "A: Wellness Coaching\nB: Wellness Coaching and Program Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Health Education\nB: Health Education/Strategy", "label": "B_is_subclass_of_A"}
+{"text": "A: Gifted Child Education\nB: Teaching Gifted Learners", "label": "B_is_subclass_of_A"}
+{"text": "A: Social Entrepreneurship\nB: Social Entrepreneurship: From", "label": "B_is_subclass_of_A"}
+{"text": "A: Blues Music Theory\nB: Jazz and Blues", "label": "B_is_subclass_of_A"}
+{"text": "A: Government Systems\nB: Government Information Systems", "label": "B_is_subclass_of_A"}
+{"text": "A: Nutritional Biochemistry\nB: Nutritional Biochemistry and Metabolism", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Systems\nB: Topics in Environmental Systems", "label": "B_is_subclass_of_A"}
+{"text": "A: Food and Beverage Management\nB: Food and Beverage Outlet Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Consumer Education\nB: Colloquium in Consumer Health Education", "label": "B_is_subclass_of_A"}
+{"text": "A: Mathematics Curriculum Design\nB: Curriculum and Methods in Mathematics", "label": "B_is_subclass_of_A"}
+{"text": "A: Adaptation Studies\nB: Ecology and Adaptation", "label": "B_is_subclass_of_A"}
+{"text": "A: Food Preparation\nB: Principles of Food Preparations", "label": "B_is_subclass_of_A"}
+{"text": "A: executive mba program\nB: MBA Accounting Internship", "label": "B_is_subclass_of_A"}
+{"text": "A: Dendrochronology\nB: Dendrology", "label": "B_is_subclass_of_A"}
+{"text": "A: Nervous System\nB: Principles of Nervous System Development", "label": "B_is_subclass_of_A"}
+{"text": "A: Stochastic Process\nB: Stochastic Processes and Probability Theory I", "label": "B_is_subclass_of_A"}
+{"text": "A: Gender Studies\nB: Methods in Gender Studies", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Design\nB: Methods for Environmental Design Research", "label": "B_is_subclass_of_A"}
+{"text": "A: Social Entrepreneurship\nB: Social Entrepreneurship and Change", "label": "B_is_subclass_of_A"}
+{"text": "A: Monetary Economics\nB: Financial Markets and Monetary Economics", "label": "B_is_subclass_of_A"}
+{"text": "A: Allocation and Use of Resources\nB: Resource Allocation", "label": "B_is_subclass_of_A"}
+{"text": "A: Art History and Criticism\nB: Art Criticism and Theory", "label": "B_is_subclass_of_A"}
+{"text": "A: Child Education\nB: Whole Child Education", "label": "B_is_subclass_of_A"}
+{"text": "A: Neural Networks\nB: Deep Learning Neural Networks", "label": "B_is_subclass_of_A"}
+{"text": "A: tutoring\nB: Reading Tutor", "label": "B_is_subclass_of_A"}
+{"text": "A: Art History and Criticism\nB: Art Criticism and Analysis", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Economics\nB: Economics of Environmental Policy", "label": "B_is_subclass_of_A"}
+{"text": "A: Nutritional Biochemistry\nB: Nutrient Biochemistry and Metabolism", "label": "B_is_subclass_of_A"}
+{"text": "A: World Literature\nB: World Literature 1", "label": "B_is_subclass_of_A"}
+{"text": "A: Art Theories and Methodologies\nB: Contemporary Art Theory", "label": "B_is_subclass_of_A"}
+{"text": "A: Public Policy Research Methods\nB: Research Methods I for Policy", "label": "B_is_subclass_of_A"}
+{"text": "A: Language Arts\nB: Teaching the Language Arts", "label": "B_is_subclass_of_A"}
+{"text": "A: Applied Pragmatics\nB: English Pragmatics", "label": "B_is_subclass_of_A"}
+{"text": "A: Monetary Economics\nB: Financial Economics", "label": "B_is_subclass_of_A"}
+{"text": "A: american government\nB: American National Government", "label": "B_is_subclass_of_A"}
+{"text": "A: training and development\nB: Training and Development in Organizations", "label": "B_is_subclass_of_A"}
+{"text": "A: american government\nB: American Government: The Nation", "label": "B_is_subclass_of_A"}
+{"text": "A: tutoring\nB: Tutor Training: Advanced", "label": "B_is_subclass_of_A"}
+{"text": "A: animal husbandry\nB: Anatomy of Farm and Companion Animals I", "label": "B_is_subclass_of_A"}
+{"text": "A: Adolescent Development\nB: Young Adolescent Development", "label": "B_is_subclass_of_A"}
+{"text": "A: Community Studies and Outreach Initiatives\nB: Community Outreach", "label": "B_is_subclass_of_A"}
+{"text": "A: animated art\nB: Digital Art, Video and Animation II", "label": "B_is_subclass_of_A"}
+{"text": "A: Competitive Resource Design and Utilization\nB: Resource Allocation", "label": "B_is_subclass_of_A"}
+{"text": "A: Linguistics for Teachers\nB: Teaching Linguistics", "label": "B_is_subclass_of_A"}
+{"text": "A: accounting\nB: Accounting I", "label": "B_is_subclass_of_A"}
+{"text": "A: Postcolonial Studies\nB: Postcolonial Literature and Culture", "label": "B_is_subclass_of_A"}
+{"text": "A: Science Pedagogy\nB: Pedagogy in Math and Science Education", "label": "B_is_subclass_of_A"}
+{"text": "A: aerospace\nB: Aerospace Design I", "label": "B_is_subclass_of_A"}
+{"text": "A: Digital Systems\nB: Digital Systems I", "label": "B_is_subclass_of_A"}
+{"text": "A: Applied Analytics\nB: Applied Business Analytics I", "label": "B_is_subclass_of_A"}
+{"text": "A: Community Outreach\nB: Community Outreach Studio", "label": "B_is_subclass_of_A"}
+{"text": "A: executive mba program\nB: Internship for MBA", "label": "B_is_subclass_of_A"}
+{"text": "A: Sacred Activism\nB: Global Religious Movements", "label": "B_is_subclass_of_A"}
+{"text": "A: Media Club\nB: The Media Industry", "label": "B_is_subclass_of_A"}
+{"text": "A: Language Arts\nB: Contemporary Language Arts", "label": "B_is_subclass_of_A"}
+{"text": "A: College Composition\nB: Introduction to College Composition", "label": "B_is_subclass_of_A"}
+{"text": "A: tutoring\nB: Tutoring in Mathematics", "label": "B_is_subclass_of_A"}
+{"text": "A: Sustainability Seminar\nB: Seminar in Sustainability Science, Thought, and Approaches", "label": "B_is_subclass_of_A"}
+{"text": "A: American Culture\nB: Read American Culture", "label": "B_is_subclass_of_A"}
+{"text": "A: Talent Management\nB: Talent Management and People Analytics", "label": "B_is_subclass_of_A"}
+{"text": "A: English Semantics\nB: Programming Language Semantics", "label": "B_is_subclass_of_A"}
+{"text": "A: Combat\nB: Cyber Warfare", "label": "B_is_subclass_of_A"}
+{"text": "A: Statistics for The Behavioral Sciences\nB: Statistics in Behavioral Science Research", "label": "B_is_subclass_of_A"}
+{"text": "A: Assessment Strategies\nB: Methods of Assessment", "label": "B_is_subclass_of_A"}
+{"text": "A: American Culture\nB: Modern American Culture", "label": "B_is_subclass_of_A"}
+{"text": "A: Mathematics Curriculum Design\nB: Elementary School Mathematics Curriculum", "label": "B_is_subclass_of_A"}
+{"text": "A: College Composition\nB: College Composition W/Support", "label": "B_is_subclass_of_A"}
+{"text": "A: Politics\nB: Media Politics", "label": "B_is_subclass_of_A"}
+{"text": "A: Food Preparation\nB: Food Preparation I", "label": "B_is_subclass_of_A"}
+{"text": "A: building construction\nB: Construction Planning", "label": "B_is_subclass_of_A"}
+{"text": "A: Corporate Compliance\nB: Business Regulation and Compliance", "label": "B_is_subclass_of_A"}
+{"text": "A: Aeronautical Design\nB: Aerospace Design I", "label": "B_is_subclass_of_A"}
+{"text": "A: Health Education\nB: Health Education Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Epidemiological Research\nB: Epidemiology, Research, and Theory", "label": "B_is_subclass_of_A"}
+{"text": "A: Metric Space Theory\nB: Analysis on Metric Spaces", "label": "B_is_subclass_of_A"}
+{"text": "A: Politics\nB: Party Politics", "label": "B_is_subclass_of_A"}
+{"text": "A: american government\nB: American Government ?", "label": "B_is_subclass_of_A"}
+{"text": "A: food chemistry\nB: Advanced Food Chemistry", "label": "B_is_subclass_of_A"}
+{"text": "A: Research in Public Policy\nB: Public Policy Research Methods", "label": "B_is_subclass_of_A"}
+{"text": "A: Retail Marketing\nB: Services Retailing and Marketing", "label": "B_is_subclass_of_A"}
+{"text": "A: Politics\nB: Politics in the United States", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Systems\nB: Sustainability and Environmental Systems", "label": "B_is_subclass_of_A"}
+{"text": "A: government administration\nB: Policy Administration", "label": "B_is_subclass_of_A"}
+{"text": "A: Occupational Medicine\nB: Occupational Pharmacology", "label": "B_is_subclass_of_A"}
+{"text": "A: animal ethics\nB: Ethics in Animal Research", "label": "B_is_subclass_of_A"}
+{"text": "A: Asian Poetry\nB: East Asian Literature in Translation", "label": "B_is_subclass_of_A"}
+{"text": "A: Neural Networks\nB: Application of Neural Networks", "label": "B_is_subclass_of_A"}
+{"text": "A: animated art\nB: Art and Motion", "label": "B_is_subclass_of_A"}
+{"text": "A: Addictions\nB: Drugs and Addiction", "label": "B_is_subclass_of_A"}
+{"text": "A: Monetary Economics\nB: Money, Banking and Monetary Theory", "label": "B_is_subclass_of_A"}
+{"text": "A: 2D Design\nB: Design I-2d", "label": "B_is_subclass_of_A"}
+{"text": "A: Community Outreach\nB: Community Outreach Project III", "label": "B_is_subclass_of_A"}
+{"text": "A: Matrix Geometry\nB: Engineering Mathematics III: Matrix Algebra", "label": "B_is_subclass_of_A"}
+{"text": "A: Computational Sociology\nB: Sociology Theory", "label": "B_is_subclass_of_A"}
+{"text": "A: Agricultural Engineering\nB: Fundamentals of Agricultural Technology", "label": "B_is_subclass_of_A"}
+{"text": "A: Computational Sociology\nB: Community Sociology", "label": "B_is_subclass_of_A"}
+{"text": "A: Social Entrepreneurship\nB: Advanced Social Entrepreneurship", "label": "B_is_subclass_of_A"}
+{"text": "A: Classical Art History\nB: Concepts of Art History", "label": "B_is_subclass_of_A"}
+{"text": "A: Social Policy\nB: Social Policy Issues", "label": "B_is_subclass_of_A"}
+{"text": "A: Mathematics Curriculum Design\nB: Mathematics Curriculum and Methodology", "label": "B_is_subclass_of_A"}
+{"text": "A: Italian Cuisine\nB: Italy:Journey-Food/Culture", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Administration\nB: Hospital and Health Administration", "label": "B_is_subclass_of_A"}
+{"text": "A: acute care\nB: Fundamentals of Acute Care II", "label": "B_is_subclass_of_A"}
+{"text": "A: Brand Strategy\nB: Strategic Brand Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Art Therapy And Mental Health\nB: Art Therapy Techniques", "label": "B_is_subclass_of_A"}
+{"text": "A: Administrative Law\nB: Law in the Administrative Process", "label": "B_is_subclass_of_A"}
+{"text": "A: Linguistics for Teachers\nB: Introduction to Linguistics for Teachers", "label": "B_is_subclass_of_A"}
+{"text": "A: Adolescent Development\nB: Adolescent Development: From Puberty to Young Adulthood", "label": "B_is_subclass_of_A"}
+{"text": "A: animal ethics\nB: Animals and Ethics: Welfare, Rights, Utilitarianism, and Beyond", "label": "B_is_subclass_of_A"}
+{"text": "A: retail analytics\nB: Marketing Data Analytics", "label": "B_is_subclass_of_A"}
+{"text": "A: Linguistics for Teachers\nB: Linguistics and Grammar for Teachers", "label": "B_is_subclass_of_A"}
+{"text": "A: Human Security\nB: Human-Centered Security and Privacy", "label": "B_is_subclass_of_A"}
+{"text": "A: Biomanufacturing\nB: Quality Assurance and Validation for Biomanufacturing", "label": "B_is_subclass_of_A"}
+{"text": "A: Epidemiological Research\nB: Medical Epidemiology", "label": "B_is_subclass_of_A"}
+{"text": "A: executive mba program\nB: MBA MGMNT Info System Intern", "label": "B_is_subclass_of_A"}
+{"text": "A: Pragmatics and Language Learning\nB: English Pragmatics", "label": "B_is_subclass_of_A"}
+{"text": "A: Probability, Statistics and Stochastic Methods\nB: Probabilistic Method", "label": "B_is_subclass_of_A"}
+{"text": "A: Aboriginal Studies\nB: Introduction to Native American/Indigenous Studies", "label": "B_is_subclass_of_A"}
+{"text": "A: Intercollegiate Athletes\nB: Intercollegiate Athletics: Basketball", "label": "B_is_subclass_of_A"}
+{"text": "A: Drawing and Design\nB: Drawing for Art and Design", "label": "B_is_subclass_of_A"}
+{"text": "A: Clinical Studies\nB: Clinical Observation", "label": "B_is_subclass_of_A"}
+{"text": "A: Credit Risk Analysis\nB: Commercial Credit Analysis", "label": "B_is_subclass_of_A"}
+{"text": "A: Biomanufacturing\nB: Bioengineering", "label": "B_is_subclass_of_A"}
+{"text": "A: Scientific Math\nB: Mathematics and Science", "label": "B_is_subclass_of_A"}
+{"text": "A: Mathematics Curriculum Design\nB: Secondary Curriculum: Mathematics", "label": "B_is_subclass_of_A"}
+{"text": "A: Developing Discourse and Pragmatics Teaching Materials\nB: English Pragmatics", "label": "B_is_subclass_of_A"}
+{"text": "A: Nervous System\nB: Comparative Nervous Systems", "label": "B_is_subclass_of_A"}
+{"text": "A: Ethics in Technology\nB: Ethics and Modern Technology", "label": "B_is_subclass_of_A"}
+{"text": "A: training and development\nB: Training, Development, and Evaluation", "label": "B_is_subclass_of_A"}
+{"text": "A: Studies in Women?s and Gender Studies\nB: Gender Studies", "label": "B_is_subclass_of_A"}
+{"text": "A: Stage Combat\nB: Stage Combat: Armed", "label": "B_is_subclass_of_A"}
+{"text": "A: Matrix Geometry\nB: Linear and Matrix Algebra", "label": "B_is_subclass_of_A"}
+{"text": "A: Neurophysiology\nB: Functional Neurophysiology", "label": "B_is_subclass_of_A"}
+{"text": "A: agricultural economics\nB: Introduction to Agricultural Economics", "label": "B_is_subclass_of_A"}
+{"text": "A: Semantics and Pragmatics\nB: English Pragmatics", "label": "B_is_subclass_of_A"}
+{"text": "A: Applied Linguistics\nB: Applied German Linguistics", "label": "B_is_subclass_of_A"}
+{"text": "A: Media Club\nB: Media Sociology", "label": "B_is_subclass_of_A"}
+{"text": "A: Public Policy Research Methods\nB: Research Methods for Policy Analysis", "label": "B_is_subclass_of_A"}
+{"text": "A: Geometric Modeling\nB: 3D Modeling and Computer Graphics", "label": "B_is_subclass_of_A"}
+{"text": "A: Italian Music\nB: Italian Diction/Song Literature", "label": "B_is_subclass_of_A"}
+{"text": "A: Digital Marketing\nB: Digital Marketing and Advertising", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Economics\nB: Economics of the Environment", "label": "B_is_subclass_of_A"}
+{"text": "A: Environmental Economics\nB: Environmental Economics and Policy", "label": "B_is_subclass_of_A"}
+{"text": "A: agricultural economics\nB: Special Topics in Agricultural Economics", "label": "B_is_subclass_of_A"}
+{"text": "A: Business Law\nB: Intro to Business Law", "label": "B_is_subclass_of_A"}
+{"text": "A: Sustainability Policy\nB: Sustainability and Environmental Policy", "label": "B_is_subclass_of_A"}
+{"text": "A: Linguistics for Teachers\nB: Linguistics in the Classroom", "label": "B_is_subclass_of_A"}
+{"text": "A: Anthropology Of Innovation\nB: Socio-Economics of Innovation", "label": "B_is_subclass_of_A"}
+{"text": "A: Retail Marketing\nB: Service Organization and Retail Marketing", "label": "B_is_subclass_of_A"}
+{"text": "A: animated art\nB: Animated Films", "label": "B_is_subclass_of_A"}
+{"text": "A: Clinical Studies\nB: Clinical and Research Assessment", "label": "B_is_subclass_of_A"}
+{"text": "A: Mathematics Curriculum Design\nB: Curriculum Development in Mathematic", "label": "B_is_subclass_of_A"}
+{"text": "A: Art Foundations\nB: Digital Art Foundations I", "label": "B_is_subclass_of_A"}
+{"text": "A: Talent Management\nB: Talent Acquisition and Management", "label": "B_is_subclass_of_A"}
+{"text": "A: biology laboratory\nB: Experimental Biology Laboratory", "label": "B_is_subclass_of_A"}
+{"text": "A: Video Editing\nB: Video Production Editing", "label": "B_is_subclass_of_A"}
+{"text": "A: Administrative Law\nB: Administrative Law and Procedures", "label": "B_is_subclass_of_A"}
+{"text": "A: Healthcare Organization and Management\nB: Healthcare Management", "label": "B_is_subclass_of_A"}
+{"text": "A: Cloud Networking\nB: Network Virtualization and Cloud", "label": "B_is_subclass_of_A"}
+{"text": "A: Politics\nB: US State Politics", "label": "B_is_subclass_of_A"}
+{"text": "A: Industrial Hygiene\nB: Introduction to Industrial Hygiene", "label": "B_is_subclass_of_A"}
+{"text": "A: Combat\nB: Combat for the Stage", "label": "B_is_subclass_of_A"}
+{"text": "A: Health Education\nB: Teaching Health Education", "label": "B_is_subclass_of_A"}
+{"text": "A: Advertising\nB: Advertising Campaigns", "label": "B_is_subclass_of_A"}
+{"text": "A: Stage Combat\nB: Stage Combat 2", "label": "B_is_subclass_of_A"}
+{"text": "A: Sports Medicine\nB: Sports Medicine Selective", "label": "B_is_subclass_of_A"}
+{"text": "A: Aboriginal Studies\nB: Indigenous Sociology", "label": "B_is_subclass_of_A"}
+{"text": "A: animal husbandry\nB: Domestic Animals and People", "label": "B_is_subclass_of_A"}
+{"text": "A: Differential Equations Instruction\nB: Ordinary Differential Equations (Uc:csu:c-Id Math 240)", "label": "B_is_subclass_of_A"}
+{"text": "A: acute care\nB: Acute Care-Internal Medicine Practice", "label": "B_is_subclass_of_A"}
+{"text": "A: Visual Studies\nB: Visual Studies II", "label": "B_is_subclass_of_A"}
+{"text": "A: Public Health Informatics\nB: Principles of Public Health Informatics", "label": "B_is_subclass_of_A"}
